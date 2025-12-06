@@ -1,6 +1,7 @@
 import { NestFactory } from '@nestjs/core';
 import { ValidationPipe, BadRequestException } from '@nestjs/common';
 import { AppModule } from './app.module';
+import { UsersService } from './users/users.service';
 
 async function bootstrap() {
   try {
@@ -108,10 +109,26 @@ async function bootstrap() {
     console.log(`🌐 [6/6] Iniciando servidor na porta ${port}...`);
     await app.listen(port);
     
+    // Cria usuário padrão automaticamente após a aplicação estar pronta
+    try {
+      console.log('👤 [7/7] Criando usuário padrão...');
+      const usersService = app.get(UsersService);
+      const result = await usersService.createDefaultUser();
+      if (result.created) {
+        console.log(`✅ Usuário padrão criado automaticamente: ${result.email}`);
+      } else if (result.updated) {
+        console.log(`✅ Usuário padrão atualizado automaticamente: ${result.email}`);
+      } else {
+        console.log(`ℹ️  Usuário padrão já existe: ${result.email}`);
+      }
+    } catch (error: any) {
+      console.warn(`⚠️  Não foi possível criar usuário padrão automaticamente: ${error?.message}`);
+      console.warn(`⚠️  Você pode criar manualmente via: http://localhost:${port}/api/users/setup/default-user`);
+    }
+    
     console.log(`✅✅✅ Aplicação rodando com sucesso em: http://localhost:${port}`);
     console.log(`✅ Endpoint de health check: http://localhost:${port}/api/health`);
-    console.log(`✅ Endpoint para criar usuário padrão: http://localhost:${port}/api/users/setup/default-user`);
-    console.log(`✅ Endpoint para resetar usuário: http://localhost:${port}/api/users/setup/reset-default-user`);
+    console.log(`✅ Endpoint para criar/resetar usuário padrão: http://localhost:${port}/api/users/setup/default-user`);
   } catch (error: any) {
     console.error('❌ Erro ao iniciar aplicação:', error?.message || error);
     console.error('❌ Stack:', error?.stack);

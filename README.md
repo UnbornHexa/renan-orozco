@@ -2,6 +2,10 @@
 
 Uma aplicação full-stack completa que coleta dados meteorológicos, processa através de um sistema de filas, armazena no MongoDB e exibe em um dashboard React moderno com insights alimentados por IA e previsões futuras.
 
+## 🎥 Vídeo Demonstrativo
+
+Assista ao vídeo demonstrativo da aplicação: [https://youtu.be/QQtlQ7t_f1k](https://youtu.be/QQtlQ7t_f1k)
+
 ## 🏗️ Arquitetura
 
 A aplicação consiste em 5 serviços principais:
