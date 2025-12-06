@@ -60,7 +60,11 @@ func NewWorker() (*Worker, error) {
 		rabbitMQURL = "amqp://admin:admin123@localhost:5672"
 	}
 
-	apiURL := os.Getenv("API_URL")
+	// Try GO_WORKER_API_URL first, then fallback to API_URL
+	apiURL := os.Getenv("GO_WORKER_API_URL")
+	if apiURL == "" {
+		apiURL = os.Getenv("API_URL")
+	}
 	if apiURL == "" {
 		apiURL = "http://localhost:3000/api/weather/logs"
 	}
