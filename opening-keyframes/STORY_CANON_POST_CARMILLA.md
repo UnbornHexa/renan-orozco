@@ -84,5 +84,5 @@ At this juncture, Vesper **definitely tells Feris** what he found — he does no
 | Junko | Guardian vow: care for Feris; prevent her harming others |
 | Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ; tells Feris what he finds (no protective silence at this juncture) |
 | Makoto | Injured/hospital; shaken by imprison-Feris plan; heart vs duty; lends ID |
-| Yamato | Denies BZ role in parents’ disappearance; wants ironclad proof; proposes capture/imprison Feris |
+| Yamato | Already feared Digimon before Flight 07 (worsened by it); denies BZ role in parents’ disappearance; wants ironclad proof; proposes capture/imprison Feris — early-arc hardness toward Feris/tamers flows from that fear |
 | Tomura | Recruited into believing Yujiro’s BZ-father story; admits Yujiro to Red Thread |

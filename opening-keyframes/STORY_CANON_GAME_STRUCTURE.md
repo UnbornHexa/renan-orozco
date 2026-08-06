@@ -27,52 +27,24 @@ To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s D
 
 ## Core mystery — Feris’s parents (TRUE EVENT)
 
-### What happened
-The vanished airplane was **not destroyed**. It was **transported into the Digital World of Takamagahara**.
+**Full incident file:** `STORY_CANON_FLIGHT07_RYUGU.md` (authoritative).
 
-Feris’s parents (and others) have been trying to **go home**, but could not ignore the pleas of Digital World people for help. They remain there through necessity, duty, and unfinished crisis.
+### Summary lock
+- Parents on a **Zoodiac business trip** (Project Mir already revoked) when it happened.  
+- Takamagahara **aid ritual** (human-world call; isekai precedent before Digitokyo) reached for **someone who would help Digimon** → her parents.  
+- Amid **Susanoomon vs the General** (Magatsumon’s second-in-command).  
+- Gate opens; fight hits the crossing; **Susanoomon shields the plane with his body**; humans fall into Takamagahara.  
+- Gate destabilizes; **Tsukuyomon** seals it around the General → dark sky sphere → mutates/falls to sea as **Ryugu**.  
+- Shared sky myth point; Arc 4 enters through Ryugu and must face the General (challenge + moral choice).  
+- **Yamato** already feared Digimon; Flight 07’s Mega-level display **worsens** it → hardens early-arc attitude toward Feris and other tamers.  
+- BZ: aftermath lockdown only; never entered Digital World; not the cause.
 
-Parents are **special because of everything that happened to them** afterward (and because fate answered through them) — not because BZ had a Digital World expedition with them.
+### Arc 1 knowledge ceiling
+Flight real; lockdown; Vesper tells Feris; Mir revoked; no Ryugu/General full truth yet.
 
-### Fate / chosen (locked theme — Digimon-true)
-Do **not** sand away destiny. Digimon stories allow chosen hearts.
-
-The Takamagahara-side call / ritual that tore the sky **targeted** someone of **pure heart**, and/or someone who **loved Digimon**. Feris’s parents fit that call. The plane was caught because they were aboard when the Door answered.
-
-### Why that plane / why that day (working lock)
-1. In Takamagahara, crisis peaks; a help-rite / call is cast for a pure heart / Digimon-lover.  
-2. The Door finds that signature aboard Flight 07 — **Feris’s parents**.  
-3. Translation takes the **whole aircraft** (wide grab under Magatsu pressure / unstable rite).  
-4. Survivors witness powerful Digimon conflict in Takamagahara’s sky.  
-5. Parents choose to help; homecoming waits.  
-6. Earth-side, BZ detects a portal/Door spike from **their sensors and Digitokyo-facing systems**, fails to understand full Takamagahara truth, **revokes/keeps Project Mir buried**, locks the passenger list, and contains panic — **involved in aftermath, not the cause of the taking**.
-
-### Why were they on that flight? (decision point for Master)
-
-Their BZ research was **already revoked**. Two readable options (can combine):
-
-| Option | Pitch |
-|---|---|
-| **A — Zoodiac business (surface truth)** | They were traveling for **Zoodiac** (their conglomerate) — real meetings, real elsewhere. Fate still found them. Ordinary itinerary; destination chosen by destiny. |
-| **B — Soft tie to the wound** | Officially Zoodiac business; privately one parent was following a hunch / old Mir sensor ghost / Digimon-related charity thread that put them on that corridor that day. Still not BZ sending them. |
-| **C — Recommended blend** | **Truly Zoodiac business** on the tickets and books — and **also fated**: the call selected pure-hearted Digimon-lovers, and that day their Zoodiac route put them under the thin sky. Breadcrumbs later show the call wasn’t random; the boarding pass still says conglomerate travel. |
-
-Ikaros default until Master overrides: **C**.
-
-### Bureau Zero’s role (involved, not the cause) — corrected
-- **Cause:** Takamagahara call/ritual + Door translation answering a pure heart / Digimon love — **not** BZ snatching the plane.
-- **BZ involvement (earth-side only):** portal/Door anomaly detection from human/Digitokyo tech; information lockdown; Project Mir already dead/revoked; possible use of earth-side dampers that made return harder without ever entering Takamagahara.
-- Yamato can deny “we disappeared them” and still own the **cover-up**.
-
-### Arc 1 knowledge ceiling (breadcrumbs only)
-- Flight real; classified; manifest lockdown; Vesper tells Feris.
-- Project Mir = revoked parental portal research for BZ (Digitokyo-facing), not proof BZ walked Takamagahara.
-- No full list; no confirmed “parents alive in Takamagahara helping” yet.
-- Fate breadcrumbs later: pure-heart / Digimon-love language in Digital World testimony (Arc 4).
-
-### Later reveals
-- Mid: translated, not crashed; BZ buried it from this side.
-- Arc 4: Takamagahara; parents’ choice; why the call chose them.
+### Later
+- Mid: translated not crashed; sky-seal folklore.  
+- Arc 4: Ryugu path; General; parents.  
 - Arc 5: Magatsumon; Amaterasu.
 
 ---
@@ -130,8 +102,8 @@ Fantastic break. Best entrance: **Ryugu** (old sealed gate/palace in the sea). C
 
 ## Open details
 
-- Exact earth-side BZ damper/seal action after the spike
-- Zoodiac destination/cover details for the flight (if C)
+- General’s Digimon identity / name beyond title
+- Exact Zoodiac destination on the tickets
 - How Project Mir code still works for Feris after revocation
-- Amaterasu glimpse on day one vs legend later
+- How much of Susanoomon/Tsukuyomon myth leaks before Arc 4
 - Istina’s shape when Himiko joins

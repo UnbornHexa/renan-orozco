@@ -60,7 +60,8 @@ The battle **destabilized the Digital Gate**.
 
 - BZ did **not** cause the taking and did **not** enter Takamagahara.  
 - Earth-side sensors / Digitokyo-facing systems catch horror-scale anomaly fallout.  
-- The display of **Mega-level Digimon power** deeply marks **Yamato** with a lasting **fear of these creatures** — roots of his containment / imprison doctrine later (including toward Feris).  
+- **Yamato already feared Digimon before Flight 07** (prior incidents / doctrine forming). This event — the Mega-level display, Susanoomon/General sky war fallout — **worsens** that fear and hardens his behaviour.  
+- That worsened fear explains his early-arc attitude toward **Feris and the other children/tamers**: containment, distrust, imprison-first instincts (as with proposing to capture Feris).  
 - Manifest lockdown + Project Mir burial = covering a wound they cannot walk into.
 
 ---
@@ -80,7 +81,7 @@ In Takamagahara they try to go home, but cannot ignore Digimon/people pleading f
 | The General | Magatsumon’s second-in-command; sealed in the gate-wound |
 | Tsukuyomon | Seals the destabilized gate around the General |
 | Magatsumon | Offstage apex; General serves him |
-| Yamato | Traumatized by Mega-level display; fear shapes BZ policy |
+| Yamato | Already feared Digimon before Flight 07; Mega-level display **worsens** it and hardens early-arc attitude toward Feris and other tamers |
 
 ---
 
