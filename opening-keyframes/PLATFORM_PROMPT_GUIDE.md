@@ -133,10 +133,10 @@ END: threads converge/whip into purple-black Magatsu void
 
 ### 10 Magatsu field / torii cocoon — Luma/Runway · ~2–3s
 ```
-START: cold green field after void
-ACTION: Feris runs with spear toward black torii; red-thread cocoon throbs (Carmilla silhouette only); Magatsu looms (lacquered black wood, white ceremonial robes, crow feet, hairless gold head adornments, gentle smiling mask) before blackened sun
+START: Digicore interior (digital crimson/void sky, not outdoor sky)
+ACTION: Feris runs with spear toward black torii; red threads everywhere bind torii legs into a SOLID opaque red-thread cocoon (no Digimon/Dracmon inside); Magatsu looms (lacquered black wood, white ceremonial robes, crow feet, hairless gold head adornments, gentle smiling mask) before blackened sun
 END: cocoon throb / Magatsu presence → gold lightning crack
-Preserve: single black torii, cold temple, no extra Digimon
+Preserve: Digicore sky, single black torii, cold temple, solid cocoon, no Dracmon
 ```
 
 ### 11 Susanoomon sword up — Kling · ~2.5–3.5s
