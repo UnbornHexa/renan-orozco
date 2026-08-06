@@ -102,6 +102,8 @@ Bridge spine: **warm sunset gold → cool Bureau blue → red thread → medical
 
 ### 13e Makoto hospital file
 - **IN:** red fill resolves; hospital bay; **screens = medical vitals/charts only**
+- **Action lock:** Makoto heavily injured (Feris brutalized her) — bloodied cast/arm, facial bruises, trauma screens
+- **Screens lock:** emphasize red inner-arm trauma heatmap / fracture / contusion maps; no Bureau Zero logos on monitors
 - **OUT:** RESTRICTED stamp on the file pulses red (screens stay medical)
 - **Carry:** red pulse → 13f Project Mir alerts
 
