@@ -35,6 +35,8 @@ Feris worries the others will be mad at her for not telling them. Yujiro dismiss
 
 Feris did not mean to keep it from them — she simply did not know how to bring it up, and they did not pry either. She had been led to believe friends would just barge in and ask about her life; because they never did, she did not push it onto them, expecting them to ask first.
 
+Yujiro says they are **sorry for not asking** — they were only being mindful of her. He eventually realizes Feris **craves** that closeness and does **not** fear them approaching. He promises they will **barge into her life more**.
+
 ---
 
 ## 4. Makoto, Yamato, and the crack in Bureau Zero
@@ -66,7 +68,7 @@ Makoto ultimately **agrees** to lend it to him, even though it will put her life
 | Character | Canon beat |
 |---|---|
 | Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath; wakes to Yujiro; feared friends’ anger over silence |
-| Yujiro | False BZ vendetta; joins Red Thread via Tomura to stay near Feris; bedside truth-teller (Chernobog’s account); reassures Feris the others were worried, not angry |
+| Yujiro | False BZ vendetta; joins Red Thread via Tomura to stay near Feris; bedside truth-teller (Chernobog’s account); reassures Feris the others were worried, not angry; apologizes for not prying; promises they will barge into her life more |
 | Chernobog | Explains Feris’s condition to Yujiro |
 | Junko | Guardian vow: care for Feris; prevent her harming others |
 | Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ |
