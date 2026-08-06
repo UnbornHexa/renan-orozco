@@ -20,8 +20,12 @@ Feris does **not** have innate Digicore-related powers.
 
 To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s Digicore**, with her **mother’s code for opening portals** — code her mother created for Bureau Zero on **Project Mir**.
 
-- Canon project name: **Project Mir** (OP stills / Sato beat use this name).
-- By the time of the vanished flight, the parents’ research for BZ had **already been revoked** (Project Mir files reflect shutdown / failure / revocation).
+### Project Mir — what Feris already knows (locked)
+- **Project Mir** = the project her parents were part of (BZ earth-side portal work toward Digitokyo; beyond failed).
+- Feris **already knows about Project Mir** before Vesper’s Arc 1 infiltrate.
+- Delivery beat: her **home lab** gave her a **locked folder** when she introduced an **Item Disk** into it — that is her Mir inheritance/knowledge path.
+- Therefore Vesper’s BZ victory is **not** “discovering Project Mir.” She does not need him for Mir 101. He must bring something **she does not already have**.
+- By flight time, parents’ Mir research for BZ had **already been revoked** (files/status).
 
 ---
 
@@ -40,7 +44,23 @@ To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s D
 - BZ: aftermath lockdown only; never entered Digital World; not the cause.
 
 ### Arc 1 knowledge ceiling
-Flight real; lockdown; Vesper tells Feris; Mir revoked; no Ryugu/General full truth yet.
+Flight real; lockdown; Vesper tells Feris; no Ryugu/General full truth yet.  
+**Not** a Mir discovery beat — Feris already has Mir from the home-lab Item Disk folder.
+
+### Vesper Arc 1 BZ victory (locked intent)
+Character beat: Vesper **stops planning and acts** for a friend who needs help. He must leave with a **concrete trophy** + a **lead to pursue** — a real win, not “I hit a wall.”
+
+**He does not “find Project Mir.”** She already knows Mir.
+
+**Concrete trophy (what Feris does not already have):**
+- Stolen/copied proof the **vanished flight is a BZ DIGITAL HAZARD / portal-event case** under Yamato lockdown
+- Concrete proof her **parents were on that flight** (e.g. Zoodiac travel cross-ref / embarkation crumb) — without the full passenger manifest
+- Something physical or pocketed she can see (drive / print / dump)
+
+**Lead (what he pursues next):**
+- A pointer inside the flight case to a **next target outside the main vault** — e.g. incomplete purge, secondary sensor archive, Digitokyo-facing relay log, or named holding site for sky-anomaly data — so the story continues immediately after he reports to Feris
+
+**Still sealed for later:** full manifest, Ryugu, General, Susanoomon truth, parents alive in Takamagahara.
 
 ### Later
 - Mid: translated not crashed; sky-seal folklore.  

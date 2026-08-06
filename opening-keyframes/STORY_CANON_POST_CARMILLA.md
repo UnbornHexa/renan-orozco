@@ -66,11 +66,14 @@ Vesper requests Makoto’s **ID** so he can infiltrate Bureau Zero better and fi
 
 Makoto ultimately **agrees** to lend it to him, even though it will put her life at risk.
 
-### What Vesper finds (Arc 1 — locked amount)
-Vesper does **not** obtain the full vanished-airplane passenger list (still lockdown / Yamato-level seal). He can confirm the case exists, that it is Door/Digital-adjacent classified, that the manifest is sealed, and that BZ’s open line denies involvement without showing proof.
+### Project Mir (Feris already has this)
+Feris already knows **Project Mir** (parents’ BZ project). Her **home lab** delivered a **locked folder** when she used an **Item Disk** there. Vesper’s infiltrate is **not** a Mir reveal.
+
+### What Vesper finds (Arc 1 — victory + lead)
+He does **not** get the full passenger list (Yamato lockdown). He **does** leave with a concrete win: stolen proof the vanished flight is a BZ digital-hazard case, plus concrete proof her parents were aboard (without full manifest), and a **lead** to chase next (secondary archive / incomplete purge / sensor site — exact name TBD). Character beat: he stops planning and **acts** for Feris.
 
 ### Vesper tells Feris (locked)
-At this juncture, Vesper **definitely tells Feris** what he found — he does not withhold it to “protect” her. She hears from him that the parent/flight trail is real and locked down inside Bureau Zero, which feeds her urgency and distrust even without the full list.
+He **tells Feris**, brings her the concrete proof, and the lead becomes the next pursuit.
 
 ---
 
