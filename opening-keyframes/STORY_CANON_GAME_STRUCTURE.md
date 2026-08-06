@@ -51,30 +51,37 @@ Flight real; lockdown; Vesper tells Feris; no Ryugu/General full truth yet.
 - Mother: **Anastasia**
 - Father: **Mikhail**
 
-### The Digimon backup (locked — good karma)
-While Bureau Zero was transferring/snatching research (including material Feris’s home lab later notes as taken — **DSC** and **Stillness** related), a **Digimon** quietly saved what it could of **Anastasia and Mikhail’s** work elsewhere.
+### The Digimon backup — Hagurumon (locked — good karma)
+**Species:** **Hagurumon** (classic machine Digimon; research helper).
 
-- Anastasia and Mikhail **did not know**.
-- It is **good karma**: something Digimon-side protected their research from being fully erased by BZ.
-- Feris’s lab files say BZ took all research related to **DSC and Stillness** — those (or a meaningful remnant) survive with this Digimon’s cache.
-- This is the true “mother’s backup kept elsewhere through time,” but the keeper is a Digimon, not a cold server alone.
+Anastasia & Mikhail once **saved** this Hagurumon; it became their **research assistant**. When Bureau Zero transferred/snatched their work (including **DSC** and **Stillness** materials Feris’s lab says were taken), Hagurumon secretly saved what it could elsewhere. The parents **did not know** it made that backup.
 
-### Vesper Arc 1 BZ victory (locked intent)
-Character beat: Vesper **stops planning and acts** for a friend who needs help. He must leave with a **concrete trophy** + a **lead to pursue** — a real win, not “I hit a wall.”
+**PIN (Arc 2):** Hagurumon hid under the protection of **one of the Six Rulers’ courts** in Digitokyo. Rulers not defined yet — pin only.
 
-**He does not “find Project Mir.”** She already knows Mir (home lab + Item Disk locked folder).
+### What Bureau Zero knows about Hagurumon (locked)
+- BZ **knew** Anastasia & Mikhail had a Digimon research assistant (**Hagurumon**).
+- During/after the seizure they **searched and found it nowhere**.
+- They do **not** have a clean current location — the trail went cold (not “we know the court but can’t enter”).
+- Internal files flag: assistant Digimon / data discrepancy / **MISSING / NOT RECOVERED**.
 
-**Concrete trophy (what Feris does not already have):**
-- Stolen/copied proof the **vanished flight is a BZ DIGITAL HAZARD / portal-event case** under Yamato lockdown
-- Concrete proof **Anastasia and Mikhail were on that flight** (e.g. Zoodiac travel cross-ref / embarkation crumb) — without the full passenger manifest
-- Something physical or pocketed she can see (drive / print / dump)
+### Vesper Arc 1 BZ victory (locked)
+Character beat: Vesper **stops planning and acts** for Feris. Real win: **concrete trophy + lead**.
 
-**Lead (what he pursues next):**
-- BZ crumbs / incomplete purge point toward research that “should be gone” but isn’t fully accounted for — the trail leads to the **Digimon that saved Anastasia & Mikhail’s files** (DSC / Stillness remnants and whatever else it rescued).
-- After Vesper reports to Feris, the next pursuit is finding / meeting that Digimon and recovering the backup.
+**Not a Mir reveal** — she already has Mir (home lab + Item Disk locked folder).
 
-**Still sealed for later:** full manifest, Ryugu, General, Susanoomon truth, parents alive in Takamagahara.  
-**Open:** the Digimon’s species / name / why it chose to save their work.
+**What he brings back to Feris (trophy):**
+1. Copied **flight incident packet** — vanished flight = BZ **DIGITAL HAZARD / portal event**, Yamato lockdown (holdable).
+2. Concrete proof **Anastasia & Mikhail were aboard** (Zoodiac travel / embarkation crumb) — **not** the full passenger list.
+3. Seizure inventory notes: **Hagurumon** research assistant logged **MISSING / NOT RECOVERED**; DSC/Stillness marked seized; data accounting still short.
+
+**How he learns about Hagurumon from BZ files:**
+- Flight case → parents → Mir seizure inventory.
+- Line item: Digimon assistant Hagurumon — never recovered after the snatch.
+- Optional: last earth-side / Digitokyo-facing ping, then silence (no Ruler name).
+
+**Lead:** find the missing **Hagurumon** (true refuge in a Six Rulers court = Arc 2 pin).
+
+**Still sealed:** full manifest, Ryugu, General, Susanoomon full truth, parents alive in Takamagahara.
 
 ### Later
 - Mid: translated not crashed; sky-seal folklore.  

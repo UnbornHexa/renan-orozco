@@ -69,14 +69,17 @@ Makoto ultimately **agrees** to lend it to him, even though it will put her life
 ### Project Mir (Feris already has this)
 Feris already knows **Project Mir** (parents’ BZ project — **Anastasia** & **Mikhail**). Her **home lab** delivered a **locked folder** when she used an **Item Disk** there. Vesper’s infiltrate is **not** a Mir reveal. Lab notes: BZ took research related to **DSC** and **Stillness**.
 
-### Digimon backup (locked)
-A Digimon secretly saved what it could of Anastasia & Mikhail’s research while BZ was transferring/snatching it. The parents never knew. That cache can hold DSC/Stillness files (and more). Good karma; Vesper’s post-BZ **lead**.
+### Hagurumon backup (locked)
+Parents once **saved** a **Hagurumon**; it became their research assistant. When BZ seized Mir-related research (DSC/Stillness etc.), Hagurumon secretly rescued a backup. Parents never knew.  
+BZ **knew** about the assistant and **found it nowhere**.  
+**PIN:** true refuge = a **Six Rulers** court (rulers TBD, Arc 2).
 
-### What Vesper finds (Arc 1 — victory + lead)
-He does **not** get the full passenger list (Yamato lockdown). He **does** leave with a concrete win: stolen proof the vanished flight is a BZ digital-hazard case, plus concrete proof Anastasia & Mikhail were aboard (without full manifest), and a lead toward the **Digimon-held backup**. Character beat: he stops planning and **acts** for Feris.
+### What Vesper brings Feris (Arc 1 victory)
+1. Flight packet — digital-hazard case, Yamato lockdown (holdable copy).  
+2. Proof Anastasia & Mikhail were on that flight (not full manifest).  
+3. Seizure file crumb: **Hagurumon** assistant logged **MISSING / NOT RECOVERED**; data still short → lead to find Hagurumon.  
 
-### Vesper tells Feris (locked)
-He **tells Feris**, brings her the concrete proof, and the Digimon-backup trail becomes the next pursuit.
+He **tells her**, hands her the proof, and the next hunt is the missing Hagurumon.
 
 ---
 
