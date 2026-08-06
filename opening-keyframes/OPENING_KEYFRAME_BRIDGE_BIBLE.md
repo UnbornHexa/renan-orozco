@@ -61,7 +61,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 
 ### 10 Magatsu Digicore / torii cocoon
 - **IN:** purple-black void from converging threads resolves into Digicore interior
-- **Action lock:** **inside Digicore** (digital crimson/void sky, not normal outdoors); green Digicore field; **one black torii** before cold temple; **red threads everywhere**, binding torii legs and forming a **solid opaque red-thread cocoon** (NO Digimon/Dracmon silhouette inside); colossal Magatsu (lacquered black wood, ceremonial white robes, crow feet, hairless gold-adorned head, gentle smiling old Japanese mask) with **blackened sun**; Feris runs toward it with the **spear** (future sword)
+- **Action lock:** **inside Digicore** (digital crimson/void sky, not normal outdoors); green Digicore field; **one black torii** before cold temple; **red threads everywhere**, binding torii legs and forming a **solid opaque red-thread cocoon** (NO Digimon/Dracmon silhouette inside); colossal Magatsu Digimon (lacquered black-wood totem/creature chassis — Digimon-coded not human; ceremonial white Digimon vestments; crow Digimon talons/feet; hairless gold Digimon crest; gentle smiling Noh-like Digimon faceplate) with **blackened sun**; Feris runs toward it with the **spear** (future sword)
 - **OUT:** cocoon throb / Magatsu presence → Susanoomon gold lightning
 - **Motif:** Digicore crimson + blackened sun + red threads
 
