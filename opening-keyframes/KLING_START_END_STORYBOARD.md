@@ -12,15 +12,28 @@ We use that to **chain** the OP: each snippet’s **END** is the next snippet’
 
 Kling must morph A → B. Prompt describes the motion **between** them and the bridge motif (light/color) from the Bridge Bible.
 
+## Music lock — 150 BPM (hyped OP)
+
+The OP track is **~150 BPM** → energetic, not sleepy.
+
+| Fact | Use in prompts |
+|---|---|
+| 150 BPM | ~2.5 beats/sec; a 5s Kling clip ≈ **12–13 beats** |
+| Camera | dive / whip / smash / rush — **not** slow drift or gentle push-in as default |
+| Cuts | hit the bridge flare/eye/shatter **hard** near the end so the next still feels like a downbeat |
+| Exceptions | Only **12→13** (Carmilla freed → sunset) and **14** title may breathe slightly softer — still keep tempo, just warmer |
+
+**Avoid in prompts:** “slow”, “gentle”, “barely-there”, “tiny push-in” (unless Master overrides for a specific emotional beat).
+
 ### Exceptions
-- **Last snippet (14):** START = 14, END = 14 (or 14 with softer title hold / slight push). No next still.
+- **Last snippet (14):** START = 14, END = 14 (title hold with light pulse on the beat). No next still.
 - If a jump is too violent and Kling melts characters, generate a **bridge end still** (same scene as START, OUT motif only) and use that as END; next snippet still STARTs on the next locked still. Prefer chain-to-next first.
 
 ### Kling settings (default)
 - Model: 3.0  
 - 720p · **5s** · 16:9 · **1** sample  
-- Native Audio: **OFF**  
-- Prompt: one motion + “match start and end frames exactly; do not redesign characters”
+- Native Audio: **OFF** (we cut to the real 150 BPM track in edit)  
+- Prompt: energetic motion + start/end frame lock + “do not redesign characters”
 
 ---
 
@@ -30,7 +43,7 @@ Still folder: `Beyond_the_Door_OP_Locked_Keyframes/stills/`
 
 | Snippet | START frame | END frame | Bridge motif (prompt must hit) |
 |---|---|---|---|
-| **01** | `01_phone_reflection.png` | `02_feris_lab_chernobog.png` | phone white-blue flare → lab cool light |
+| **01** | `01_phone_reflection.png` | `02_feris_lab_chernobog.png` | **dive into phone** → white-blue smash → lab (150 BPM hype) |
 | **02** | `02_feris_lab_chernobog.png` | `03_vesper_investigation.png` | Chernobog yellow eye flash → monitor blue |
 | **03** | `03_vesper_investigation.png` | `04_partner_wireframes_gate.png` | data streaks → cyan gate |
 | **04** | `04_partner_wireframes_gate.png` | `05_hushed_wonder_tuskmon.png` | gate open → gold-green wonder |
@@ -52,19 +65,34 @@ Still folder: `Beyond_the_Door_OP_Locked_Keyframes/stills/`
 
 ---
 
-## Prompt shell for every chained snippet
+## Prompt shell for every chained snippet (150 BPM)
 
 ```
 Image-to-video using the given START and END frames.
 Begin exactly on the start frame. End exactly on the end frame.
-Animate a continuous Digimon Story anime OP transition between them.
-Bridge: [motif from table].
-Keep character designs, wardrobe, Digimon species, and composition locked to the frames.
-Subtle cinematic motion; do not redesign faces, add extra characters, or invent logos.
-Native audio off.
+150 BPM anime opening energy: fast, hyped, exciting — not slow or sleepy.
+Animate a continuous Digimon Story OP transition between the frames.
+Bridge action: [motif / dive-whip-smash from table].
+Match start and end compositions hard. Keep characters, wardrobe, Digimon locked.
+Do not redesign faces, add extra characters, or invent logos.
 ```
 
-Fill `[motif from table]` per row. Add one line of beat-specific action from the Bridge Bible if needed (e.g. “Junko restrains Feris; Devidramon eyes bloom”).
+---
+
+## Ready prompt — KF01 → KF02 (start here)
+
+**START:** `01_phone_reflection.png`  
+**END:** `02_feris_lab_chernobog.png`
+
+```
+Image-to-video using these START and END frames.
+Begin exactly on the phone reflection night shot. End exactly on the Feris lab / Chernobog shot.
+150 BPM hyped Digimon anime OP energy — exciting and urgent, NOT slow.
+Phone screen pulses bright; camera RUSHES and DIVES into the phone glass / screen like a warp.
+White-blue digital flare smash as we punch through the reflection into the cool lab.
+Resolve cleanly into the end frame: Feris in the lab with Chernobog’s shadow.
+Keep both frames’ designs locked. No extra characters, no logo inventing, no sleepy camera drift.
+```
 
 ---
 
@@ -77,11 +105,11 @@ Generate in chain order when possible so you can **watch continuity** as you go:
 **Pass C:** foreshadow 13c→13d→13e→13f→13g  
 
 If a pair fails (melt / ignore end frame):  
-1. Retry once with stronger “END FRAME LOCK” language.  
+1. Retry once with stronger “END FRAME LOCK” language (keep 150 BPM energy).  
 2. Only then bake a dedicated OUT still for that beat.
 
 ---
 
 ## Foreshadow pack note
 
-13→13g are short in the final edit (~0.8–1.5s), but Kling can still render **5s**; trim in the timeline. The start/end chain still applies so flashes smash correctly.
+13→13g are short in the final edit (~0.8–1.5s on a 150 BPM grid — often 2–4 beats), but Kling can still render **5s**; trim on the downbeats in the timeline. The start/end chain still applies so flashes smash correctly.
