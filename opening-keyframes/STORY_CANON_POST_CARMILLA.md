@@ -67,13 +67,16 @@ Vesper requests Makoto’s **ID** so he can infiltrate Bureau Zero better and fi
 Makoto ultimately **agrees** to lend it to him, even though it will put her life at risk.
 
 ### Project Mir (Feris already has this)
-Feris already knows **Project Mir** (parents’ BZ project). Her **home lab** delivered a **locked folder** when she used an **Item Disk** there. Vesper’s infiltrate is **not** a Mir reveal.
+Feris already knows **Project Mir** (parents’ BZ project — **Anastasia** & **Mikhail**). Her **home lab** delivered a **locked folder** when she used an **Item Disk** there. Vesper’s infiltrate is **not** a Mir reveal. Lab notes: BZ took research related to **DSC** and **Stillness**.
+
+### Digimon backup (locked)
+A Digimon secretly saved what it could of Anastasia & Mikhail’s research while BZ was transferring/snatching it. The parents never knew. That cache can hold DSC/Stillness files (and more). Good karma; Vesper’s post-BZ **lead**.
 
 ### What Vesper finds (Arc 1 — victory + lead)
-He does **not** get the full passenger list (Yamato lockdown). He **does** leave with a concrete win: stolen proof the vanished flight is a BZ digital-hazard case, plus concrete proof her parents were aboard (without full manifest), and a **lead** to chase next (secondary archive / incomplete purge / sensor site — exact name TBD). Character beat: he stops planning and **acts** for Feris.
+He does **not** get the full passenger list (Yamato lockdown). He **does** leave with a concrete win: stolen proof the vanished flight is a BZ digital-hazard case, plus concrete proof Anastasia & Mikhail were aboard (without full manifest), and a lead toward the **Digimon-held backup**. Character beat: he stops planning and **acts** for Feris.
 
 ### Vesper tells Feris (locked)
-He **tells Feris**, brings her the concrete proof, and the lead becomes the next pursuit.
+He **tells Feris**, brings her the concrete proof, and the Digimon-backup trail becomes the next pursuit.
 
 ---
 

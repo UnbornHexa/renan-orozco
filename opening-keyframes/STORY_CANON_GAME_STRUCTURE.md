@@ -47,20 +47,34 @@ To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s D
 Flight real; lockdown; Vesper tells Feris; no Ryugu/General full truth yet.  
 **Not** a Mir discovery beat — Feris already has Mir from the home-lab Item Disk folder.
 
+### Parents’ names (locked)
+- Mother: **Anastasia**
+- Father: **Mikhail**
+
+### The Digimon backup (locked — good karma)
+While Bureau Zero was transferring/snatching research (including material Feris’s home lab later notes as taken — **DSC** and **Stillness** related), a **Digimon** quietly saved what it could of **Anastasia and Mikhail’s** work elsewhere.
+
+- Anastasia and Mikhail **did not know**.
+- It is **good karma**: something Digimon-side protected their research from being fully erased by BZ.
+- Feris’s lab files say BZ took all research related to **DSC and Stillness** — those (or a meaningful remnant) survive with this Digimon’s cache.
+- This is the true “mother’s backup kept elsewhere through time,” but the keeper is a Digimon, not a cold server alone.
+
 ### Vesper Arc 1 BZ victory (locked intent)
 Character beat: Vesper **stops planning and acts** for a friend who needs help. He must leave with a **concrete trophy** + a **lead to pursue** — a real win, not “I hit a wall.”
 
-**He does not “find Project Mir.”** She already knows Mir.
+**He does not “find Project Mir.”** She already knows Mir (home lab + Item Disk locked folder).
 
 **Concrete trophy (what Feris does not already have):**
 - Stolen/copied proof the **vanished flight is a BZ DIGITAL HAZARD / portal-event case** under Yamato lockdown
-- Concrete proof her **parents were on that flight** (e.g. Zoodiac travel cross-ref / embarkation crumb) — without the full passenger manifest
+- Concrete proof **Anastasia and Mikhail were on that flight** (e.g. Zoodiac travel cross-ref / embarkation crumb) — without the full passenger manifest
 - Something physical or pocketed she can see (drive / print / dump)
 
 **Lead (what he pursues next):**
-- A pointer inside the flight case to a **next target outside the main vault** — e.g. incomplete purge, secondary sensor archive, Digitokyo-facing relay log, or named holding site for sky-anomaly data — so the story continues immediately after he reports to Feris
+- BZ crumbs / incomplete purge point toward research that “should be gone” but isn’t fully accounted for — the trail leads to the **Digimon that saved Anastasia & Mikhail’s files** (DSC / Stillness remnants and whatever else it rescued).
+- After Vesper reports to Feris, the next pursuit is finding / meeting that Digimon and recovering the backup.
 
-**Still sealed for later:** full manifest, Ryugu, General, Susanoomon truth, parents alive in Takamagahara.
+**Still sealed for later:** full manifest, Ryugu, General, Susanoomon truth, parents alive in Takamagahara.  
+**Open:** the Digimon’s species / name / why it chose to save their work.
 
 ### Later
 - Mid: translated not crashed; sky-seal folklore.  

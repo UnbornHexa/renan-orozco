@@ -76,7 +76,7 @@ In Takamagahara they try to go home, but cannot ignore Digimon/people pleading f
 
 | Name | Role in Flight 07 |
 |---|---|
-| Feris’s parents | Zoodiac business trip; chosen by aid-ritual as Digimon-helpers; fall to Takamagahara |
+| **Anastasia** & **Mikhail** (Feris’s parents) | Zoodiac business trip; chosen by aid-ritual as Digimon-helpers; fall to Takamagahara; their research partly saved in secret by a Digimon when BZ snatched Mir/DSC/Stillness materials |
 | Susanoomon | Protects the plane with his body |
 | The General | Magatsumon’s second-in-command; sealed in the gate-wound |
 | Tsukuyomon | Seals the destabilized gate around the General |
