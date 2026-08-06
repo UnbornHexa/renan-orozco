@@ -25,7 +25,19 @@ His father was a deadbeat who left his mother. The Bureau Zero hatred is **made 
 
 ---
 
-## 3. Makoto, Yamato, and the crack in Bureau Zero
+## 3. Feris wakes — Yujiro at her side
+
+Feris wakes in the hospital with **Yujiro** beside her. They have a deep talk.
+
+Yujiro explains that **Chernobog told him everything**.
+
+Feris worries the others will be mad at her for not telling them. Yujiro dismisses that: they were **more worried than angry or disappointed**.
+
+Feris did not mean to keep it from them — she simply did not know how to bring it up, and they did not pry either. She had been led to believe friends would just barge in and ask about her life; because they never did, she did not push it onto them, expecting them to ask first.
+
+---
+
+## 4. Makoto, Yamato, and the crack in Bureau Zero
 
 **Timing note:** Makoto had **already** talked with **Yamato** (who visited her in the hospital) **before** Vesper’s visit the following day.
 
@@ -53,8 +65,8 @@ Makoto ultimately **agrees** to lend it to him, even though it will put her life
 
 | Character | Canon beat |
 |---|---|
-| Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath |
-| Yujiro | False BZ vendetta; joins Red Thread via Tomura to stay near Feris |
+| Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath; wakes to Yujiro; feared friends’ anger over silence |
+| Yujiro | False BZ vendetta; joins Red Thread via Tomura to stay near Feris; bedside truth-teller (Chernobog’s account); reassures Feris the others were worried, not angry |
 | Chernobog | Explains Feris’s condition to Yujiro |
 | Junko | Guardian vow: care for Feris; prevent her harming others |
 | Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ |
