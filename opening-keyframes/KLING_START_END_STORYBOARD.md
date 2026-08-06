@@ -12,18 +12,19 @@ We use that to **chain** the OP: each snippet’s **END** is the next snippet’
 
 Kling must morph A → B. Prompt describes the motion **between** them and the bridge motif (light/color) from the Bridge Bible.
 
-## Music lock — 150 BPM (hyped OP)
+## Music lock — 150 BPM (upbeat OP, not flat throttle)
 
-The OP track is **~150 BPM** → energetic, not sleepy.
+The OP track is **~150 BPM**. That means the piece is always **alive** — but **not** full throttle every second.
 
-| Fact | Use in prompts |
-|---|---|
-| 150 BPM | ~2.5 beats/sec; a 5s Kling clip ≈ **12–13 beats** |
-| Camera | dive / whip / smash / rush — **not** slow drift or gentle push-in as default |
-| Cuts | hit the bridge flare/eye/shatter **hard** near the end so the next still feels like a downbeat |
-| Exceptions | Only **12→13** (Carmilla freed → sunset) and **14** title may breathe slightly softer — still keep tempo, just warmer |
+| Gear | When | Camera / energy in prompts |
+|---|---|---|
+| **Hype** | Action, smash bridges, 01 dive, 07–11, foreshadow hits | dive / whip / rush / shatter on the beat |
+| **Upbeat** | Most “quieter” story beats (02–06, 12–13, hospital/foreshadow) | forward motion, light pulse, confident move — **never sleepy** |
+| **Hold** | Title card 14, brief emotional landings | still upbeat pulse / breath on tempo — not dead static |
 
-**Avoid in prompts:** “slow”, “gentle”, “barely-there”, “tiny push-in” (unless Master overrides for a specific emotional beat).
+**Rule:** even soft scenes stay **upbeat** (tempo in the body of the shot). Save true smash energy for hype bridges.  
+**Avoid as default:** “slow drift”, “barely-there”, “sleepy”, “gentle float”.  
+**OK when earned:** warmer, less violent motion — still with 150 BPM life.
 
 ### Exceptions
 - **Last snippet (14):** START = 14, END = 14 (title hold with light pulse on the beat). No next still.
