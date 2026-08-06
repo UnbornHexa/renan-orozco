@@ -59,10 +59,11 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 - **OUT:** red threads converge / whip → Magatsu void purple-black
 - **Motif:** red thread
 
-### 10 Carmilla / Magatsu
-- **IN:** purple-black void from converging threads
-- **OUT:** Carmilla / core light spikes → Susanoomon gold lightning
-- **Motif:** void purple
+### 10 Magatsu field / torii cocoon
+- **IN:** purple-black void from converging threads resolves into cold green field
+- **Action lock:** green field; **one black torii** before a cold temple; red-thread cocoon (Carmilla silhouette only) amidst torii; colossal Magatsu (lacquered black wood body, ceremonial white robes, crow feet, hairless gold-adorned head, gentle smiling old Japanese mask) with **blackened sun**; Feris runs toward it with the **spear** (future sword)
+- **OUT:** cocoon throb / Magatsu presence → Susanoomon gold lightning
+- **Motif:** cold green + blackened sun + red cocoon
 
 ### 11 Susanoomon / Feris sword up
 - **IN:** gold lightning crack from 10
@@ -71,6 +72,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 
 ### 12 Carmilla freed
 - **IN:** gold whiteout settles into soft release light on Carmilla
+- **Action lock:** Carmilla + Dracmon in red-thread nest; **no extra flying creature** in background
 - **OUT:** warm release softens into golden sunset wash (into 13)
 - **Motif:** freed light / hope flash then settle
 

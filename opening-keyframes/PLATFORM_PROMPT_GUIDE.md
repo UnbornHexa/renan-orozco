@@ -131,11 +131,12 @@ ACTION: threads pull taut between pairs; wind in coats
 END: threads converge/whip into purple-black Magatsu void
 ```
 
-### 10 Carmilla / Magatsu — Luma/Runway · ~2–3s
+### 10 Magatsu field / torii cocoon — Luma/Runway · ~2–3s
 ```
-START: purple-black void
-ACTION: Carmilla/core pulse; Magatsu energy coils
-END: core light spikes → gold lightning crack
+START: cold green field after void
+ACTION: Feris runs with spear toward black torii; red-thread cocoon throbs (Carmilla silhouette only); Magatsu looms (lacquered black wood, white ceremonial robes, crow feet, hairless gold head adornments, gentle smiling mask) before blackened sun
+END: cocoon throb / Magatsu presence → gold lightning crack
+Preserve: single black torii, cold temple, no extra Digimon
 ```
 
 ### 11 Susanoomon sword up — Kling · ~2.5–3.5s
