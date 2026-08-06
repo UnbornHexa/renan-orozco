@@ -21,7 +21,12 @@ At the school entrance she encounters **Yujiro**. After they talk, she passes ou
 - **Yujiro → Tomura (when Tomura visits Feris):** Yujiro spins a whole tale that Bureau Zero took his father from him and killed him, and convinces Tomura to let him join **Red Thread**.
 
 ### Yujiro’s lie (truth)
-His father was a deadbeat who left his mother. The Bureau Zero hatred is **made up from whole cloth** so Yujiro can be with Feris when she needs him most.
+His father was a deadbeat who left his mother. The Bureau Zero hatred is **made up from whole cloth** so Yujiro can stay positioned beside Feris.
+
+### Yujiro’s true motive (locked)
+Yujiro wants to be **close to Feris himself** — to **catch her when she falls**. He knows the fall is coming. He does **not** know how to stop it, except by being there to **cover up for her**.
+
+He does **not** steer Feris toward Tomura as a goal. Joining Red Thread / dealing with Tomura is a means to stay in Feris’s orbit and clean up after her — not to hand her to Tomura.
 
 ---
 
@@ -68,7 +73,7 @@ Makoto ultimately **agrees** to lend it to him, even though it will put her life
 | Character | Canon beat |
 |---|---|
 | Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath; wakes to Yujiro; feared friends’ anger over silence |
-| Yujiro | False BZ vendetta; joins Red Thread via Tomura to stay near Feris; bedside truth-teller (Chernobog’s account); reassures Feris the others were worried, not angry; apologizes for not prying; promises they will barge into her life more |
+| Yujiro | False BZ vendetta to enter Red Thread; wants to be close to Feris and catch her when she falls; knows the fall is coming but can only cover for her, not stop it; bedside truth-teller (Chernobog’s account); reassures / apologizes / promises to barge in more |
 | Chernobog | Explains Feris’s condition to Yujiro |
 | Junko | Guardian vow: care for Feris; prevent her harming others |
 | Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ |
