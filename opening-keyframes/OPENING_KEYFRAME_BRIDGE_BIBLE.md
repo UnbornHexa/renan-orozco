@@ -1,11 +1,11 @@
 # Beyond the Door — Opening Keyframe Bridge Bible
 
 Use this when feeding snippets to separate video platforms/tools.
-Each keyframe has **IN** (how the snippet must start) and **OUT** (how it must end) so cuts feel like one OP.
+Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snippet must end) so cuts feel like one OP.
 
 ## Global rules
 1. Hold the final pose **4–6 frames** before cutting.
-2. Prefer bridges via **light bloom**, **color wash**, or **shared motif** (Bureau Zero crimson, red thread, white smash, door light).
+2. Prefer bridges via **light bloom**, **color wash**, or **shared motif** (Bureau Zero crimson, red thread, white smash, door light, warm sunset gold).
 3. If a tool can’t match motion, match **color + motif** first.
 4. Keep character wardrobe locked per sheet; do not reinvent outfits mid-OP.
 
@@ -52,6 +52,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how it must e
 - **IN:** crimson barrier shards resolve into emergency red Tokyo night
 - **OUT:** Devidramon two red eyes bloom → cut on eye flare
 - **Motif:** threat red / Level 5 HUD
+- **Note:** Devidramon threat lives HERE in the OP spine. Do not re-flash Devidramon in KF13.
 
 ### 09 Red Thread lineup
 - **IN:** eye flare softens into red thread lines across sky
@@ -70,29 +71,27 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how it must e
 
 ### 12 Carmilla freed
 - **IN:** gold whiteout settles into soft release light on Carmilla
-- **OUT:** warm release → hard smash to threat red (into 13a)
-- **Motif:** freed light / hope flash then cut
+- **OUT:** warm release softens into golden sunset wash (into 13)
+- **Motif:** freed light / hope flash then settle
 
 ---
 
 ## KF13 foreshadow pack (rapid OP flashes)
 
 These are short. Keep each snippet ~0.8–1.5s unless music asks longer.
-Bridge spine: **threat red → cool Bureau blue → red thread → medical → alert red → six-panel → white door**
+Bridge spine: **warm sunset gold → cool Bureau blue → red thread → medical → alert red → six-panel → white door**
 
-### 13a Feris / Devidramon
-- **IN:** smash from 12 warm light into red eye glow + Digital/broken Tokyo
-- **OUT:** Devidramon red eyes intensify / crimson bloom
-- **Continues into:** 13b same threat space
-
-### 13b Junko stops Feris (BZ officers)
-- **IN:** SAME space as 13a; Devidramon still behind Feris
-- **Action lock:** Feris attacking Bureau Zero officers; Junko restraining him
-- **OUT:** Junko’s grip / emotional face → red-white smash bloom
-- **Smash into:** 13c cool blue
+### 13 Junko & Feris sunset park (single flash; replaces old 13a+13b)
+- **Purpose:** one hopeful foreshadow of Junko/Feris bond — **not** a Devidramon remake of KF08
+- **Action lock:** Junko and Feris **holding hands**, smiling at each other, city park at sunset
+- **Character lock — Feris:** female tomboy with large breasts (she/her); **NOT** a boy / flat-chested
+- **Height lock:** Feris is **slightly shorter** than Junko
+- **IN:** warm release from 12 settles into golden sunset park light
+- **OUT:** clasped hands / warm gold-rose flare → smash into cool blue (13c)
+- **Retired:** old 13a (Feris/Devidramon) and 13b (Junko stops Feris / BZ officers). Devidramon already appears in KF08.
 
 ### 13c Vesper Bureau report
-- **IN:** cool blue monitors after smash; no hard day-light
+- **IN:** cool blue monitors after smash from 13; no hard day-light
 - **OUT:** Bureau Zero crimson emblem (native on folder/laptop/screen) flares
 - **Carry color:** crimson into 13d
 
@@ -150,11 +149,14 @@ AUDIO HIT: [optional lyric/beat marker]
 - 10 `kf_corrected_10_carmilla_core_magatsu.png`
 - 11 `kf_corrected_11c_susanoomon_sword_up.png`
 - 12 `kf_corrected_12b_carmilla_freed_focus.png`
-- 13a `kf_corrected_13a_feris_devidramon.png`
-- 13b `kf_corrected_13b_junko_stops_feris.png`
+- 13 `kf_corrected_13_junko_feris_sunset_park.png` *(replaces 13a+13b)*
 - 13c `kf_corrected_13c_vesper_bureau_report.png`
 - 13d `kf_corrected_13d_yujiro_red_thread_token.png`
 - 13e `kf_corrected_13e_makoto_file.png`
 - 13f `kf_corrected_13f_sato_project_mir.png`
 - 13g `kf_corrected_13g_six_rulers_split.png`
 - 14 `kf_corrected_14_japanese_door_title_bg.png`
+
+## Retired (do not use in OP cut)
+- `kf_corrected_13a_feris_devidramon.png` — Devidramon foreshadow redundant with KF08
+- `kf_corrected_13b_junko_stops_feris.png` — drifted into KF08 remake
