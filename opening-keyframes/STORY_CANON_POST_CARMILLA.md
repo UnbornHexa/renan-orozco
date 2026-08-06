@@ -66,6 +66,12 @@ Vesper requests Makoto’s **ID** so he can infiltrate Bureau Zero better and fi
 
 Makoto ultimately **agrees** to lend it to him, even though it will put her life at risk.
 
+### What Vesper finds (Arc 1 — locked amount)
+Vesper does **not** obtain the full vanished-airplane passenger list (still lockdown / Yamato-level seal). He can confirm the case exists, that it is Door/Digital-adjacent classified, that the manifest is sealed, and that BZ’s open line denies involvement without showing proof.
+
+### Vesper tells Feris (locked)
+At this juncture, Vesper **definitely tells Feris** what he found — he does not withhold it to “protect” her. She hears from him that the parent/flight trail is real and locked down inside Bureau Zero, which feeds her urgency and distrust even without the full list.
+
 ---
 
 ## Character notes tied to this arc
@@ -76,7 +82,7 @@ Makoto ultimately **agrees** to lend it to him, even though it will put her life
 | Yujiro | False BZ vendetta to enter Red Thread; wants to be close to Feris and catch her when she falls; knows the fall is coming but can only cover for her, not stop it; bedside truth-teller (Chernobog’s account); reassures / apologizes / promises to barge in more |
 | Chernobog | Explains Feris’s condition to Yujiro |
 | Junko | Guardian vow: care for Feris; prevent her harming others |
-| Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ |
+| Vesper | Seeks parent truth; borrows Makoto’s ID to infiltrate BZ; tells Feris what he finds (no protective silence at this juncture) |
 | Makoto | Injured/hospital; shaken by imprison-Feris plan; heart vs duty; lends ID |
 | Yamato | Denies BZ role in parents’ disappearance; wants ironclad proof; proposes capture/imprison Feris |
 | Tomura | Recruited into believing Yujiro’s BZ-father story; admits Yujiro to Red Thread |
