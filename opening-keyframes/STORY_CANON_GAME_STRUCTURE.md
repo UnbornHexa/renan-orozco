@@ -1,7 +1,27 @@
 # Beyond the Door — Game Structure & Core Mystery Canon
 
 **Scope:** story canon for structure + Feris’s parents mystery.  
-**Status:** drafted from Master’s brief (2026-08-06). Refine details later; spine is locked.
+**Status:** revised from Master’s corrections (Project Mir; BZ never entered Digital World; fate/chosen allowed).
+
+---
+
+## World rules — Bureau Zero & portals (locked)
+
+- Bureau Zero **never went into the Digital World (Takamagahara) themselves**.
+- Their research was **all from the human side**.
+- At most they developed **digital portal technology** aimed at **Digitokyo (Digital Tokyo)**; attempts to push **beyond** Digitokyo **failed** or never succeeded as true Digital World access.
+- They do **not** have on-site Door/Takamagahara fieldwork. Lockdowns and seals are **earth-side / Digitokyo-side** containment and information control.
+
+---
+
+## Feris’s means (locked — NOT a Digicore power)
+
+Feris does **not** have innate Digicore-related powers.
+
+To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s Digicore**, with her **mother’s code for opening portals** — code her mother created for Bureau Zero on **Project Mir**.
+
+- Canon project name: **Project Mir** (OP stills / Sato beat use this name).
+- By the time of the vanished flight, the parents’ research for BZ had **already been revoked** (Project Mir files reflect shutdown / failure / revocation).
 
 ---
 
@@ -10,33 +30,50 @@
 ### What happened
 The vanished airplane was **not destroyed**. It was **transported into the Digital World of Takamagahara**.
 
-Feris’s parents (and others from that flight) have been trying to **go home** — but they could not ignore the pleas of the people of the Digital World for help. They remain there by a mix of necessity, duty, and unfinished crisis — not because they abandoned Feris lightly.
+Feris’s parents (and others) have been trying to **go home**, but could not ignore the pleas of Digital World people for help. They remain there through necessity, duty, and unfinished crisis.
 
-### Bureau Zero’s role (involved, not the cause)
-- **Cause of the transport:** Door / Takamagahara anomaly (Magatsu-adjacent forces in the deep background) — **not** “BZ murdered/kidnapped the parents.”
-- **BZ involvement:** they detected, intervened, contained, and/or **sealed return paths / information** afterward. Their hands are on the cover-up and the lockdown (airplane list, case files), and possibly on choices that made coming home harder — without them being the ones who vanished the plane.
-- This lets Yamato say “we had nothing to do with their disappearance” in a narrow sense, while still being morally compromised for **silence, containment, and blocking proof**.
+Parents are **special because of everything that happened to them** afterward (and because fate answered through them) — not because BZ had a Digital World expedition with them.
 
-### Feris’s means (locked — NOT a Digicore power)
-Feris does **not** have innate Digicore-related powers.
+### Fate / chosen (locked theme — Digimon-true)
+Do **not** sand away destiny. Digimon stories allow chosen hearts.
 
-To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s Digicore**, with her **mother’s code for opening portals** — code her mother created for Bureau Zero on **Project Myr**.
+The Takamagahara-side call / ritual that tore the sky **targeted** someone of **pure heart**, and/or someone who **loved Digimon**. Feris’s parents fit that call. The plane was caught because they were aboard when the Door answered.
 
-Implications:
-- Mother was a **BZ portal technologist** (Project Myr), not a random passenger only.
-- Feris’s “miracle” entry is **inherited tools / stolen-borrowed maternal code**, plus nerve and partners — not a special Digicore bloodline gift.
-- Project Myr files, mother’s clearance, and portal code fragments are prime breadcrumbs (OP stills may surface related lab labels; keep naming consistent as **Project Myr** unless Master unifies with any “Mir” UI text later).
+### Why that plane / why that day (working lock)
+1. In Takamagahara, crisis peaks; a help-rite / call is cast for a pure heart / Digimon-lover.  
+2. The Door finds that signature aboard Flight 07 — **Feris’s parents**.  
+3. Translation takes the **whole aircraft** (wide grab under Magatsu pressure / unstable rite).  
+4. Survivors witness powerful Digimon conflict in Takamagahara’s sky.  
+5. Parents choose to help; homecoming waits.  
+6. Earth-side, BZ detects a portal/Door spike from **their sensors and Digitokyo-facing systems**, fails to understand full Takamagahara truth, **revokes/keeps Project Mir buried**, locks the passenger list, and contains panic — **involved in aftermath, not the cause of the taking**.
+
+### Why were they on that flight? (decision point for Master)
+
+Their BZ research was **already revoked**. Two readable options (can combine):
+
+| Option | Pitch |
+|---|---|
+| **A — Zoodiac business (surface truth)** | They were traveling for **Zoodiac** (their conglomerate) — real meetings, real elsewhere. Fate still found them. Ordinary itinerary; destination chosen by destiny. |
+| **B — Soft tie to the wound** | Officially Zoodiac business; privately one parent was following a hunch / old Mir sensor ghost / Digimon-related charity thread that put them on that corridor that day. Still not BZ sending them. |
+| **C — Recommended blend** | **Truly Zoodiac business** on the tickets and books — and **also fated**: the call selected pure-hearted Digimon-lovers, and that day their Zoodiac route put them under the thin sky. Breadcrumbs later show the call wasn’t random; the boarding pass still says conglomerate travel. |
+
+Ikaros default until Master overrides: **C**.
+
+### Bureau Zero’s role (involved, not the cause) — corrected
+- **Cause:** Takamagahara call/ritual + Door translation answering a pure heart / Digimon love — **not** BZ snatching the plane.
+- **BZ involvement (earth-side only):** portal/Door anomaly detection from human/Digitokyo tech; information lockdown; Project Mir already dead/revoked; possible use of earth-side dampers that made return harder without ever entering Takamagahara.
+- Yamato can deny “we disappeared them” and still own the **cover-up**.
 
 ### Arc 1 knowledge ceiling (breadcrumbs only)
-- Flight incident real; Digital/Door classification; manifest lockdown.
-- Vesper confirms this much and **tells Feris**.
-- No full list; no Takamagahara name-drop as proven fact yet; no “parents are alive and helping Digimon citizens” confirmation until later arcs.
-- Breadcrumbs may include: sealed return protocols, “other side” phrasing in redacted notes, Digimon folklore about a sky-ship, Chernobog discomfort when the flight is mentioned, **Project Myr** portal-code scraps, mother’s BZ employment trail.
+- Flight real; classified; manifest lockdown; Vesper tells Feris.
+- Project Mir = revoked parental portal research for BZ (Digitokyo-facing), not proof BZ walked Takamagahara.
+- No full list; no confirmed “parents alive in Takamagahara helping” yet.
+- Fate breadcrumbs later: pure-heart / Digimon-love language in Digital World testimony (Arc 4).
 
-### Later reveals (planned)
-- **Mid game:** plane translated, not crashed; BZ sealed the wound.
-- **Arc 4:** party reaches Takamagahara; meet the truth of the parents’ choice to stay and help.
-- **Arc 5:** Magatsumon / Amaterasu resolves the deeper cosmic stake the parents were entangled with.
+### Later reveals
+- Mid: translated, not crashed; BZ buried it from this side.
+- Arc 4: Takamagahara; parents’ choice; why the call chose them.
+- Arc 5: Magatsumon; Amaterasu.
 
 ---
 
@@ -45,89 +82,56 @@ Implications:
 ### Arc 1 — Hatred, Red Thread, Digital Tokyo crisis
 **Emotional core:** Feris’s grief/hatred, friendship fracture and repair, Devidramon regret.
 
-**Includes (already locked pieces):**
+**Includes:**
 - Post-Carmilla hospital / recovery
-- Infected Digimon healing (Stage 1 DSC method)
+- Infected Digimon healing (Stage 1 DSC method) — skill/method + partners, not Digicore magic bloodline
 - Vesper + Makoto ID → BZ lockdown findings → Feris told
 - Yujiro’s false BZ vendetta; joins Red Thread to catch Feris when she falls
-- At least one Red Thread sabotage that makes Feris’s hatred feel good
-- Climax: crash Digital Tokyo into normal Tokyo attempt; Chernobog → **Devidramon**; destruction; Junko tries to stop Feris; Feris regrets
+- Red Thread sabotage that makes hatred feel good
+- Climax: Digital Tokyo crash attempt; Chernobog → **Devidramon**; Junko stops Feris; regret
 
-**Arc 1 ending (locked intent):**
-- Feris and her friends **make up**
-- Red Thread **dismantles or converts** in part:
+**Arc 1 ending:**
+- Feris and friends **make up**
+- Red Thread partially dismantles/converts:
 
-| Character | Aftermath of climax |
+| Character | Aftermath |
 |---|---|
-| **Tomura** | Feels **betrayed** by Feris walking away from the operation |
-| **Dabi** | Feels **betrayed** alongside Tomura’s faction |
-| **Jin** | **Understands** Feris walking away |
-| **Himiko** | Leaves the operation; joins **Istina**, realizing destruction like that isn’t worth it |
-| **Iguchi** | Stays by **Tomura** as a friend, but is **no longer okay** with the ideology |
+| **Tomura** | Betrayed by Feris walking away |
+| **Dabi** | Betrayed with Tomura’s faction |
+| **Jin** | Understands |
+| **Himiko** | Leaves; joins **Istina** — destruction not worth it |
+| **Iguchi** | Stays by Tomura as friend; rejects ideology |
 
-**Digimon are characters:** each partner Digimon has their own opinion of the climax (approval, horror, loyalty conflict, relief, etc.) — not silent mascots.
-
-**Briefly shown in Arc 1 climax crisis:** other **tamer teams of the city** (setup for Arc 2).
-
----
+Digimon have their own opinions. Other city **tamer teams** glimpsed in climax → Arc 2.
 
 ### Arc 2 — Tamers, Digital Tokyo, Six Rulers
-**Emotional / world core:** widen the map beyond Feris’s private war.
+Tamer teams; Digitokyo structure; Six Rulers; Digimon cases; **Vesper’s family case**.
 
-- Introduce / deepen **tamer teams** glimpsed in Arc 1 climax
-- Explore **Digital Tokyo** structure
-- The **Six Rulers**
-- More Digimon-related cases (investigations, healing, politics)
-- Forward **Vesper’s family case** (father’s BZ tie, Makoto’s withheld knowledge, etc.)
+### Arc 3 — End of Bureau Zero as understood
+Disbanded / destroyed / **remade** — Istina + Vesper push to take over and remake it.
 
-Parents mystery: stronger breadcrumbs; still not full Takamagahara reunion.
+### Arc 4 — Takamagahara
+Fantastic break; real parents mystery; fated call revealed.
 
----
-
-### Arc 3 — End of Bureau Zero as it was understood
-**Institutional climax.**
-
-- Bureau Zero is **disbanded, destroyed, or remade**
-- Preferred Master direction: remade into something better by **Istina** and **Vesper**, who want to take it over / reshape it
-- Makoto’s heart-vs-duty arc can pay off here
-- Yamato’s containment doctrine is judged
-
-Parents mystery: BZ’s sealed records can finally crack as the institution falls/reforms.
+### Arc 5 — Climax
+**Magatsumon** battle; **Amaterasu** recovery.
 
 ---
 
-### Arc 4 — To the Digital World (Takamagahara)
-**Tone shift:** fantastic, a break from urban Tokyo / Digital Tokyo procedural weight.
+## Throughline
 
-- Guide the party toward the Digital World
-- Confront the **real mystery**: the plane, the parents, why they stayed to help
-- Reunion / confrontation with parents’ choice
-- Prepare the board for Magatsumon
-
----
-
-### Arc 5 — All-time climax
-- Battle with **Magatsumon**
-- Recovery of **Amaterasu**
-- Final cost/choice fallout for Feris, partners, reformed world institutions, and Takamagahara
+1. Feris almost becomes hate’s monster — chooses friends.  
+2. The city / Digitokyo are bigger than one war.  
+3. The system that hid the truth ends or is remade.  
+4. Takamagahara and the parents’ fated choice.  
+5. Magatsumon falls; Amaterasu returns.
 
 ---
 
-## Throughline (one sentence per arc)
+## Open details
 
-1. **Arc 1:** Feris almost becomes the monster hate made — and chooses her friends instead.  
-2. **Arc 2:** The city and Digital Tokyo are bigger than one girl’s war.  
-3. **Arc 3:** The system that hid the truth must end or be remade.  
-4. **Arc 4:** The fantastic truth of the parents and Takamagahara.  
-5. **Arc 5:** Magatsumon falls; Amaterasu returns; the Door’s wound is faced.
-
----
-
-## Open details to refine later (not blockers)
-
-- Exact BZ action that “involved but didn’t cause” the vanishing (seal timing, failed rescue, Door damper, etc.)
-- Whether mother being Project Myr’s portal author is **why that plane** / why return is sealed with her own tech
-- Which parent speaks for staying to help / how Feris receives it
-- Amaterasu’s relation to Magatsumon and the flight
-- Istina’s organizational shape when Himiko joins post–Arc 1
-- Unify any “Project Mir” UI label in OP stills with canon name **Project Myr** if Master confirms they are the same
+- Exact earth-side BZ damper/seal action after the spike
+- Zoodiac destination/cover details for the flight (if C)
+- How Project Mir code still works for Feris after revocation
+- Amaterasu glimpse on day one vs legend later
+- Istina’s shape when Himiko joins
