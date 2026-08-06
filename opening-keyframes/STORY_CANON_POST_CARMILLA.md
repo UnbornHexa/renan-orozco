@@ -78,7 +78,7 @@ At this juncture, Vesper **definitely tells Feris** what he found — he does no
 
 | Character | Canon beat |
 |---|---|
-| Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath; wakes to Yujiro; feared friends’ anger over silence |
+| Feris | 14; hospitalized after collapse; broken arm; exhausted/fever aftermath; wakes to Yujiro; feared friends’ anger over silence; **no innate Digicore powers** — reached Carmilla via Digital Gate + IP using **mother’s Project Myr portal code** (made for Bureau Zero) |
 | Yujiro | False BZ vendetta to enter Red Thread; wants to be close to Feris and catch her when she falls; knows the fall is coming but can only cover for her, not stop it; bedside truth-teller (Chernobog’s account); reassures / apologizes / promises to barge in more |
 | Chernobog | Explains Feris’s condition to Yujiro |
 | Junko | Guardian vow: care for Feris; prevent her harming others |

@@ -17,11 +17,21 @@ Feris’s parents (and others from that flight) have been trying to **go home** 
 - **BZ involvement:** they detected, intervened, contained, and/or **sealed return paths / information** afterward. Their hands are on the cover-up and the lockdown (airplane list, case files), and possibly on choices that made coming home harder — without them being the ones who vanished the plane.
 - This lets Yamato say “we had nothing to do with their disappearance” in a narrow sense, while still being morally compromised for **silence, containment, and blocking proof**.
 
+### Feris’s means (locked — NOT a Digicore power)
+Feris does **not** have innate Digicore-related powers.
+
+To reach Carmilla, she opened a **Digital Gate** using an **IP to Carmilla’s Digicore**, with her **mother’s code for opening portals** — code her mother created for Bureau Zero on **Project Myr**.
+
+Implications:
+- Mother was a **BZ portal technologist** (Project Myr), not a random passenger only.
+- Feris’s “miracle” entry is **inherited tools / stolen-borrowed maternal code**, plus nerve and partners — not a special Digicore bloodline gift.
+- Project Myr files, mother’s clearance, and portal code fragments are prime breadcrumbs (OP stills may surface related lab labels; keep naming consistent as **Project Myr** unless Master unifies with any “Mir” UI text later).
+
 ### Arc 1 knowledge ceiling (breadcrumbs only)
 - Flight incident real; Digital/Door classification; manifest lockdown.
 - Vesper confirms this much and **tells Feris**.
 - No full list; no Takamagahara name-drop as proven fact yet; no “parents are alive and helping Digimon citizens” confirmation until later arcs.
-- Breadcrumbs may include: sealed return protocols, “other side” phrasing in redacted notes, Digimon folklore about a sky-ship, Chernobog discomfort when the flight is mentioned.
+- Breadcrumbs may include: sealed return protocols, “other side” phrasing in redacted notes, Digimon folklore about a sky-ship, Chernobog discomfort when the flight is mentioned, **Project Myr** portal-code scraps, mother’s BZ employment trail.
 
 ### Later reveals (planned)
 - **Mid game:** plane translated, not crashed; BZ sealed the wound.
@@ -116,6 +126,8 @@ Parents mystery: BZ’s sealed records can finally crack as the institution fall
 ## Open details to refine later (not blockers)
 
 - Exact BZ action that “involved but didn’t cause” the vanishing (seal timing, failed rescue, Door damper, etc.)
+- Whether mother being Project Myr’s portal author is **why that plane** / why return is sealed with her own tech
 - Which parent speaks for staying to help / how Feris receives it
 - Amaterasu’s relation to Magatsumon and the flight
 - Istina’s organizational shape when Himiko joins post–Arc 1
+- Unify any “Project Mir” UI label in OP stills with canon name **Project Myr** if Master confirms they are the same
