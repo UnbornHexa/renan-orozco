@@ -70,7 +70,7 @@ Character beat: Vesper **stops planning and acts** for Feris. Real win: **concre
 **Not a Mir reveal** — she already has Mir (home lab + Item Disk locked folder).
 
 **What he brings back to Feris (trophy):**
-1. Copied **flight incident packet** — vanished flight = BZ **DIGITAL HAZARD / portal event**, Yamato lockdown (holdable).
+1. Copied **flight incident packet** — vanished flight = BZ **DIGITAL HAZARD / portal event**, Commander-level lockdown (holdable).
 2. Concrete proof **Anastasia & Mikhail were aboard** (Zoodiac travel / embarkation crumb) — **not** the full passenger list.
 3. Seizure inventory notes: **Hagurumon** research assistant logged **MISSING / NOT RECOVERED**; DSC/Stillness marked seized; data accounting still short.
 
@@ -82,6 +82,8 @@ Character beat: Vesper **stops planning and acts** for Feris. Real win: **concre
 **Lead:** find the missing **Hagurumon** (true refuge in a Six Rulers court = Arc 2 pin).
 
 **Still sealed:** full manifest, Ryugu, General, Susanoomon full truth, parents alive in Takamagahara.
+
+**Exact document text:** `STORY_CANON_VESPER_BZ_DOCUMENTS.md` (DI-0007 DIGITAL INCIDENT pack + Hagurumon seizure annex + creator commentary).
 
 ### Later
 - Mid: translated not crashed; sky-seal folklore.  

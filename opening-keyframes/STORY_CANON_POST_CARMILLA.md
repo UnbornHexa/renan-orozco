@@ -75,11 +75,12 @@ BZ **knew** about the assistant and **found it nowhere**.
 **PIN:** true refuge = a **Six Rulers** court (rulers TBD, Arc 2).
 
 ### What Vesper brings Feris (Arc 1 victory)
-1. Flight packet — digital-hazard case, Yamato lockdown (holdable copy).  
-2. Proof Anastasia & Mikhail were on that flight (not full manifest).  
-3. Seizure file crumb: **Hagurumon** assistant logged **MISSING / NOT RECOVERED**; data still short → lead to find Hagurumon.  
+Exact pack: `STORY_CANON_VESPER_BZ_DOCUMENTS.md`.
+1. DI-0007 cover + assessment — tag **DIGITAL INCIDENT**, **Commander-level**, largest Digital Incident on BZ record (+ creator commentary).  
+2. Embarkation fragment — Anastasia & Mikhail on that flight (not full manifest).  
+3. Mir seizure inventory — DSC/Stillness seized; **Hagurumon** assistant **MISSING / NOT RECOVERED** → lead.  
 
-He **tells her**, hands her the proof, and the next hunt is the missing Hagurumon.
+He **tells her**, hands her the copies, and the next hunt is the missing Hagurumon.
 
 ---
 
