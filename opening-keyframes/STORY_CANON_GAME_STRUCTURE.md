@@ -110,8 +110,8 @@ Tamer teams; Digitokyo structure; Six Rulers; Digimon cases; **Vesper’s family
 ### Arc 3 — End of Bureau Zero as understood
 Disbanded / destroyed / **remade** — Istina + Vesper push to take over and remake it.
 
-### Arc 4 — Takamagahara
-Fantastic break; real parents mystery; fated call revealed.
+### Arc 4 — Takamagahara (via Ryugu)
+Fantastic break. Best entrance: **Ryugu** (old sealed gate/palace in the sea). Confront **the General** (entrance boss + moral decision). Then parents / fated call truth.
 
 ### Arc 5 — Climax
 **Magatsumon** battle; **Amaterasu** recovery.
