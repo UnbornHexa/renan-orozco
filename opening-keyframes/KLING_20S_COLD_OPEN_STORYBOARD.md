@@ -89,9 +89,12 @@ Portals stay coherent. Not static. End locked on end frame.
 
 ### Pair 3 prompt (dive → lab)
 ```
-START/END exact. 150 BPM HYPE.
-Dive through phone glass / digital tunnel; white-blue smash into Feris lab wonder end frame.
-Feris excited discovery, black-red sailor crop + open jacket, midriff toned (not ripped), Chernobog behind. Dynamic, not still.
+START/END exact. 150 BPM Digimon OP.
+CAMERA: dynamic dive through phone glass / white-blue digital tunnel — strong motion ONLY during the dive.
+LANDING: settle cleanly onto the Feris lab end frame. Feris is ALREADY in the lab — do NOT make her jump, pop, leap, or burst into frame (not a Pokéball entrance).
+On the lab hold: only slight natural life-motion (soft breathe, tiny head/hand shift, Chernobog wings/eyes subtle) so the still feels alive.
+Keep wardrobe locked: black-red sailor crop + open jacket, midriff toned (not ripped). Chernobog behind.
+Match end frame composition hard. No redesign, no extra logos.
 ```
 
 ### Pair 4–7 prompt shell (glitch flashes)
