@@ -18,8 +18,8 @@ Boards:
 ## How to feed Luma
 1. Use plates from `cold_open_20s/` / `lyric_half_stills/`.
 2. Minimum: **START + END**.
-3. **Prefer multi-keyframe direction** — up to **16 keyframes** per gen. Pin each story step (and short holds) so Ray interpolates under your control, not freeform.
-4. Cold open: follow the full ladder in `COLD_OPEN_LUMA_2CUT.md`.
+3. Multi-keyframe: **≤4 pins**, usually **2–3**, and **same world** inside one gen. Too many distant worlds = still slides + basic blends (failed cold-open test).
+4. Cold open: revised method in `COLD_OPEN_LUMA_2CUT.md` (scene gens + edit tears; not 5 worlds in one 10s).
 5. Model: **Ray 3.2** (control) or **Ray 3.14** (cheaper/faster tests). Create Video, not Modify, for new shots.
 6. Aspect **16:9**. Prompt: obey every keyframe in order; natural motion between pins; hard cyan/magenta tears on world changes; no redesign.
 
