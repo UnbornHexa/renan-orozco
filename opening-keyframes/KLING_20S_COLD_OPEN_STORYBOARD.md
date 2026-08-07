@@ -17,6 +17,7 @@
 
 ## Character flashes (locked picks)
 - **Yujiro:** A — neon street + **Gotsumon**, confident grin  
+- **Yujiro hair lock (always):** match **KF04** exactly — messy **sandy-blonde / light brown** with a **purple streak/highlight** (NOT silver, NOT lavender-white, NOT full purple).  
 - **Junko:** B — athletic sprint, sportswear, determined smile  
 - **Group logo:** `DIGIMON STORY: BEYOND THE DOOR` in front of digital gate glow; **no** “DIGITAL GATE” text
 
@@ -31,9 +32,9 @@
 | **01c** | `kf_01c_phone_dive_through_glass_v2.png` | Dive through glass / digital tunnel |
 | **02** | `kf_corrected_02e_feris_lab_sailor_jacket_midriff.png` | Feris lab wonder + Chernobog (sailor crop + jacket + midriff) |
 | **03** | `03_vesper_investigation.png` | Vesper investigating |
-| **Y** | `kf_20s_yujiro_neon_gotsumon.png` | Yujiro neon + Gotsumon |
+| **Y** | `kf_20s_yujiro_neon_gotsumon_v2.png` | Yujiro neon + Gotsumon (KF04 sandy-blonde + purple streak) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
-| **04L** | `kf_20s_group_beyond_the_door_logo_v4.png` | Group + wireframe partners + **Beyond the Door** logo (Feris midriff + jacket) |
+| **04L** | `kf_20s_group_beyond_the_door_logo_v6.png` | Group + wireframe partners + **Beyond the Door** logo (Feris midriff + jacket; Yujiro KF04 hair) |
 
 ---
 

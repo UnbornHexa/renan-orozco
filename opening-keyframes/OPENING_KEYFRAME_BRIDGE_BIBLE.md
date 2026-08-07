@@ -9,6 +9,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 3. If a tool can’t match motion, match **color + motif** first.
 4. Keep character wardrobe locked per sheet; do not reinvent outfits mid-OP.
 5. **Feris body/wardrobe lock:** female tomboy, large bust, slightly shorter than Junko; jacket always over sailor-crop+skirt **or** sports-top+shorts; **prefer midriff showing** with athletic **toned** (not ripped) abs.
+6. **Yujiro hair lock (always):** match **KF04** — messy **sandy-blonde / light brown** with a **purple streak/highlight**. Never silver/lavender-white or solid purple hair.
 
 ---
 
@@ -35,6 +36,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 - **IN:** cyan digital streaks from 03
 - **OUT:** gate light opens / partners flash → hard cut to wonder gold-green
 - **Motif:** wireframe glow
+- **Yujiro hair canon source:** messy sandy-blonde / light brown + purple streak — lock this color for every Yujiro still/snippet
 
 ### 05 Hushed Wonder / Tuskmon
 - **IN:** soft gold-green wonder light
