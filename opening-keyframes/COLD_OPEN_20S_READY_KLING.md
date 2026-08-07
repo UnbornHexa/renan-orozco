@@ -84,13 +84,19 @@ START/END frames are strong references — obey composition, identity, wardrobe,
 
 150 BPM Digimon OP — upbeat run energy.
 
-START — YUJIRO ALIVE: Yujiro is already sprinting with full running motion; neon city PASSING AROUND him. Gotsumon runs beside him. Yujiro looks back over his shoulder (cunning / reacting). Gotsumon points forward and “talks” / shouts a warning (mouth open, arm point ahead). Yujiro snaps his gaze forward again for a BRIEF instant as if he is about to collide with something — but we NEVER see the obstacle or the impact.
+START — YUJIRO FULL RUN (critical): Yujiro is already sprinting with FULL running range of motion — arms pump through a complete stride cycle (the forward arm must MOVE, not freeze pointed ahead), legs stride, torso rolls with the run; neon city PASSING AROUND him. Gotsumon runs beside him with full rocky running motion. Do NOT freeze any limb in a pointed/static pose.
 
-BEAT 1 — IMPACT = GLITCH CUT: at that near-collision beat, the screen glitches VERY QUICKLY (hard cyan/magenta digital tear / pixel shatter) — instant smash-cut transition. No slow morph. No Pokéball pop-in.
+BEAT A — LOOK BACK: while still running, Yujiro looks over his shoulder (brief glance back).
 
-BEAT 2 — JUNKO RUN: cut lands on Junko already jogging/running with full athletic stride. Confident energy. Sweat droplets fly off her face/hair/body with the motion. The world PASSES AROUND her in the rhythm of her run — strong parallax, street/lights pumping past on her stride tempo. White + black bear hairpins locked. Hair and clothes react to speed. Not frozen.
+BEAT B — GOTSUMON WARNS: THEN Gotsumon warns him — points forward and “talks” / shouts (mouth open, arm point ahead). Warning happens AFTER Yujiro has looked back.
 
-Keep face likeness locked. No redesign, no extra logos, no extra characters. Do not show what Yujiro would have hit.
+BEAT C — TURN + SHOCK: Yujiro turns his face forward again; expression becomes SURPRISE / SHOCK as if he is about to bump into something — wide eyes, startled — for only a BRIEF instant. We NEVER see the obstacle or the impact.
+
+BEAT D — IMPACT = GLITCH CUT: at that shock beat, the screen glitches VERY QUICKLY (hard cyan/magenta digital tear / pixel shatter) — instant smash-cut. No slow morph. No Pokéball pop-in.
+
+BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athletic stride. Confident energy. Sweat droplets fly off her face/hair/body. The world PASSES AROUND her in the rhythm of her run — strong parallax on her stride tempo. White + black bear hairpins locked. Not frozen.
+
+Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
 ### 5 — Junko → group logo (`J` → `04L`) · 3s + hold
