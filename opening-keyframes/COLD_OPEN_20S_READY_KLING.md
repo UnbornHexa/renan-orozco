@@ -102,25 +102,27 @@ BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athle
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
-### 5a — Junko run → punch (`J` → `J_end_jump_punch`) · **3s** · PUNCH SETUP
+### 5a — Junko run → punch + digital transition (`J` → `J_end_jump_punch`) · **3s**
 ```
 START = `J_junko_sprint.png`
 END = `J_end_jump_punch.png`
 START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
-150 BPM Digimon OP — clean athletic run into a jump punch at camera.
+150 BPM Digimon OP — clean athletic run into a jump punch, then classic digital transition out.
 
 ANTI-SMUDGE: Keep Junko’s face SHARP and LOCKED — same determined athletic look from START. NO surprise face. NO anger face. NO expression morphs. NO face melt/warp/smudge. Sell the beat with body action only.
 
-TIMING HINT (~3s): ~0.0–1.6s clean run + notice glance · ~1.6–3.0s speed-up, JUMP FORWARD, punch toward camera — land on the END punch pose (fist large in foreground).
+TIMING HINT (~3s): ~0.0–1.4s clean run + notice glance · ~1.4–2.5s speed-up, JUMP FORWARD, punch toward camera matching END pose · ~2.5–3.0s IMPACT = classic digital transition.
 
 START — JUNKO ALIVE RUN: already jogging/running with a clean athletic stride (readable arms/legs, not smeared). Twin tails bounce naturally; light sweat flecks; world passes around her on her run rhythm without smearing her silhouette. White + black bear hairpins locked. Kendo bag stays on her back.
 
 BEAT A — NOTICE: quick glance / focus shift ahead / off-screen only. Face stays the same determined look.
 
-BEAT B — JUMP PUNCH → END POSE: picks up speed, JUMPS FORWARD, PUNCHES toward the screen / camera — match the END frame: fist large in foreground, body committed, face still sharp/determined. Do not stretch or smear her face toward camera.
+BEAT B — JUMP PUNCH: picks up speed, JUMPS FORWARD, PUNCHES toward the screen / camera — match the END frame language: fist large in foreground, body committed, face still sharp/determined. Do not stretch or smear her face toward camera.
 
-No title reveal, no shatter yet. No redesign, no extra logos, no extra characters. Prefer sharp identity over extreme blur.
+BEAT C — IMPACT = CLASSIC DIGITAL TRANSITION: on the punch hit, the screen glitches VERY QUICKLY — hard cyan/magenta digital tear / pixel shatter (same cold-open transition language as the other cuts). Instant smash energy. No slow morph. No title card yet. No Pokéball pop-in. The digital tear is the cut-out into the next clip (title).
+
+No group title reveal in this clip. No redesign, no extra logos, no extra characters. Prefer sharp identity over extreme blur.
 ```
 
 ### 5b — Living title → phone white (`04L` → `04L_end_phone_dive_white`) · **3s** · TITLE FINALE
@@ -147,4 +149,4 @@ Keep face likeness, wardrobe, logo, wireframes locked. No redesign, no extra log
 ```
 
 ### Edit join (5a → 5b)
-Cut 5a on the punch impact / fist commitment. Add a short shatter / glass+glitch wipe in edit (or a 0.3–0.5s smash), then cut to 5b’s living title open. 5b already ends diving into Feris’s phone → white for the next OP half.
+Cut 5a on / right after the cyan/magenta digital tear at punch impact, then smash into 5b’s living title open. 5b already ends diving into Feris’s phone → white for the next OP half.
