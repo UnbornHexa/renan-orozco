@@ -54,7 +54,7 @@
 | 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
 | 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
 | 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–21s+ | `J`→`04L` | **5s** | Junko surprise→anger→punch shatter→living title→dive Feris phone white. Trim/hold title in edit. |
+| 16–22s+ | `J`→`04L` | **6s** | Junko surprise→anger→punch shatter→living title→dive Feris phone white. |
 
 Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 

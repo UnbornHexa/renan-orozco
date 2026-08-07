@@ -25,7 +25,7 @@
 | 5–10s | `02` → `03` | **5s** | Calmer (Vesper / Feris energy) |
 | 10–13s | `03` → `Y` | **3s** | Snap glitch |
 | 13–16s | `Y` → `J` | **3s** | Snap glitch |
-| 16–21s+ | `J` → `04L` | **5s** | Surprise→anger→punch shatter→living title→phone white dive |
+| 16–22s+ | `J` → `04L` | **6s** | Surprise→anger→punch shatter→living title→phone white dive |
 
 `01b` as dive START dragged the phone — avoid.
 
@@ -99,13 +99,13 @@ BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athle
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
-### 5 — Junko → group logo (`J` → `04L`) · **5s** · TITLE FINALE
+### 5 — Junko → group logo (`J` → `04L`) · **6s** · TITLE FINALE
 ```
 START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
 150 BPM Digimon OP — hype smash into living title, then white out for lyric half.
 
-TIMING HINT (~5s): ~0.0–1.2s Junko run + notice/surprise/anger · ~1.2–2.2s speed-up jump punch · ~2.2–2.6s shatter reveal · ~2.6–4.4s living title hold · ~4.4–5.0s dive Feris phone → WHITE.
+TIMING HINT (~6s): ~0.0–1.4s Junko run + notice/surprise/anger · ~1.4–2.5s speed-up jump punch · ~2.5–3.0s shatter reveal · ~3.0–5.2s living title hold · ~5.2–6.0s dive Feris phone → WHITE.
 
 START — JUNKO ALIVE RUN: Junko already jogging/running with full athletic stride; twin tails bounce naturally; sweat flecks; world passing around her on her run rhythm. White + black bear hairpins locked. Kendo bag stays on her back.
 
