@@ -105,25 +105,27 @@ START/END frames are strong references — obey composition, identity, wardrobe,
 
 150 BPM Digimon OP — hype smash into living title, then white out for lyric half.
 
-TIMING HINT (~6s): ~0.0–1.4s Junko run + notice/surprise/anger · ~1.4–2.5s speed-up jump punch · ~2.5–3.0s shatter reveal · ~3.0–5.2s living title hold · ~5.2–6.0s dive Feris phone → WHITE.
+CRITICAL QUALITY LOCK (Junko half): NOT a resolution issue. Keep Junko’s face SHARP and STABLE from the START still — same face geometry, same eyes/nose/mouth placement, same hairline. NO face melt, NO face warp, NO smudge, NO morphing/blobbing features while she runs or changes expression. Expression changes = eyes + brows + mouth tension ONLY (acting), never reshape the skull/face. Clean anime line edges; readable limbs; avoid motion-blur mush on her face/hands. Twin tails bounce OK; body stride OK; world parallax moderate (not smear-heavy).
 
-START — JUNKO ALIVE RUN: Junko already jogging/running with full athletic stride; twin tails bounce naturally; sweat flecks; world passing around her on her run rhythm. White + black bear hairpins locked. Kendo bag stays on her back.
+TIMING HINT (~6s): ~0.0–1.5s clean Junko run + notice → brief surprise → anger (face stays sharp) · ~1.5–2.6s speed-up + jump punch (face locked; sell hit with body/fist) · ~2.6–3.1s shatter reveal · ~3.1–5.2s living title hold · ~5.2–6.0s dive Feris phone → WHITE.
 
-BEAT A — NOTICE → SURPRISE: Junko notices something ahead / off-screen — eyes catch it; expression snaps to SURPRISE (brief).
+START — JUNKO ALIVE RUN: Junko already jogging/running with a clean athletic stride (readable arms/legs, not smeared). Twin tails bounce naturally; light sweat flecks; world passes around her on her run rhythm without smearing her silhouette. White + black bear hairpins locked. Kendo bag stays on her back. FACE LOCKED to start-frame likeness the whole time until shatter.
 
-BEAT B — SURPRISE → ANGER: IMMEDIATELY the surprise flips to ANGER / fight-ready fury (not fear, not hesitation).
+BEAT A — NOTICE → SURPRISE: Junko notices something ahead / off-screen — eyes widen / catch it; brief SURPRISE acting on a STABLE face (no deformation).
 
-BEAT C — SPEED + JUMP PUNCH: she picks up speed hard, JUMPS FORWARD toward camera, and PUNCHES the screen / camera with full body commitment — fist and forward momentum sell the hit.
+BEAT B — SURPRISE → ANGER: IMMEDIATELY brows drop / jaw sets to ANGER / fight-ready fury (not fear). Still the same sharp face — attitude change only, no morph.
+
+BEAT C — SPEED + JUMP PUNCH: she picks up speed, JUMPS FORWARD, and PUNCHES the screen / camera — sell the hit with body + fist + forward momentum. Keep her face sharp/locked during the approach (do not stretch or smear her face toward camera).
 
 BEAT D — SCREEN SHATTER → TITLE: on impact the screen SHATTERS (glass + digital shards + cyan/magenta glitch) and reveals the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot (04L v20). No Pokéball pop-in of the cast; they are already in the end-frame composition after the shatter.
 
 BEAT E — TITLE ALIVE (must feel alive, not a freeze plate):
 - Digital Tokyo city lights FLICKER / pulse unevenly.
-- Tamers KEEP POSITION but soft-life motion: clothing fabric sway, hair drift, tiny breath/body shifts (Feris, Yujiro, Junko, Vesper all slightly alive).
+- Tamers KEEP POSITION but soft-life motion: clothing fabric sway, hair drift, tiny breath/body shifts (Feris, Yujiro, Junko, Vesper all slightly alive). Faces stay sharp — no melt.
 - Wireframe Digimon partners also slight living idle motion + soft glow pulse, matching the tamers’ life energy.
 - TITLE LETTER EFFECT (chosen): electric cyan EDGE-CRAWL along the glyphs — soft neon pulse + tiny spark-flicker traveling the letter edges of DIGIMON STORY: BEYOND THE DOOR (alive energy, not melting, not redesigning the locked logo art). Side boards stay readable (DIGITAL TOKYO / TAMERS AS ONE / DIGITAL BOND once each).
 
 BEAT F — NEAR END PHONE DIVE → WHITE: very close to the end, camera rapidly DIVES into Feris’s glowing phone screen in the CENTER of the title composition; smash/bloom to PURE WHITE so the cut into the next OP half (lyric half) is clean.
 
-Keep face likeness, wardrobe, logo, wireframes locked to the end-frame design. No redesign, no extra logos, no extra characters.
+Keep face likeness, wardrobe, logo, wireframes locked. No redesign, no extra logos, no extra characters. Prefer sharp identity over extreme blur.
 ```
