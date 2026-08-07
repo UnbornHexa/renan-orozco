@@ -94,7 +94,7 @@ BEAT C — TURN + SHOCK: Yujiro turns his face forward again; expression becomes
 
 BEAT D — IMPACT = GLITCH CUT: at that shock beat, the screen glitches VERY QUICKLY (hard cyan/magenta digital tear / pixel shatter) — instant smash-cut. No slow morph. No Pokéball pop-in.
 
-BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athletic stride. Confident energy. Sweat droplets fly off her face/hair/body. The world PASSES AROUND her in the rhythm of her run — strong parallax on her stride tempo. White + black bear hairpins locked. Not frozen.
+BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athletic stride. Confident energy. Sweat droplets fly off her face/hair/body. Twin tails bounce and swing NATURALLY with her run — full hair physics on each stride (not stiff/frozen pigtails). The world PASSES AROUND her in the rhythm of her run — strong parallax on her stride tempo. White + black bear hairpins locked. Not frozen.
 
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
