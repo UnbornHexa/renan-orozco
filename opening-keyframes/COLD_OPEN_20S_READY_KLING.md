@@ -43,17 +43,22 @@ Keep wardrobe locked: black-red sailor crop + open jacket, midriff toned (not ri
 Match end frame composition hard. No redesign, no extra logos.
 ```
 
+### Motion rule (all pairs)
+START/END stills are **strong reference + composition guidelines**, not freeze-frames. Obey the keyframe’s scene, identity, wardrobe, and end pose language — but allow natural motion that fits the task. Do not lock the body rigid.
+
 ### 2 — Feris → Vesper (`02` → `03`) · 5s · CALMER
 ```
-START/END frames exact. 150 BPM Digimon OP — UPBEAT but CALMER (not smash hype).
+START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze Vesper stiff; allow natural motion that still lands in the end-frame world.
 
-BEAT 1 — ROOM CHANGE: cyan/magenta digital glitch tear / pixel shatter transforms Feris’s lab into Vesper’s investigation room. Land on the end-frame composition. No Pokéball pop-ins.
+150 BPM Digimon OP — UPBEAT but CALMER (not smash hype).
 
-BEAT 2 — VESPER ACTION (once landed): Vesper is already at his desk, serious and contemplating the evidence. He flips / pages through his notebook while holding his phone — thoughtful case-work motion, not frantic.
+BEAT 1 — ROOM CHANGE: cyan/magenta digital glitch tear / pixel shatter transforms Feris’s lab into Vesper’s investigation room. Settle into Vesper’s desk scene. No Pokéball pop-ins. NO phone in his hands (notebook + papers only).
 
-BACKGROUND LIFE: the blue holographic train-station projection behind him stays glitchy and alive — flicker, scanlines, brief digital tear, soft data shimmer — continuous digital unrest, not a frozen plate.
+BEAT 2 — VESPER ACTION: serious, contemplating evidence. Eyes move / scan while reading papers and notebook. Notebook opens; he turns / flips pages. Upper body, shoulders, head, and hands move naturally for reading and sorting evidence — alive case-work, not a frozen plate, not frantic.
 
-Keep faces, hair, glasses, wardrobe locked to the end frame. No redesign, no extra logos, no extra characters.
+BACKGROUND LIFE: blue holographic train-station projection stays glitchy and alive — flicker, scanlines, brief digital tear, soft data shimmer — continuous digital unrest.
+
+Keep face likeness, long silver hair, glasses, cardigan locked. No redesign, no extra logos, no phone morphs, no extra characters.
 ```
 
 ### 3 — Vesper → Yujiro (`03` → `Y`) · 3s

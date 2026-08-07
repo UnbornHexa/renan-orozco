@@ -39,7 +39,7 @@
 | **01b** | `kf_01b_phone_face_topdown.png` | Closer / facing phone screen |
 | **01c** | `kf_01c_phone_dive_through_glass_v2.png` | Dive through glass / digital tunnel |
 | **02** | `kf_corrected_02f_feris_lab_sailor_skirt.png` | Feris lab wonder + Chernobog (sailor crop + skirt + jacket + midriff) |
-| **03** | `03_vesper_investigation.png` | Vesper investigating |
+| **03** | `kf_corrected_03b_vesper_notebook_no_phone.png` | Vesper investigating — notebook/papers only (**no phone**) |
 | **Y** | `kf_20s_yujiro_neon_gotsumon_v4.png` | Yujiro neon + Gotsumon (dual purple streaks; locked) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
 | **04L** | `kf_20s_group_beyond_the_door_logo_v20.png` | Group + Beyond the Door logo (**locked**) |
