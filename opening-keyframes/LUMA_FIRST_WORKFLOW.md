@@ -11,15 +11,17 @@ Only **5s** and **10s** — no 3s/4s.
 - **5s** = single beat (trim in edit to music)
 - **10s** = hero beat or two steps via multi-keyframe
 
-Board with edit targets: `LYRIC_HALF_STORYBOARD.md`
+Boards:
+- Cold open 2-cut: `COLD_OPEN_LUMA_2CUT.md` (**10s** journey + **5s** title)
+- Lyric half: `LYRIC_HALF_STORYBOARD.md`
 
 ## How to feed Luma
-1. Use plates from `lyric_half_stills/` (and cold-open stills if redoing).
+1. Use plates from `cold_open_20s/` / `lyric_half_stills/`.
 2. Minimum: **START + END**.
-3. Better on **10s** clips: **START → mid → END**  
-   e.g. L3 memory · L4 Wonder · L11 BZ burst · L13 cleave · paired flashes
-4. Model: **Ray 3.2** (control) or **Ray 3.14** (cheaper/faster tests). Create Video, not Modify, for new shots.
-5. Aspect **16:9**. Prompt: obey keyframes; natural motion; no redesign.
+3. **Prefer multi-keyframe direction** — up to **16 keyframes** per gen. Pin each story step (and short holds) so Ray interpolates under your control, not freeform.
+4. Cold open: follow the full ladder in `COLD_OPEN_LUMA_2CUT.md`.
+5. Model: **Ray 3.2** (control) or **Ray 3.14** (cheaper/faster tests). Create Video, not Modify, for new shots.
+6. Aspect **16:9**. Prompt: obey every keyframe in order; natural motion between pins; hard cyan/magenta tears on world changes; no redesign.
 
 ## Still QC
 Fix weak context plates **before** burning credits when Master flags them.

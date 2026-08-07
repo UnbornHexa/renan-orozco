@@ -48,17 +48,19 @@
 
 ---
 
-## Timing map (~20s instrumental)
+## Timing map (instrumental → **lyrics at 19s**)
 
-| Time | Pair | Duration | Notes |
+### Luma 2-cut · multi-keyframe (current)
+| Edit | Cut | Gen | Keyframes |
 |---|---|---|---|
-| 0–5s | `01a`→`02` | **5s** | Slanted phone dive → lab. `01b` dragged phone — avoid. |
-| 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
-| 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
-| 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–19s | `J`→`04L` | **3s** | Already speeding → ~1s into screen → fast Digimon teleport → title hold. Lyrics @19s. |
+| 0–10s | Cut 1 journey | **10s** | `01a`→`01b`→`01c`→`02`→`03`→`Y`→`J` (up to 16 pins — see board) |
+| 10–15s | Cut 2 title | **5s** | `J`→`04L` living title, fast Digimon teleport |
+| 15–19s | Hold | — | Hold title to lyrics |
 
-Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
+Full directed ladder + prompts: `COLD_OPEN_LUMA_2CUT.md`
+
+### Legacy Kling multi-snip (old gens only)
+See `COLD_OPEN_20S_READY_KLING.md` if replaying old START+END pairs.
 
 ---
 
