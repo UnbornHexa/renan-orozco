@@ -12,7 +12,7 @@ Only **5s** and **10s** — no 3s/4s.
 - **10s** = hero beat or two steps via multi-keyframe
 
 Boards:
-- Cold open 2-cut: `COLD_OPEN_LUMA_2CUT.md` (**10s** journey + **5s** title)
+- Cold open 2×10s: `COLD_OPEN_LUMA_2CUT.md` (journey + punch@13 → title 14–18 → phone dive@18)
 - Lyric half: `LYRIC_HALF_STORYBOARD.md`
 
 ## How to feed Luma
