@@ -56,7 +56,7 @@
 | 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
 | 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
 | 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–22s | `J`→`04L` | **6s** | Angry + speed-up into screen → digital tear → living title → phone white. NO punch. |
+| 16–19s | `J`→`04L` | **3s** | Already speeding → ~1s into screen → fast Digimon teleport → title hold. Lyrics @19s. |
 
 Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 

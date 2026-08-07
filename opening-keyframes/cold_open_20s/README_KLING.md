@@ -19,7 +19,7 @@
 | 04L Group | `04L_group_logo.png` (= **v20**) |
 | 04L-end Phone white | `04L_end_phone_dive_white.png` (**NEW** — 5b END) |
 
-## Timing (~20s instrumental)
+## Timing (instrumental cold open → **lyrics at 19s**)
 
 | Time | Pair | Duration | Gear |
 |---|---|---|---|
@@ -27,7 +27,7 @@
 | 5–10s | `02` → `03` | **5s** | Calmer (Vesper / Feris energy) |
 | 10–13s | `03` → `Y` | **3s** | Snap glitch |
 | 13–16s | `Y` → `J` | **3s** | Snap glitch |
-| 16–22s | `J` → `04L` | **6s** | Angry + speed-up into screen → digital tear → living title → phone white |
+| 16–19s | `J` → `04L` | **3s** | Already speeding → into screen (~1s) → fast Digimon teleport → title hold to lyrics @19s |
 
 `01b` as dive START dragged the phone — avoid.
 
@@ -101,39 +101,39 @@ BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athle
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
-### 5 — Junko → title (`J` → `04L`) · **6s** · NO PUNCH
+### 5 — Junko → title (`J` → `04L`) · **3s** · SHORT FINALE (lyrics @19s)
 ```
 START = `J_junko_sprint.png`
 END = `04L_group_logo.png` (v20)
 START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
-150 BPM Digimon OP — Junko gets angry, speeds up into the screen, classic digital tear into living title, then dive Feris phone → white near the end.
+EDIT CONTEXT: This clip connects from the previous Junko run. She is ALREADY running / picking up speed — do NOT spend time on a slow jog build. Song lyrics hit at ~19s, so this whole clip is only ~3s (edit window ~16–19s).
 
-NO PUNCH. NO jump-punch. NO fist-to-camera foreshortening. That animation was melting her — do not do it.
+150 BPM Digimon OP — already angry + speeding into the screen → classic digital tear → title hold. FAST.
 
-ANTI-SMUDGE: Keep Junko’s face SHARP — same face geometry from START. Anger = brows drop + mouth sets firmer ONLY (acting), never reshape/skull-warp/smudge the face. Clean readable run; twin tails bounce OK; world parallax moderate.
+NO PUNCH. NO jump-punch. NO fist-to-camera foreshortening.
 
-TIMING HINT (~6s): ~0.0–1.8s clean Junko run · ~1.8–2.8s turns ANGRY + speeds up charging toward / into camera · ~2.8–3.3s classic digital transition · ~3.3–5.2s living title hold · ~5.2–6.0s dive Feris phone → WHITE (edit can trim; end still is the title plate).
+ANTI-SMUDGE: Keep Junko’s face SHARP — same face geometry from START. Angry = brows/mouth tension already on (or snaps on immediately). No surprise morph chain. Clean readable sprint; twin tails bounce OK; world parallax moderate.
 
-START — JUNKO ALIVE RUN: already jogging/running with a clean athletic stride (readable arms/legs, not smeared). Twin tails bounce naturally; light sweat flecks; world passes around her on her run rhythm. White + black bear hairpins locked. Kendo bag stays on her back.
+TIMING HINT (~3s): ~0.0–1.0s ALREADY speeding / charging into camera (angry) · ~1.0–1.3s classic digital transition · ~1.3–3.0s living title hold (~1.5–2s) with FAST Digimon teleport-in right as title lands.
 
-BEAT A — ANGRY: her expression turns ANGRY / fight-ready (determined fury). One expression change only — no surprise beat, no multi-morph chain. Face stays sharp.
+START — ALREADY SPEEDING: Junko is already at high speed / picking up speed, charging toward / into the camera / screen — NOT a casual jog start. Angry / fight-ready face (locked sharp). Twin tails streaming; sweat flecks OK; world ripping past. White + black bear hairpins locked. Kendo bag on back. She is RUNNING INTO the screen — body rush, not a punch pose.
 
-BEAT B — SPEED UP INTO SCREEN: she picks up speed hard and charges toward / into the camera / screen (full run acceleration, body rush) — NOT a punch pose. She is running into the screen.
+BEAT A — INTO SCREEN (~first second): she covers the charge into the screen in about ONE SECOND — hard acceleration into camera.
 
-BEAT C — CLASSIC DIGITAL TRANSITION → TITLE: as she goes into the screen, the screen glitches VERY QUICKLY — hard cyan/magenta digital tear / pixel shatter (same cold-open transition language as the other cuts). Instant smash. No slow morph. Reveal the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot (04L v20).
+BEAT B — CLASSIC DIGITAL TRANSITION → TITLE: as she goes into the screen, the screen glitches VERY QUICKLY — hard cyan/magenta digital tear / pixel shatter (same cold-open transition language). Instant smash. No slow morph. Reveal TITLE end frame — DIGIMON STORY: BEYOND THE DOOR (04L v20).
 
-DIGIMON APPEARANCE (critical): wireframe Digimon partners DIGITALLY TELEPORT / EMERGE INTO their END-frame positions — Digimon-style data materialize / scan-in / pixel assemble on the spot where they belong. They appear already in place, popping into existence at their marks. Do NOT unfurl, unroll, peel open, stretch, or grow out of empty space from wrong poses. Not a Pokéball throw. More like Digimon digital teleport: brief cyan data flash → they are there in position.
+DIGIMON APPEARANCE (critical + FAST): wireframe Digimon DIGITALLY TELEPORT / EMERGE INTO their END-frame positions VERY QUICKLY — brief cyan data flash / scan-in → they are already on their marks. Digimon-style teleport, not Pokéball. Do NOT unfurl, unroll, peel, stretch, or slowly grow in. Keep the teleport snappy so title can hold for the remaining ~2s before lyrics.
 
-Tamers are already in the end-frame composition after the tear (or settle instantly with the title plate). Digimon teleport-in is the Digimon-like flourish.
+Tamers already in end-frame composition (or settle instantly with the plate).
 
-BEAT D — TITLE ALIVE (after they have emerged):
-- Digital Tokyo city lights FLICKER / pulse unevenly.
-- Tamers KEEP POSITION but soft-life motion: clothing fabric sway, hair drift, tiny breath/body shifts. Faces stay sharp — no melt.
-- Wireframe Digimon, once teleported in, stay on their marks with slight living idle motion + soft glow pulse (no further unfurling).
-- TITLE LETTER EFFECT: electric cyan EDGE-CRAWL / soft neon pulse + tiny spark-flicker along DIGIMON STORY: BEYOND THE DOOR glyphs (not redesigning the locked logo). Side boards stay readable.
+BEAT C — TITLE ALIVE HOLD (~last 1.5–2s only):
+- City lights FLICKER.
+- Tamers soft-life motion on marks (hair/clothes/breath). Faces sharp.
+- Digimon already teleported in — slight idle glow only (no late unfurling).
+- Title letters: quick cyan EDGE-CRAWL / neon pulse (alive, not redesigning logo).
 
-BEAT E — NEAR END PHONE DIVE → WHITE: very close to the end, camera rapidly DIVES into Feris’s glowing phone screen in the CENTER; smash/bloom to PURE WHITE for the lyric-half cut.
+NO phone dive in this short finale (not enough time; lyrics arrive). End on living title plate.
 
 Keep face likeness, wardrobe, logo, wireframes locked. No redesign, no extra logos, no extra characters. Prefer sharp identity over extreme blur.
 ```
