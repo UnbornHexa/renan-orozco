@@ -214,6 +214,7 @@ END: title hold / music end sting
 3. If two tools disagree on color grade, grade in post toward the **outgoing motif color**.
 4. Foreshadow pack (13–13g) should feel like **flash cuts** on the lyric/beat, not full scenes.
 5. Keep Feris identity notes everywhere she appears: **female tomboy, large bust, slightly shorter than Junko**; **jacket always** over sailor-crop+skirt or sports-top+shorts; **prefer midriff showing** with athletic **toned** abs (**not ripped**).
-6. Keep Yujiro hair locked to **KF04** everywhere: messy **sandy-blonde / light brown** + **purple streak** (not silver/lavender).
+6. Keep Yujiro hair locked to **13d/KF04** everywhere: messy **sandy-blonde / light brown** + **two purple streaks side-by-side** (not silver/lavender).
+7. Gotsumon = classic rock form; Kotemon = **two** eyes behind mask (not four); Junko athletic = **kendo bag**; Feris = sailor+skirt **or** sports+shorts (never mixed).
 
 Master, Ikaros remains ready if you want ready-to-paste prompts tuned to one specific tool’s UI (Kling vs Runway fields, etc.).

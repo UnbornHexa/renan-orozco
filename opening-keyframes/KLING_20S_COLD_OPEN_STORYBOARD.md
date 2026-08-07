@@ -6,9 +6,10 @@
 
 ## Wardrobe lock — Feris (OP spine)
 - **Female tomboy**, she/her; **large bust**; **slightly shorter than Junko**.
-- **Two tamer clothing options** (either is OK):
+- **Two tamer clothing options** (pick **exactly one** set — never mix):
   1. **Black-and-red sailor fuku** crop top + **skirt** bottom  
   2. **Sports top + shorts**
+- Do **not** combine sailor top with shorts, or sports top with a skirt.
 - **Jacket always present** over either option (open so the midriff reads).
 - **Midriff lock (prefer always):** show a bit of midriff. Athletic **toned** abs — soft muscle definition, **not ripped** six-pack / bodybuilder abs.
 - Fitted with room for large bust — **not** a flat sports-bra-only look without sailor/sports+jacket context.
@@ -17,9 +18,12 @@
 
 ## Character flashes (locked picks)
 - **Yujiro:** A — neon street + **Gotsumon**, confident grin  
-- **Yujiro hair lock (always):** match **KF04** exactly — messy **sandy-blonde / light brown** with a **purple streak/highlight** (NOT silver, NOT lavender-white, NOT full purple).  
+- **Yujiro hair lock (always):** match **13d coin / KF04** — messy **sandy-blonde / light brown** with **two purple streaks/accents side-by-side** (NOT one streak only; NOT silver/lavender-white; NOT full purple).
+- **Gotsumon lock:** classic rock Gotsumon (clean blocky stones, two yellow eyes) — **not** crystalline/mutated shard forms.  
 - **Junko:** B — athletic sprint, sportswear, determined smile  
-- **Group logo:** `DIGIMON STORY: BEYOND THE DOOR` in front of digital gate glow; **no** “DIGITAL GATE” text
+- **Group logo (ALWAYS):** use the exact logo from **04L v6** (`kf_20s_group_beyond_the_door_logo_v6.png`) — winged BEYOND + concentric-circle O. Never redesign it.
+- **Group Digimon:** keep the **old wireframe partners** from v6/KF04 style (Kotemon 4-eye mask read is OK).
+- **Group only new edits:** Feris clothing consistency (sailor+skirt **or** sports+shorts, never mixed) + Junko **kendo/sword bag** on her back.
 
 ---
 
@@ -30,11 +34,11 @@
 | **01a** | `01_phone_reflection.png` | Phone wide + sacred portal windows |
 | **01b** | `kf_01b_phone_face_topdown.png` | Closer / facing phone screen |
 | **01c** | `kf_01c_phone_dive_through_glass_v2.png` | Dive through glass / digital tunnel |
-| **02** | `kf_corrected_02e_feris_lab_sailor_jacket_midriff.png` | Feris lab wonder + Chernobog (sailor crop + jacket + midriff) |
+| **02** | `kf_corrected_02f_feris_lab_sailor_skirt.png` | Feris lab wonder + Chernobog (sailor crop + skirt + jacket + midriff) |
 | **03** | `03_vesper_investigation.png` | Vesper investigating |
-| **Y** | `kf_20s_yujiro_neon_gotsumon_v2.png` | Yujiro neon + Gotsumon (KF04 sandy-blonde + purple streak) |
+| **Y** | `kf_20s_yujiro_neon_gotsumon_v4.png` | Yujiro neon + Gotsumon (dual purple streaks; locked) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
-| **04L** | `kf_20s_group_beyond_the_door_logo_v6.png` | Group + wireframe partners + **Beyond the Door** logo (Feris midriff + jacket; Yujiro KF04 hair) |
+| **04L** | `kf_20s_group_beyond_the_door_logo_v11.png` | Group + **v6 logo** (locked) + old wireframes; Feris sailor+skirt; Junko kendo bag |
 
 ---
 
