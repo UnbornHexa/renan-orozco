@@ -42,7 +42,9 @@
 | **03** | `kf_corrected_03b_vesper_notebook_no_phone.png` | Vesper investigating — notebook/papers only (**no phone**) |
 | **Y** | `kf_20s_yujiro_neon_gotsumon_v4.png` | Yujiro neon + Gotsumon (dual purple streaks; locked) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
+| **J-end** | `J_end_jump_punch.png` | Junko jump-punch END for 5a |
 | **04L** | `kf_20s_group_beyond_the_door_logo_v20.png` | Group + Beyond the Door logo (**locked**) |
+| **04L-end** | `04L_end_phone_dive_white.png` | Phone dive white END for 5b |
 
 ---
 
@@ -54,8 +56,8 @@
 | 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
 | 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
 | 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–19s | `J`→`J` | **3s** | 5a: Junko run→notice→jump punch (no title). |
-| 19–22s | `J`→`04L` | **3s** | 5b: shatter→living title→dive Feris phone white. |
+| 16–19s | `J`→`J_end_jump_punch` | **3s** | 5a: run→notice→jump punch. |
+| 19–22s | `04L`→`04L_end_phone_dive_white` | **3s** | 5b: living title→phone dive white. Shatter in edit from 5a. |
 
 Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 
