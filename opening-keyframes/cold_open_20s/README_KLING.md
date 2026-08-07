@@ -99,31 +99,25 @@ BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athle
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
-### 5 — Junko → group logo (`J` → `04L`) · **5s** · TITLE FINALE
+### 5 — Junko → group logo (`J` → `04L`) · **5s** (then hold/edit) 
 ```
 START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
-150 BPM Digimon OP — hype smash into living title, then white out for lyric half.
+150 BPM Digimon OP — hype into title settle.
 
-TIMING HINT (~5s): ~0.0–1.2s Junko run + notice/surprise/anger · ~1.2–2.2s speed-up jump punch · ~2.2–2.6s shatter reveal · ~2.6–4.4s living title hold · ~4.4–5.0s dive Feris phone → WHITE.
+START — JUNKO ALIVE RUN: Junko already jogging/running with full stride; twin tails bounce naturally; sweat flecks; world passing around her on her run rhythm. White + black bear hairpins locked.
 
-START — JUNKO ALIVE RUN: Junko already jogging/running with full athletic stride; twin tails bounce naturally; sweat flecks; world passing around her on her run rhythm. White + black bear hairpins locked. Kendo bag stays on her back.
+BEAT A — NOTICE → SURPRISE: Junko notices something ahead/off-screen — eyes catch it; expression snaps to SURPRISE.
 
-BEAT A — NOTICE → SURPRISE: Junko notices something ahead / off-screen — eyes catch it; expression snaps to SURPRISE (brief).
+BEAT B — SURPRISE → ANGER: immediately her face turns to ANGER / fight-ready fury (not fear).
 
-BEAT B — SURPRISE → ANGER: IMMEDIATELY the surprise flips to ANGER / fight-ready fury (not fear, not hesitation).
+BEAT C — SPEED + PUNCH: she picks up speed, then JUMPS FORWARD and PUNCHES toward / into the camera / screen with full body commitment.
 
-BEAT C — SPEED + JUMP PUNCH: she picks up speed hard, JUMPS FORWARD toward camera, and PUNCHES the screen / camera with full body commitment — fist and forward momentum sell the hit.
+BEAT D — SCREEN SHATTER → TITLE: on impact the screen SHATTERS (glass/digital shards + cyan/magenta glitch) and reveals the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot. No Pokéball pop-in of the cast; they are already in the end-frame composition.
 
-BEAT D — SCREEN SHATTER → TITLE: on impact the screen SHATTERS (glass + digital shards + cyan/magenta glitch) and reveals the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot (04L v20). No Pokéball pop-in of the cast; they are already in the end-frame composition after the shatter.
+BEAT E — TITLE ALIVE (hold energy): Digital Tokyo lights FLICKER. Tamers keep their positions but stay alive — soft clothing sway, hair drift, tiny body/breath shifts. Wireframe Digimon also slight living motion (idle shift / glow pulse) matching the tamers. Title letters DIGIMON STORY: BEYOND THE DOOR feel alive with a cool electric cyan edge-crawl / soft neon pulse + tiny spark-flicker along the glyphs (not melting, not redesigning the logo). Side boards stay readable.
 
-BEAT E — TITLE ALIVE (must feel alive, not a freeze plate):
-- Digital Tokyo city lights FLICKER / pulse unevenly.
-- Tamers KEEP POSITION but soft-life motion: clothing fabric sway, hair drift, tiny breath/body shifts (Feris, Yujiro, Junko, Vesper all slightly alive).
-- Wireframe Digimon partners also slight living idle motion + soft glow pulse, matching the tamers’ life energy.
-- TITLE LETTER EFFECT (chosen): electric cyan EDGE-CRAWL along the glyphs — soft neon pulse + tiny spark-flicker traveling the letter edges of DIGIMON STORY: BEYOND THE DOOR (alive energy, not melting, not redesigning the locked logo art). Side boards stay readable (DIGITAL TOKYO / TAMERS AS ONE / DIGITAL BOND once each).
-
-BEAT F — NEAR END PHONE DIVE → WHITE: very close to the end, camera rapidly DIVES into Feris’s glowing phone screen in the CENTER of the title composition; smash/bloom to PURE WHITE so the cut into the next OP half (lyric half) is clean.
+BEAT F — NEAR END PHONE DIVE: very close to the end, camera DIVES into Feris’s glowing phone screen in the center; smash to WHITE for the cut into the next OP half.
 
 Keep face likeness, wardrobe, logo, wireframes locked to the end-frame design. No redesign, no extra logos, no extra characters.
 ```
