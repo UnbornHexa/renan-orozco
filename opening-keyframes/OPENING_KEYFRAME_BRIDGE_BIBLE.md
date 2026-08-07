@@ -39,6 +39,8 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 - **IN:** cyan digital streaks from 03
 - **OUT:** gate light opens / partners flash → hard cut to wonder gold-green
 - **Motif:** wireframe glow
+- **Logo lock (04L):** ALWAYS the exact logo from **04L v6** — never redesign.
+- **Wireframes:** keep old v6/KF04 partner wireframe style.
 - **Yujiro hair canon source:** messy sandy-blonde / light brown + **two purple streaks side-by-side** (see 13d coin still) — lock for every Yujiro still/snippet
 
 ### 05 Hushed Wonder / Tuskmon
