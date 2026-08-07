@@ -61,7 +61,8 @@ Keep wardrobe locked: black-red sailor crop + open jacket, midriff toned (not ri
 Match end frame composition hard. No redesign, no extra logos.
 ```
 
-**Also works as phone → lab in one gen:** START `01b` (or `01a`) → END `02` with the same prompt.
+**Also works as phone → lab in one gen:** START `01a` → END `02` (preferred — slanted phone dive that worked).  
+`01b` as START dragged/warped the phone — do not prefer it for this beat.
 
 ### Pair 4 — 02 → 03 (glitch to Vesper)
 ```

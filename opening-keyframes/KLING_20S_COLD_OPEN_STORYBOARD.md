@@ -50,9 +50,7 @@
 
 | Edit time | Panel land | Notes |
 |---|---|---|
-| 0–3s | 01a→01b | Approach phone |
-| 3–6s | 01b→01c | Face → dive |
-| 6–9s | 01c→02 | Smash into lab wonder |
+| 0–5s (trim) | 01a→02 | Preferred dive: slanted phone START → lab END (5s). `01b` dragged the phone — avoid. |
 | 9–12s | 02→03 | Glitch to Vesper |
 | 12–15s | 03→Y | Glitch to Yujiro |
 | 15–18s | Y→J | Glitch to Junko |
