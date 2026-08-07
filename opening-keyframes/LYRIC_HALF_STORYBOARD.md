@@ -104,3 +104,14 @@ If 75–91 is tight (~16s), chain pairs (e.g. L14→L15, L16→L17, L17→L18) s
 | 91+ | Riff send-off | **Door** |
 
 Pending Master: exact action-insert count in **C**, and whether **40–43** is a held breath or a tiny extra beat.
+
+
+---
+
+## START / END still files
+
+Pack folder: `opening-keyframes/lyric_half_stills/`  
+Zip: `/opt/cursor/artifacts/lyric_half_stills_READY.zip`  
+Manifest: `lyric_half_stills/README.md`
+
+Every lyric snippet has a **START** and **END** plate for Kling. Wonder park plates are **v2** (Japanese 児童公園, ~3m scale — not gigantic).
