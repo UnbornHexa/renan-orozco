@@ -67,17 +67,15 @@ Keep face likeness and wardrobe locked. No redesign, no extra logos, no phone mo
 ```
 START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
-150 BPM Digimon OP — upbeat snap energy (faster than the Vesper calm beat, still controlled).
+150 BPM Digimon OP — upbeat snap / run energy.
 
 START — VESPER ALIVE (before / into the tear): Vesper must NOT be frozen. Soft living case-work motion — eyes still reading, notebook/pages shift, slight head/shoulder/hand movement, train-station hologram still glitching. Keep his pose language from the start frame, but he is alive, not a still cutout. NO phone.
 
-BEAT 1 — SCENE CHANGE: hard cyan/magenta digital glitch tear / pixel shatter transforms Vesper’s investigation room into Yujiro’s neon night street. Settle into the end-frame composition. No Pokéball pop-ins.
+BEAT 1 — MID-FRAME BREAKTHROUGH: a hard cyan/magenta digital glitch tear / pixel shatter rips open through the CENTER of Vesper’s room. Yujiro and Gotsumon BURST / RUN THROUGH that middle rupture into frame — they run into the screen toward camera, full running range of motion (arms, legs, torso stride, weight shift), not a frozen end-pose slide, not a Pokéball pop-in from nowhere.
 
-BEAT 2 — YUJIRO ACTION: Yujiro + Gotsumon are already in the neon street end frame. Alive after the tear — cunning energy, natural running/lunging life-motion, hair and clothes react to speed, Gotsumon runs with him (rocky stride, subtle bounce). Not frozen; not a sudden spawn burst.
+BEAT 2 — RUN + WORLD PASSING: once through, they keep sprinting with full running animation. The neon night street scenario feels like it is PASSING AROUND them — strong parallax, buildings/lights streaking past, wet road rushing underfoot, city moving relative to their run. Land toward the end-frame composition/energy without freezing them stiff.
 
-BACKGROUND LIFE: neon city stays alive — light flicker, wet-street reflections shift, motion streak energy in the city, not a dead plate.
-
-Keep face likeness locked. Yujiro hair: sandy-blonde / light brown with TWO purple streaks side-by-side. Classic Gotsumon. No redesign, no extra logos, no extra characters.
+Keep face likeness locked. Yujiro hair: sandy-blonde / light brown with TWO purple streaks side-by-side. Classic Gotsumon running beside him. No redesign, no extra logos, no extra characters.
 ```
 
 ### 4 — Yujiro → Junko (`Y` → `J`) · 3s
