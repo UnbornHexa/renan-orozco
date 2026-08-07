@@ -1,117 +1,111 @@
-# Lyric Half Storyboard — Master board (working)
+# Lyric Half Storyboard — Luma 5s / 10s board
 
-**Cold open:** 0–19s locked (ends on 04L title).  
-**Lyrics:** start **19s**. Energy step at **43s**. Beat drop **55s**. Climax **75s**. Lyrics end **91s** → door/riff.  
-**Floor:** every Kling snippet ≥ **3s**.
+**Cold open:** 0–19s locked (04L title).  
+**Lyrics:** **19s**. Energy step **43s**. Beat drop **55s**. Climax **75s**. Lyrics end **91s** → door/riff.  
+**Platform:** **Luma** (Ray) — duration choices are only **5s** or **10s**.  
+**Rule:** Gen at 5/10 → **trim in edit** to the music column. Multi-keyframe when a 10s clip covers two story steps.
+
+Stills: `opening-keyframes/lyric_half_stills/` (START/END pairs; add mids in Luma when useful).
 
 ---
 
-## A — Soft school life / wonder (19→~40)
+## Duration legend
 
-| # | Time | Dur | Beat | Still status |
+| Gen | Use when |
+|---|---|
+| **5s** | Single clear beat (trim to ~3–4s on the mix if needed) |
+| **10s** | Big emotional/action beat, **or** two steps in one multi-keyframe clip |
+
+---
+
+## A — Soft school / wonder (music 19→43)
+
+| # | Gen | Edit target | Beat | Luma keyframes |
 |---|---|---|---|---|
-| **L1** | 19–23 | **4s** | **Oozora Gakuen** — Yujiro & Vesper eating together under a tree, happily | **NEW** — compose |
-| **L2** | 23–26 | **3s** | Feris walks school corridors, hands behind nape; looks aside curiously → scene change | **NEW** — compose |
-| **L3** | 26–30 | **4s** | **Junko memory (fullscreen)** — Junko deep in thought (existing look); past behind her where she was very happy. **Remove Carmilla** from this plate | **REWORK 06** — regen without Carmilla |
-| **L4** | 30–34 | **4s** | Junko walks “over” the screen → **team** looking at a **children’s park**; **Sgt. Wonder (Hushed Wonder / Tuskmon)** stands ominous amidst the play place | **REWORK 05** / **NEW** group+Wonder park plate |
-| **L5** | 34–37 | **3s** | Feris shows Wonder the **phone with the message** | **NEW** — compose |
-| **L6** | 37–40 | **3s** | Wonder’s eyes get **recognition**; color returns to them | **NEW** END for L5 (or L5→L6 pair) |
+| **L1** | **5s** | ~19–23.5 | Oozora: Yujiro & Vesper under tree, eating happily | START→END lunch |
+| **L2** | **5s** | ~23.5–27 | Feris corridor, hands on nape → looks aside curiously | START walk → END look |
+| **L3** | **10s** | ~27–34 | Junko memory fullscreen (**no Carmilla**); happy past; she walks over the screen near end | START thought → mid memory → END walk-over |
+| **L4** | **10s** | ~34–40 | Team at Japanese kids’ park; Sgt. Wonder ominous (~3m, not kaiju) | START team+Wonder → END Wonder impose |
+| **L5–L6** | **5s** | ~40–43 | Feris shows phone → Wonder eyes recognition / color returns *(one multi-KF clip; trim hard into the 43 hit)* | START phone → END eyes color |
 
-**40–43:** ~3s breath / soft bridge into the energy step (edit hold or very light motion on L6 end). Soft school block stays chill/jogging.
+Optional: if L5–L6 feels cramped in 5s, gen **10s** and trim to ~40–43.
 
 ---
 
-## B — Ominous turn (43→55) — energy step @43
+## B — Ominous turn (music 43→55)
 
-| # | Time | Dur | Beat | Still status |
+| # | Gen | Edit target | Beat | Luma keyframes |
 |---|---|---|---|---|
-| **L7** | 43–46 | **3s** | Classic anime omen: **Feris mostly shadowed**, **lead pipe raised**, **Makoto on the ground** looking up; Feris **shiny red eyes** | **NEW** — compose |
-| **L8** | 46–49 | **3s** | Makoto in hospital looking at the file | **HAVE** ≈ `13e` / `13e_makoto_hospital_file.png` |
-| **L9** | 49–52 | **3s** | **Himiko** stretches a hand toward Feris | **NEW** — compose |
-| **L10** | 52–55 | **3s** | Red digital transition → **Red Thread team** display | **HAVE** ≈ `09` red thread lineup (+ red digital FX in prompt) |
+| **L7** | **5s** | ~43–47 | Shadowed Feris, lead pipe up, Makoto on ground, red eyes | START→END omen |
+| **L8** | **5s** | ~47–50.5 | Makoto hospital / file | START→END file pulse |
+| **L9** | **5s** | ~50.5–53 | Himiko stretches hand toward Feris | START reach → END near-touch |
+| **L10** | **5s** | ~53–55 | Red digital → Red Thread team *(land on drop)* | START lineup → END red digital smash |
 
-L10 lands into the **55 beat drop**.
+All four are **5s** gens trimmed into a **12s** music window — keep heads/tails tight on the edit.
+
+Alt (fewer gens): **L9+L10** as one **10s** multi-KF (Himiko → red digital → Red Thread), edit ~50.5–55.
 
 ---
 
-## C — Beat drop / action (55→~75)
+## C — Beat drop / action (music 55→75)
 
-| # | Time | Dur | Beat | Still status |
+| # | Gen | Edit target | Beat | Luma keyframes |
 |---|---|---|---|---|
-| **L11** | 55–~58+ | ≥3s | **Bureau Zero symbol** on screen → **bursts open**; children rush forward (**07** language) | **HAVE** `07` — may need clean BZ-symbol START still |
-| **L12…** | mid band | ≥3s each | **NEW action inserts** — attacks flying, Digimon combat vibe (compose **2+** keyframes so the drop feels like a fight OP, not one rush shot) | **NEW** — compose pack |
-| **L13** | end of action / ~75 | ≥3s | **Feris lifts Susanoomon’s sword** and **cleaves the screen in half** — symbolically vs **Hotsuin Yamato** | **REWORK 11** / **NEW** cleave+Yamato symbolic plate |
+| **L11** | **10s** | ~55–62 | BZ symbol → bursts; kids rush (07 language) | Symbol → crack → rush END |
+| **L12** | **10s** | ~62–70 | Action pack — attacks flying / Digimon clash *(use L12a START + L12b END, or both pairs as mids)* | Attacks → impact/shockwave |
+| **L13** | **10s** | ~70–75 | Feris lifts Susanoomon sword, cleaves screen (vs Yamato symbolic) — **hit climax ~75** | Sword up → cleave END |
 
-Exact L12 count TBD with Master (credit + music hits). Target: fill **55–75 (~20s)** with L11 + action pack + L13 sword cleave on/near climax.
+Three **10s** gens → trim into **~20s** of drop. Prefer multi-keyframe inside each 10s over extra 5s crumbs.
 
 ---
 
-## D — Flashes → rulers → door (75→91+)
+## D — Flashes → door (music 75→91+)
 
-After the cleave, rapid but **≥3s** (chain if needed):
+| # | Gen | Edit target | Beat | Luma keyframes |
+|---|---|---|---|---|
+| **L14–L15** | **10s** | ~75–81 | Sunset park hands → Yujiro coin glow | L14 START→END then L15 END (or park→coin mids) |
+| **L16–L17** | **10s** | ~81–88 | Father closes BZ laptop → Six Rulers → white bloom | Laptop close → rulers → white |
+| **L18** | **5s** | ~88–91+ | Japanese Door; hold into riff *(use **10s** if you want longer send-off)* | Door START → light pulse END |
 
-| # | Beat | Still status |
+---
+
+## Full gen checklist (Luma)
+
+| Order | ID | Gen | Notes |
+|---|---|---|---|
+| 1 | L1 | 5s | School lunch |
+| 2 | L2 | 5s | Corridor look |
+| 3 | L3 | 10s | Memory (multi-KF) |
+| 4 | L4 | 10s | Wonder park (multi-KF) |
+| 5 | L5–L6 | 5s (or 10s) | Phone → eyes |
+| 6 | L7 | 5s | Pipe omen |
+| 7 | L8 | 5s | Hospital |
+| 8 | L9 | 5s | Himiko |
+| 9 | L10 | 5s | Red Thread → drop |
+| 10 | L11 | 10s | BZ burst |
+| 11 | L12 | 10s | Action |
+| 12 | L13 | 10s | Sword cleave @75 |
+| 13 | L14–L15 | 10s | Park + coin |
+| 14 | L16–L17 | 10s | Laptop + rulers |
+| 15 | L18 | 5s or 10s | Door |
+
+**Rough credit count:** ~15 gens (not counting retries).
+
+---
+
+## Song alignment
+
+| Time | Energy | Block |
 |---|---|---|
-| **L14** | Junko & Feris sunset park | **HAVE** `13` |
-| **L15** | Yujiro with the coin / token | **HAVE** `13d` |
-| **L16** | Vesper’s father closing laptop with **Bureau Zero** symbol | **REWORK/NEW** from `13c` language |
-| **L17** | Six Rulers split | **HAVE** `13g` |
-| **L18** | Japanese Door title (lyrics end @91 → final riff) | **HAVE** `14` |
-
-If 75–91 is tight (~16s), chain pairs (e.g. L14→L15, L16→L17, L17→L18) so each gen is 3s but more beats fit.
+| 19–43 | Chill / jogging | **A** |
+| 43–55 | Energy step | **B** |
+| 55–75 | Beat drop / fight | **C** |
+| 75–91 | Climax / stretch | **D** |
+| 91+ | Riff | **Door** |
 
 ---
 
-## Inventory summary
+## Still pack
 
-### Already usable (or close)
-- Junko thoughtful base (for L3) — strip Carmilla from `06`
-- Sgt. Wonder / Tuskmon language from `05` (rebuild into park+team for L4)
-- `07` Bureau Zero barrier rush (L11)
-- `09` Red Thread team (L10)
-- `11` Susanoomon sword (base for L13 cleave)
-- `13` park hands, `13d` coin, `13e` Makoto hospital, `13g` rulers, `14` door
-
-### Must compose / regen
-1. Yujiro + Vesper under tree (Oozora) — L1  
-2. Feris corridor / hands on nape — L2  
-3. Junko memory fullscreen **no Carmilla** — L3  
-4. Team + ominous Wonder at children’s park — L4  
-5. Feris shows phone to Wonder — L5  
-6. Wonder eyes recognition / color return — L6  
-7. Feris lead-pipe / Makoto ground / red eyes — L7  
-8. Himiko hand to Feris — L9  
-9. BZ symbol START (if not already clean) — L11  
-10. Action / attacks flying pack (2+) — L12  
-11. Sword cleave vs Yamato symbolic — L13  
-12. Father closes BZ laptop — L16  
-
-### Softly retired from old lyric spine (for this board)
-- Early Carmilla-in-memory on 06  
-- Old 05-as-first-lyric (Wonder now appears with the team at the park, then phone/eyes)  
-- Carmilla freed (12) / Magatsu (10) as early lyric beats — not in this Master pass (can return later if music needs them)
-
----
-
-## Song alignment (updated)
-
-| Time | Energy | Board block |
-|---|---|---|
-| 19–43 | Chill / jogging | **A** school → memory → Wonder park → phone → eyes |
-| 43–55 | Energy step | **B** pipe omen → hospital → Himiko → Red Thread |
-| 55–75 | Beat drop / fight | **C** BZ burst → action pack → sword cleave |
-| 75–91 | Climax / stretch | **D** park / coin / father laptop / rulers |
-| 91+ | Riff send-off | **Door** |
-
-Pending Master: exact action-insert count in **C**, and whether **40–43** is a held breath or a tiny extra beat.
-
-
----
-
-## START / END still files
-
-Pack folder: `opening-keyframes/lyric_half_stills/`  
-Zip: `/opt/cursor/artifacts/lyric_half_stills_READY.zip`  
-Manifest: `lyric_half_stills/README.md`
-
-Every lyric snippet has a **START** and **END** plate for Kling. Wonder park plates are **v2** (Japanese 児童公園, ~3m scale — not gigantic).
+`opening-keyframes/lyric_half_stills/` · zip `/opt/cursor/artifacts/lyric_half_stills_READY.zip`  
+Wonder = **v2** park scale. Some plates still need Master QC / regen before burning Luma credits.

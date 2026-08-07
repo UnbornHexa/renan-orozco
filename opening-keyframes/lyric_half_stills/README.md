@@ -1,6 +1,6 @@
 # Lyric Half Still Pack — START + END pairs
 
-All plates **1536×1024**. Use Kling START+END · ≥3s.
+All plates **1536×1024**. **Luma** Create Video · Ray · duration **5s or 10s** only · START(+mids)+END keyframes. Trim in edit to music (`LYRIC_HALF_STORYBOARD.md`).
 
 Wonder scale lock: big Digimon (~3m / ~2× teen height), **not** kaiju; Japanese **児童公園** playground (sandbox, swings, short slide). Canonical L4 = **v2**.
 
