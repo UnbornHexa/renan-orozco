@@ -42,7 +42,7 @@
 | **03** | `03_vesper_investigation.png` | Vesper investigating |
 | **Y** | `kf_20s_yujiro_neon_gotsumon_v4.png` | Yujiro neon + Gotsumon (dual purple streaks; locked) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
-| **04L** | `kf_20s_group_beyond_the_door_logo_v12_smirk.png` | Exact **v12** plate + Yujiro cunning smirk only |
+| **04L** | `kf_20s_group_beyond_the_door_logo_v20.png` | Group + Beyond the Door logo (**locked**) |
 
 ---
 
