@@ -20,8 +20,9 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 
 ### 02 Feris lab / Chernobog
 - **IN:** from 01 white-blue phone flare into cool lab fluorescents
+- **Action lock:** Feris **excited / wonder** — big discovery energy (NOT distressed). Opening tone = wonder. Chernobog ominous behind her.
 - **OUT:** Chernobog yellow eyes / shadow bloom → cut on eye flash
-- **Motif:** yellow eyes in dark
+- **Motif:** yellow eyes in dark + discovery wonder
 
 ### 03 Vesper investigation room
 - **IN:** eye flash resolves into cool monitor blue
