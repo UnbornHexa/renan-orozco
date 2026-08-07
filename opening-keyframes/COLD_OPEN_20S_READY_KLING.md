@@ -48,17 +48,19 @@ START/END stills are **strong reference + composition guidelines**, not freeze-f
 
 ### 2 — Feris → Vesper (`02` → `03`) · 5s · CALMER
 ```
-START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze Vesper stiff; allow natural motion that still lands in the end-frame world.
+START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
 
 150 BPM Digimon OP — UPBEAT but CALMER (not smash hype).
 
-BEAT 1 — ROOM CHANGE: cyan/magenta digital glitch tear / pixel shatter transforms Feris’s lab into Vesper’s investigation room. Settle into Vesper’s desk scene. No Pokéball pop-ins. NO phone in his hands (notebook + papers only).
+START — FERIS ALIVE (before / into the tear): Feris must NOT be frozen. Soft life-motion while still in the lab — hair gently sways, hand/fingers on the device shift slightly, light breathe, Chernobog subtle wing/eye life. Keep her pose language from the start frame, but she is alive, not a still cutout.
+
+BEAT 1 — ROOM CHANGE: cyan/magenta digital glitch tear / pixel shatter transforms Feris’s lab into Vesper’s investigation room. Settle into Vesper’s desk scene. No Pokéball pop-ins. NO phone in Vesper’s hands (notebook + papers only).
 
 BEAT 2 — VESPER ACTION: serious, contemplating evidence. Eyes move / scan while reading papers and notebook. Notebook opens; he turns / flips pages. Upper body, shoulders, head, and hands move naturally for reading and sorting evidence — alive case-work, not a frozen plate, not frantic.
 
 BACKGROUND LIFE: blue holographic train-station projection stays glitchy and alive — flicker, scanlines, brief digital tear, soft data shimmer — continuous digital unrest.
 
-Keep face likeness, long silver hair, glasses, cardigan locked. No redesign, no extra logos, no phone morphs, no extra characters.
+Keep face likeness and wardrobe locked. No redesign, no extra logos, no phone morphs, no extra characters.
 ```
 
 ### 3 — Vesper → Yujiro (`03` → `Y`) · 3s
