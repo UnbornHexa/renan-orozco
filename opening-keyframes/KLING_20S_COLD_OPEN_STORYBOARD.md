@@ -54,7 +54,8 @@
 | 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
 | 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
 | 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–22s+ | `J`→`04L` | **6s** (8s OK) | Junko run→notice→jump punch shatter→living title→dive Feris phone white. No expression morphs. |
+| 16–19s | `J`→`J` | **3s** | 5a: Junko run→notice→jump punch (no title). |
+| 19–22s | `J`→`04L` | **3s** | 5b: shatter→living title→dive Feris phone white. |
 
 Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 
