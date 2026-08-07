@@ -121,12 +121,16 @@ BEAT A — ANGRY: her expression turns ANGRY / fight-ready (determined fury). On
 
 BEAT B — SPEED UP INTO SCREEN: she picks up speed hard and charges toward / into the camera / screen (full run acceleration, body rush) — NOT a punch pose. She is running into the screen.
 
-BEAT C — CLASSIC DIGITAL TRANSITION → TITLE: as she goes into the screen, the screen glitches VERY QUICKLY — hard cyan/magenta digital tear / pixel shatter (same cold-open transition language as the other cuts). Instant smash. No slow morph. No Pokéball pop-in. Reveal the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot (04L v20). Cast already in the end-frame composition after the tear.
+BEAT C — CLASSIC DIGITAL TRANSITION → TITLE: as she goes into the screen, the screen glitches VERY QUICKLY — hard cyan/magenta digital tear / pixel shatter (same cold-open transition language as the other cuts). Instant smash. No slow morph. Reveal the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot (04L v20).
 
-BEAT D — TITLE ALIVE:
+DIGIMON APPEARANCE (critical): wireframe Digimon partners DIGITALLY TELEPORT / EMERGE INTO their END-frame positions — Digimon-style data materialize / scan-in / pixel assemble on the spot where they belong. They appear already in place, popping into existence at their marks. Do NOT unfurl, unroll, peel open, stretch, or grow out of empty space from wrong poses. Not a Pokéball throw. More like Digimon digital teleport: brief cyan data flash → they are there in position.
+
+Tamers are already in the end-frame composition after the tear (or settle instantly with the title plate). Digimon teleport-in is the Digimon-like flourish.
+
+BEAT D — TITLE ALIVE (after they have emerged):
 - Digital Tokyo city lights FLICKER / pulse unevenly.
 - Tamers KEEP POSITION but soft-life motion: clothing fabric sway, hair drift, tiny breath/body shifts. Faces stay sharp — no melt.
-- Wireframe Digimon partners slight living idle motion + soft glow pulse.
+- Wireframe Digimon, once teleported in, stay on their marks with slight living idle motion + soft glow pulse (no further unfurling).
 - TITLE LETTER EFFECT: electric cyan EDGE-CRAWL / soft neon pulse + tiny spark-flicker along DIGIMON STORY: BEYOND THE DOOR glyphs (not redesigning the locked logo). Side boards stay readable.
 
 BEAT E — NEAR END PHONE DIVE → WHITE: very close to the end, camera rapidly DIVES into Feris’s glowing phone screen in the CENTER; smash/bloom to PURE WHITE for the lyric-half cut.
