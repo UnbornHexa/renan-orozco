@@ -71,28 +71,36 @@ Still folder: `Beyond_the_Door_OP_Locked_Keyframes/stills/`
 ```
 Image-to-video using the given START and END frames.
 Begin exactly on the start frame. End exactly on the end frame.
-150 BPM anime opening energy: fast, hyped, exciting — not slow or sleepy.
-Animate a continuous Digimon Story OP transition between the frames.
-Bridge action: [motif / dive-whip-smash from table].
+150 BPM Digimon anime OP: always upbeat and alive — [HYPE or UPBEAT gear].
+Animate a continuous transition between the frames.
+Bridge action: [motif from table].
 Match start and end compositions hard. Keep characters, wardrobe, Digimon locked.
 Do not redesign faces, add extra characters, or invent logos.
 ```
 
+Pick **HYPE** or **UPBEAT** per row (01 = HYPE dive; 12→13 = UPBEAT warm; 07–11 = HYPE; etc.).
+
 ---
 
-## Ready prompt — KF01 → KF02 (start here)
+## Ready prompt — KF01 → KF02
 
 **START:** `01_phone_reflection.png`  
-**END:** `02_feris_lab_chernobog.png`
+**END:** `02_feris_lab_chernobog.png`  
+**Note:** First Kling take was too still (camera barely moved). Retry must force a **dynamic top-down dive into the phone face**, then smash into the lab.
 
 ```
 Image-to-video using these START and END frames.
-Begin exactly on the phone reflection night shot. End exactly on the Feris lab / Chernobog shot.
-150 BPM hyped Digimon anime OP energy — exciting and urgent, NOT slow.
-Phone screen pulses bright; camera RUSHES and DIVES into the phone glass / screen like a warp.
-White-blue digital flare smash as we punch through the reflection into the cool lab.
-Resolve cleanly into the end frame: Feris in the lab with Chernobog’s shadow.
-Keep both frames’ designs locked. No extra characters, no logo inventing, no sleepy camera drift.
+Begin on the start frame; end exactly on the Feris lab / Chernobog end frame.
+150 BPM Digimon OP — HYPE + DYNAMIC camera (not a locked still plate).
+
+CAMERA (must do this):
+1) Swing/arc so we face the phone screen more head-on / top-down — looking straight into the phone’s face.
+2) Then RUSH and DIVE into the glowing phone screen as if falling through the glass.
+3) White-blue digital warp smash through the reflection.
+4) Punch out into the cool lab and settle on the end frame.
+
+Strong parallax and motion; do NOT keep a static camera. Dynamism is required.
+Match start and end frame designs. No extra characters, no invented logos.
 ```
 
 ---
