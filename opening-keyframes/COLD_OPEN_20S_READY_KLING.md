@@ -46,10 +46,14 @@ Match end frame composition hard. No redesign, no extra logos.
 ### 2 — Feris → Vesper (`02` → `03`) · 5s · CALMER
 ```
 START/END frames exact. 150 BPM Digimon OP — UPBEAT but CALMER (not smash hype).
-Soft cyan/blue digital dissolve / light glitch wash transforms Feris lab into Vesper’s investigation room.
-No violent character slam-ins. Vesper is ALREADY in the end frame — serious, focused, slight natural life-motion only (tiny head/hand shift, screen flicker).
-Do not make anyone jump or pop into frame.
-Keep faces, hair, wardrobe locked to the end frame. No redesign, no extra logos.
+
+BEAT 1 — ROOM CHANGE: cyan/magenta digital glitch tear / pixel shatter transforms Feris’s lab into Vesper’s investigation room. Land on the end-frame composition. No Pokéball pop-ins.
+
+BEAT 2 — VESPER ACTION (once landed): Vesper is already at his desk, serious and contemplating the evidence. He flips / pages through his notebook while holding his phone — thoughtful case-work motion, not frantic.
+
+BACKGROUND LIFE: the blue holographic train-station projection behind him stays glitchy and alive — flicker, scanlines, brief digital tear, soft data shimmer — continuous digital unrest, not a frozen plate.
+
+Keep faces, hair, glasses, wardrobe locked to the end frame. No redesign, no extra logos, no extra characters.
 ```
 
 ### 3 — Vesper → Yujiro (`03` → `Y`) · 3s
