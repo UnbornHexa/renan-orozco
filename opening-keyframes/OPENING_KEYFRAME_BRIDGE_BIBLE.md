@@ -8,6 +8,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 2. Prefer bridges via **light bloom**, **color wash**, or **shared motif** (Bureau Zero crimson, red thread, white smash, door light, warm sunset gold).
 3. If a tool can’t match motion, match **color + motif** first.
 4. Keep character wardrobe locked per sheet; do not reinvent outfits mid-OP.
+5. **Feris body/wardrobe lock:** female tomboy, large bust, slightly shorter than Junko; jacket always over sailor-crop+skirt **or** sports-top+shorts; **prefer midriff showing** with athletic **toned** (not ripped) abs.
 
 ---
 
@@ -21,6 +22,7 @@ Each keyframe has **IN** (how the snippet must start) and **OUT** (how the snipp
 ### 02 Feris lab / Chernobog
 - **IN:** from 01 white-blue phone flare into cool lab fluorescents
 - **Action lock:** Feris **excited / wonder** — big discovery energy (NOT distressed). Opening tone = wonder. Chernobog ominous behind her.
+- **Wardrobe:** sailor crop **or** sports top under open jacket; **midriff visible**, toned not ripped; large bust
 - **OUT:** Chernobog yellow eyes / shadow bloom → cut on eye flash
 - **Motif:** yellow eyes in dark + discovery wonder
 
@@ -87,7 +89,7 @@ Bridge spine: **warm sunset gold → cool Bureau blue → red thread → medical
 ### 13 Junko & Feris sunset park (single flash; replaces old 13a+13b)
 - **Purpose:** one hopeful foreshadow of Junko/Feris bond — **not** a Devidramon remake of KF08
 - **Action lock:** Junko and Feris **holding hands**, smiling at each other, city park at sunset
-- **Character lock — Feris:** female tomboy with large breasts (she/her); **NOT** a boy / flat-chested
+- **Character lock — Feris:** female tomboy with large breasts (she/her); **NOT** a boy / flat-chested; prefer midriff with toned (not ripped) abs when outfit allows
 - **Height lock:** Feris is **slightly shorter** than Junko
 - **IN:** warm release from 12 settles into golden sunset park light
 - **OUT:** clasped hands / warm gold-rose flare → smash into cool blue (13c)

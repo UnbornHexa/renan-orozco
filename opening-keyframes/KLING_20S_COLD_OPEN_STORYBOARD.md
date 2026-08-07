@@ -5,9 +5,15 @@
 **Method:** step panels + short chains (reduce character melt).
 
 ## Wardrobe lock — Feris (OP spine)
-- Default (lab, group, most OP): **black-and-red sailor fuku top** (sailor collar, red bow), fitted with room for large bust — **not** a black sports bra.
-- Headphones, gloves, shorts/tactical OK.
-- **Exception KF13 sunset walk:** different casual top (park still) — keep as-is.
+- **Female tomboy**, she/her; **large bust**; **slightly shorter than Junko**.
+- **Two tamer clothing options** (either is OK):
+  1. **Black-and-red sailor fuku** crop top + **skirt** bottom  
+  2. **Sports top + shorts**
+- **Jacket always present** over either option (open so the midriff reads).
+- **Midriff lock (prefer always):** show a bit of midriff. Athletic **toned** abs — soft muscle definition, **not ripped** six-pack / bodybuilder abs.
+- Fitted with room for large bust — **not** a flat sports-bra-only look without sailor/sports+jacket context.
+- Headphones, gloves, tactical straps OK.
+- **Exception KF13 sunset walk:** different casual clothing OK on that still — midriff preference still applies when the outfit allows.
 
 ## Character flashes (locked picks)
 - **Yujiro:** A — neon street + **Gotsumon**, confident grin  
@@ -23,11 +29,11 @@
 | **01a** | `01_phone_reflection.png` | Phone wide + sacred portal windows |
 | **01b** | `kf_01b_phone_face_topdown.png` | Closer / facing phone screen |
 | **01c** | `kf_01c_phone_dive_through_glass_v2.png` | Dive through glass / digital tunnel |
-| **02** | `kf_corrected_02d_feris_lab_sailor_wonder.png` | Feris lab wonder + Chernobog (sailor top) |
+| **02** | `kf_corrected_02e_feris_lab_sailor_jacket_midriff.png` | Feris lab wonder + Chernobog (sailor crop + jacket + midriff) |
 | **03** | `03_vesper_investigation.png` | Vesper investigating |
 | **Y** | `kf_20s_yujiro_neon_gotsumon.png` | Yujiro neon + Gotsumon |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
-| **04L** | `kf_20s_group_beyond_the_door_logo.png` | Group + wireframe partners + **Beyond the Door** logo |
+| **04L** | `kf_20s_group_beyond_the_door_logo_v4.png` | Group + wireframe partners + **Beyond the Door** logo (Feris midriff + jacket) |
 
 ---
 
@@ -76,7 +82,7 @@ Portals stay coherent. Not static. End locked on end frame.
 ```
 START/END exact. 150 BPM HYPE.
 Dive through phone glass / digital tunnel; white-blue smash into Feris lab wonder end frame.
-Feris excited discovery, black-red sailor top, Chernobog behind. Dynamic, not still.
+Feris excited discovery, black-red sailor crop + open jacket, midriff toned (not ripped), Chernobog behind. Dynamic, not still.
 ```
 
 ### Pair 4–7 prompt shell (glitch flashes)

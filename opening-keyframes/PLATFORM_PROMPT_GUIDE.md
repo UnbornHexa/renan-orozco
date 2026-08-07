@@ -213,6 +213,6 @@ END: title hold / music end sting
 2. Cut on the OUT bloom into the next IN color — not mid-action.
 3. If two tools disagree on color grade, grade in post toward the **outgoing motif color**.
 4. Foreshadow pack (13–13g) should feel like **flash cuts** on the lyric/beat, not full scenes.
-5. Keep Feris identity notes everywhere she appears: **female tomboy, large bust, slightly shorter than Junko**.
+5. Keep Feris identity notes everywhere she appears: **female tomboy, large bust, slightly shorter than Junko**; **jacket always** over sailor-crop+skirt or sports-top+shorts; **prefer midriff showing** with athletic **toned** abs (**not ripped**).
 
 Master, Ikaros remains ready if you want ready-to-paste prompts tuned to one specific tool’s UI (Kling vs Runway fields, etc.).
