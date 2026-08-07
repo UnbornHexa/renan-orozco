@@ -1,16 +1,31 @@
 # Kling OP — Start / End Frame Storyboard
 
 Kling Image-to-Video asks for **start frame** and **end frame**.  
-We use that to **chain** the OP: each snippet’s **END** is the next snippet’s **START** (or a bridge still that *is* that handoff).
+We chain the OP so each clip’s **END** feeds the next clip’s **START**.
 
-## Rule (locked)
+## Production method (locked) — step panels + short gens
+
+Long morphs across big pose/scene jumps **mutate characters** on Kling.  
+So we build **more keyframes / panels** = each *step* of the opening, then generate **precise 1–2s** (or 5s trimmed to 1–2s) between **adjacent** panels only.
+
+| Rule | Detail |
+|---|---|
+| Panel density | Extra mids on camera moves & hype bridges; fewer on simple flashes |
+| Kling pair | Only **neighboring** panels (small delta) |
+| Duration | Prefer **1–2s** intent; trim if tool minimum is 5s |
+| Priority | Likeness lock > flashy interpolation |
+| Music | 150 BPM — cut on beats in edit |
+
+Hero stills (01, 02, 08…) remain the spine; **step panels** fill the exact flow between them.
+
+## Legacy chain rule (still valid between hero stills)
 
 | Slot | What to upload |
 |---|---|
-| **START** | Locked still for this beat |
-| **END** | Locked still for the **next** beat |
+| **START** | This step panel |
+| **END** | Next step panel |
 
-Kling must morph A → B. Prompt describes the motion **between** them and the bridge motif (light/color) from the Bridge Bible.
+Prompt = small motion between them + bridge motif when crossing scenes.
 
 ## Music lock — 150 BPM (upbeat OP, not flat throttle)
 
