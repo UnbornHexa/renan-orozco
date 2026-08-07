@@ -12,7 +12,7 @@ So we build **more keyframes / panels** = each *step* of the opening, then gener
 |---|---|
 | Panel density | Extra mids on camera moves & hype bridges; fewer on simple flashes |
 | Kling pair | Only **neighboring** panels (small delta) |
-| Duration | Prefer **1–2s** intent; trim if tool minimum is 5s |
+| Duration | Kling minimum **3s** (~**18 credits** at current tier) — trim in edit to the beat if needed |
 | Priority | Likeness lock > flashy interpolation |
 | Music | 150 BPM — cut on beats in edit |
 
