@@ -80,11 +80,17 @@ Keep face likeness locked. Yujiro hair: sandy-blonde / light brown with TWO purp
 
 ### 4 — Yujiro → Junko (`Y` → `J`) · 3s
 ```
-START/END frames exact. 150 BPM upbeat snap cut.
-Hard digital glitch tear (cyan/magenta pixels) transforms Yujiro/Gotsumon into Junko athletic sprint.
-Junko is ALREADY in the end frame — confident energy, slight running life-motion only after the tear (no pop-in burst).
-Keep white + black bear hairpins locked. Energetic glitch, clean land.
-Do not redesign characters or invent logos.
+START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
+
+150 BPM Digimon OP — upbeat run energy.
+
+START — YUJIRO ALIVE: Yujiro is already sprinting with full running motion; neon city PASSING AROUND him. Gotsumon runs beside him. Yujiro looks back over his shoulder (cunning / reacting). Gotsumon points forward and “talks” / shouts a warning (mouth open, arm point ahead). Yujiro snaps his gaze forward again for a BRIEF instant as if he is about to collide with something — but we NEVER see the obstacle or the impact.
+
+BEAT 1 — IMPACT = GLITCH CUT: at that near-collision beat, the screen glitches VERY QUICKLY (hard cyan/magenta digital tear / pixel shatter) — instant smash-cut transition. No slow morph. No Pokéball pop-in.
+
+BEAT 2 — JUNKO RUN: cut lands on Junko already jogging/running with full athletic stride. Confident energy. Sweat droplets fly off her face/hair/body with the motion. The world PASSES AROUND her in the rhythm of her run — strong parallax, street/lights pumping past on her stride tempo. White + black bear hairpins locked. Hair and clothes react to speed. Not frozen.
+
+Keep face likeness locked. No redesign, no extra logos, no extra characters. Do not show what Yujiro would have hit.
 ```
 
 ### 5 — Junko → group logo (`J` → `04L`) · 3s + hold
