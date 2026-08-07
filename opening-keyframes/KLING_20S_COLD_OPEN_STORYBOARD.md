@@ -7,7 +7,7 @@
 ## Wardrobe lock — Feris (OP spine)
 - **Female tomboy**, she/her; **large bust**; **slightly shorter than Junko**.
 - **Two tamer clothing options** (pick **exactly one** set — never mix):
-  1. **Black-and-red sailor fuku** crop top + **skirt** bottom  
+  1. **Black-and-red sailor fuku** crop top + **skirt** bottom — sailor is ALWAYS **black and red only** (never navy, blue, or other colors)
   2. **Sports top + shorts**
 - Do **not** combine sailor top with shorts, or sports top with a skirt.
 - **Jacket always present** over either option (open so the midriff reads).
@@ -21,9 +21,11 @@
 - **Yujiro hair lock (always):** match **13d coin / KF04** — messy **sandy-blonde / light brown** with **two purple streaks/accents side-by-side** (NOT one streak only; NOT silver/lavender-white; NOT full purple).
 - **Gotsumon lock:** classic rock Gotsumon (clean blocky stones, two yellow eyes) — **not** crystalline/mutated shard forms.  
 - **Junko:** B — athletic sprint, sportswear, determined smile  
+- **Junko hairpins (always):** **white bear** + **black bear** pins on twin tails (never skulls).
+- **Junko kendo bag:** one continuous shinai bag on her back — no floating/unaligned extra piece.
 - **Group logo (ALWAYS):** use the exact logo from **04L v6** (`kf_20s_group_beyond_the_door_logo_v6.png`) — winged BEYOND + concentric-circle O. Never redesign it.
 - **Group Digimon:** keep the **old wireframe partners** from v6/KF04 style (Kotemon 4-eye mask read is OK).
-- **Group only new edits:** Feris clothing consistency (sailor+skirt **or** sports+shorts, never mixed) + Junko **kendo/sword bag** on her back.
+- **Group only new edits:** Feris clothing consistency (black-red sailor+skirt **or** sports+shorts, never mixed) + Junko **kendo/sword bag** on her back.
 
 ---
 
@@ -38,7 +40,7 @@
 | **03** | `03_vesper_investigation.png` | Vesper investigating |
 | **Y** | `kf_20s_yujiro_neon_gotsumon_v4.png` | Yujiro neon + Gotsumon (dual purple streaks; locked) |
 | **J** | `kf_20s_junko_athletic_sprint.png` | Junko athletic sprint |
-| **04L** | `kf_20s_group_beyond_the_door_logo_v11.png` | Group + **v6 logo** (locked) + old wireframes; Feris sailor+skirt; Junko kendo bag |
+| **04L** | `kf_20s_group_beyond_the_door_logo_v13.png` | Group + **exact v6 logo** on Master-approved v13 plate (black-red sailor; bear pins) |
 
 ---
 
