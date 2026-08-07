@@ -46,66 +46,17 @@
 
 ---
 
-## Timing map (~20s)
+## Timing map (~20s instrumental)
 
-| Edit time | Panel land | Notes |
-|---|---|---|
-| 0–5s (trim) | 01a→02 | Preferred dive: slanted phone START → lab END (5s). `01b` dragged the phone — avoid. |
-| 9–12s | 02→03 | Glitch to Vesper |
-| 12–15s | 03→Y | Glitch to Yujiro |
-| 15–18s | Y→J | Glitch to Junko |
-| 18–21s | J→04L | Glitch / pull back from Feris phone → group + logo |
-| ~20s | **Lyrics hit** | On/just after logo settle |
+| Time | Pair | Duration | Notes |
+|---|---|---|---|
+| 0–5s | `01a`→`02` | **5s** | Slanted phone dive → lab. `01b` dragged phone — avoid. |
+| 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
+| 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
+| 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
+| 16–20s+ | `J`→`04L` + hold | **3s** + ~5s | Group logo; leave title ~5s. |
 
-*(Trim each 3s Kling take down to ~2.5–3s on the grid as needed.)*
-
----
-
-## Kling pairs (generate in this order)
-
-Each: START = left, END = right · **3s · 18cr · 720p · Audio OFF**
-
-1. `01a` → `01b`  
-2. `01b` → `01c`  
-3. `01c` → `02`  
-4. `02` → `03`  
-5. `03` → `Y`  
-6. `Y` → `J`  
-7. `J` → `04L`  
-
-**Budget:** 7 × 18 = **126 credits** if one-take each.
-
-### Shared glitch language (use on 4–7)
-Cyan/magenta digital tear, pixel shatter, brief white flash; land clean on end frame.
-
-### Pair 1 prompt (phone approach)
-```
-START/END frames exact. 150 BPM upbeat Digimon OP.
-Camera pushes dynamically toward the phone — more head-on / facing the screen.
-Portals stay coherent. Not static. End locked on end frame.
-```
-
-### Pair 3 prompt (dive → lab)
-```
-START/END exact. 150 BPM Digimon OP.
-CAMERA: dynamic dive through phone glass / white-blue digital tunnel — strong motion ONLY during the dive.
-LANDING: settle cleanly onto the Feris lab end frame. Feris is ALREADY in the lab — do NOT make her jump, pop, leap, or burst into frame (not a Pokéball entrance).
-On the lab hold: only slight natural life-motion (soft breathe, tiny head/hand shift, Chernobog wings/eyes subtle) so the still feels alive.
-Keep wardrobe locked: black-red sailor crop + open jacket, midriff toned (not ripped). Chernobog behind.
-Match end frame composition hard. No redesign, no extra logos.
-```
-
-### Pair 4–7 prompt shell (glitch flashes)
-```
-START/END exact. 150 BPM upbeat snap cut.
-Hard digital glitch tear (cyan/magenta pixels) transforms start scene into end scene.
-Keep characters locked to end frame. Energetic, not slow.
-```
-
-### Pair 7 add-on
-```
-...end on group shot with title DIGIMON STORY: BEYOND THE DOOR at top in front of the gate; feel like pulling back from Feris's glowing phone into the full team.
-```
+Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 
 ---
 
