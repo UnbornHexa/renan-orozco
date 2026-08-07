@@ -65,11 +65,19 @@ Keep face likeness and wardrobe locked. No redesign, no extra logos, no phone mo
 
 ### 3 — Vesper → Yujiro (`03` → `Y`) · 3s
 ```
-START/END frames exact. 150 BPM upbeat snap cut.
-Hard digital glitch tear (cyan/magenta pixels) transforms Vesper’s room into Yujiro neon street with Gotsumon.
-Yujiro + Gotsumon are ALREADY in the end frame — settle on that composition; only slight life-motion after the tear (no Pokéball pop-in).
-Keep Yujiro hair locked (sandy-blonde + two purple streaks). Energetic glitch, clean land.
-Do not redesign characters or invent logos.
+START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
+
+150 BPM Digimon OP — upbeat snap energy (faster than the Vesper calm beat, still controlled).
+
+START — VESPER ALIVE (before / into the tear): Vesper must NOT be frozen. Soft living case-work motion — eyes still reading, notebook/pages shift, slight head/shoulder/hand movement, train-station hologram still glitching. Keep his pose language from the start frame, but he is alive, not a still cutout. NO phone.
+
+BEAT 1 — SCENE CHANGE: hard cyan/magenta digital glitch tear / pixel shatter transforms Vesper’s investigation room into Yujiro’s neon night street. Settle into the end-frame composition. No Pokéball pop-ins.
+
+BEAT 2 — YUJIRO ACTION: Yujiro + Gotsumon are already in the neon street end frame. Alive after the tear — cunning energy, natural running/lunging life-motion, hair and clothes react to speed, Gotsumon runs with him (rocky stride, subtle bounce). Not frozen; not a sudden spawn burst.
+
+BACKGROUND LIFE: neon city stays alive — light flicker, wet-street reflections shift, motion streak energy in the city, not a dead plate.
+
+Keep face likeness locked. Yujiro hair: sandy-blonde / light brown with TWO purple streaks side-by-side. Classic Gotsumon. No redesign, no extra logos, no extra characters.
 ```
 
 ### 4 — Yujiro → Junko (`Y` → `J`) · 3s
