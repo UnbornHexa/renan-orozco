@@ -62,5 +62,12 @@ Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 
 ---
 
-## After logo (parked)
-Do not reorder the lyric half until Master locks this 20s. Then plan 05→14 under vocals.
+## After logo / lyrics (next)
+Cold open locked through title @ ~19s.  
+Song energy map (Master): `OP_SONG_ENERGY_MAP.md`
+
+- **19s** lyrics start — chill / jogging pace  
+- **31s** energy +1 · **41s** energy +1 · **55s** beat drop (fight)  
+- **75s** climax / vocal stretch · **91s** lyrics end → final riff send-off  
+
+Plan lyric-half stills **05→14** against those bands.
