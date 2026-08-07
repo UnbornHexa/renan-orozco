@@ -99,10 +99,25 @@ BEAT E — JUNKO RUN: cut lands on Junko already jogging/running with full athle
 Keep face likeness locked. Yujiro hair: sandy-blonde + TWO purple streaks. No redesign, no extra logos, no extra characters. Do not show what he would have hit.
 ```
 
-### 5 — Junko → group logo (`J` → `04L`) · 3s + hold
+### 5 — Junko → group logo (`J` → `04L`) · **5s** (then hold/edit) 
 ```
-START/END exact. 150 BPM upbeat snap cut.
-Hard digital glitch tear (cyan/magenta pixels) transforms Junko sprint into the group logo end frame.
-End on group shot with title DIGIMON STORY: BEYOND THE DOOR at top in front of the gate; feel like pulling back into the full team.
-Characters ALREADY posed in end frame — slight life-motion only after land. Keep logo/boards/wireframes locked.
+START/END frames are strong references — obey composition, identity, wardrobe, and scene. Do NOT freeze characters stiff; allow natural motion that still obeys each keyframe’s world.
+
+150 BPM Digimon OP — hype into title settle.
+
+START — JUNKO ALIVE RUN: Junko already jogging/running with full stride; twin tails bounce naturally; sweat flecks; world passing around her on her run rhythm. White + black bear hairpins locked.
+
+BEAT A — NOTICE → SURPRISE: Junko notices something ahead/off-screen — eyes catch it; expression snaps to SURPRISE.
+
+BEAT B — SURPRISE → ANGER: immediately her face turns to ANGER / fight-ready fury (not fear).
+
+BEAT C — SPEED + PUNCH: she picks up speed, then JUMPS FORWARD and PUNCHES toward / into the camera / screen with full body commitment.
+
+BEAT D — SCREEN SHATTER → TITLE: on impact the screen SHATTERS (glass/digital shards + cyan/magenta glitch) and reveals the group TITLE end frame — DIGIMON STORY: BEYOND THE DOOR team shot. No Pokéball pop-in of the cast; they are already in the end-frame composition.
+
+BEAT E — TITLE ALIVE (hold energy): Digital Tokyo lights FLICKER. Tamers keep their positions but stay alive — soft clothing sway, hair drift, tiny body/breath shifts. Wireframe Digimon also slight living motion (idle shift / glow pulse) matching the tamers. Title letters DIGIMON STORY: BEYOND THE DOOR feel alive with a cool electric cyan edge-crawl / soft neon pulse + tiny spark-flicker along the glyphs (not melting, not redesigning the logo). Side boards stay readable.
+
+BEAT F — NEAR END PHONE DIVE: very close to the end, camera DIVES into Feris’s glowing phone screen in the center; smash to WHITE for the cut into the next OP half.
+
+Keep face likeness, wardrobe, logo, wireframes locked to the end-frame design. No redesign, no extra logos, no extra characters.
 ```
