@@ -56,8 +56,7 @@
 | 5–10s | `02`→`03` | **5s** | Feris → Vesper, **calmer** (extra time). |
 | 10–13s | `03`→`Y` | **3s** | Vesper → Yujiro snap glitch. |
 | 13–16s | `Y`→`J` | **3s** | Yujiro → Junko snap glitch. |
-| 16–19s | `J`→`J_end_jump_punch` | **3s** | 5a: run→notice→jump punch. |
-| 19–22s | `04L`→`04L_end_phone_dive_white` | **3s** | 5b: living title→phone dive white. Shatter in edit from 5a. |
+| 16–22s | `J`→`04L` | **6s** | Angry + speed-up into screen → digital tear → living title → phone white. NO punch. |
 
 Full ready prompts: `COLD_OPEN_20S_READY_KLING.md`
 
