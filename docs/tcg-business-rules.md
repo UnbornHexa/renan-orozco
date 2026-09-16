@@ -183,6 +183,75 @@ Each royalty statement should include:
 - Remaining recoupment target, if applicable.
 - Whether the artist is still in recoupment royalty or founder royalty phase.
 
+## Project Failure and End-of-Service Rules
+
+The project must clearly distinguish a royalty target from a guaranteed debt.
+
+Default planning assumption:
+
+- The three-times recoupment target is a target paid from Net Game Receipts.
+- It is not automatically a guaranteed cash debt owed personally by the founder or company if the game fails, never launches, or does not earn enough revenue.
+- Royalties are only payable from actual Net Game Receipts unless a separate written contract creates a minimum guarantee.
+- Any royalties already accrued from received Net Game Receipts remain owed and should be paid from the royalty reserve.
+
+This means the artist accepts real project risk in exchange for upside participation.
+
+If the game shuts down:
+
+- Prepare a final royalty statement.
+- Calculate all Net Game Receipts received up to the shutdown date.
+- Pay all accrued royalties that are due from those receipts.
+- Pay any remaining reserved royalties.
+- If the recoupment target was not fully reached, the unpaid target does not become a new debt unless the contract explicitly says otherwise.
+- Ongoing founder royalties end when the game permanently stops commercial operation, unless revenue is still being received from prior sales, delayed platform payouts, or similar sources.
+
+Recommended final-accounting window:
+
+- Issue final accounting within 60 to 90 days after end of service or project cancellation.
+- Continue reporting and paying any delayed platform revenue that arrives afterward, if material.
+
+If the game is later revived, relaunched, sold, or transferred:
+
+- The original royalty terms should either reactivate for the same game or be bought out under a separate written agreement.
+- A sale or transfer of the game should not be used to erase already promised royalty rights.
+- Formal contracts should require any buyer or successor to assume the royalty obligation, unless the artist agrees to a buyout.
+
+## Contributor Exit and Vesting Rules
+
+If a founding artist stops contributing, the project should separate completed work from future expectations.
+
+Recommended default:
+
+- Completed and accepted work remains counted.
+- Unfinished, rejected, or unusable work does not count toward Accepted Unpaid Commission Value.
+- The artist keeps the royalty rights already earned by completed and accepted milestones.
+- The artist does not automatically earn future milestone percentages or future unpaid-value increases after leaving.
+- Future commission priority, advisory roles, or special team privileges may end if the artist is no longer actively contributing.
+
+The founding deal should be milestone-based where possible.
+
+Example:
+
+- First approved card-art batch unlocks part of the recoupment royalty.
+- Core character designs unlock another part.
+- Visual style guide or faction identity work unlocks another part.
+- Launch-ready asset package unlocks the full agreed founding status.
+
+This protects both sides. The artist is paid for real accepted contributions, and the project is not locked into a full founding deal if the artist leaves after minimal work.
+
+## No-Minimum-Guarantee Safety Belt
+
+The rough business rule should say clearly:
+
+- There is no guaranteed minimum payout unless separately agreed.
+- The artist's upside comes from royalties if the game earns revenue.
+- The project founder is not personally responsible for paying the full recoupment target out of pocket if the game fails.
+- The company/project is responsible for paying accrued royalties from received Net Game Receipts.
+
+This should be explained honestly before the artist joins. The ethical framing is:
+
+> "I cannot guarantee the game will succeed, but if it does, your early unpaid work receives priority repayment from game revenue and then a continuing founder royalty."
+
 ## Draft Working Offer
 
 For a primary founding artist:
