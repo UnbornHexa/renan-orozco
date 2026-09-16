@@ -1,0 +1,219 @@
+# TCG Business Rules
+
+This is a living planning document for the original digital TCG project. It records the current business and monetization rules so they can be refined later and used as guidance before formal legal documents are drafted.
+
+This document is not legal advice. Before signing agreements with artists, contributors, publishers, investors, or platforms, convert these rules into proper contracts with qualified legal help.
+
+## Monetization Philosophy
+
+- The game should be free to play.
+- Players should not be forced to pay in order to compete.
+- Strong gameplay cards should be obtainable through play and crafting.
+- Paid spending should focus on beauty, collection, expression, prestige, and convenience.
+- Special arts, cosmetics, and premium presentation should be the main chase.
+- The preferred player feeling is: "I can play seriously for free, but I want to pay because the premium versions are beautiful."
+
+## Card Acquisition and Economy
+
+- Use a premium currency similar to gems.
+- Gems can be used for boosters and cosmetics.
+- Boosters should provide fair access to gameplay cards.
+- Meta-relevant cards may be rare, but should not be locked behind extreme odds.
+- Important competitive cards should have normal versions that are realistically obtainable.
+- Chase value should come from alternate arts, foils, animations, premium frames, and other cosmetic variants.
+- A crafting system is required for fairness.
+- Duplicate cards should convert into a crafting resource.
+- Normal gameplay versions of cards should be craftable.
+- Premium art versions may cost more, have special acquisition routes, or be booster/event chase items.
+
+## Mission and Reward Rules
+
+- Daily and weekly missions should normally be completable in any real player-interaction mode.
+- Ranked should not be mandatory for normal progression.
+- Eligible modes should include casual PvP, ranked PvP, friend battles, and event modes.
+- Pure bot matches should not normally count toward daily/weekly missions.
+- Friend battles may count, but should include anti-abuse rules such as minimum match length, meaningful actions, or limits on repeated progress against the same account.
+- Ranked players should receive meaningful rewards because their activity helps the game's health.
+- Ranked rewards should focus on gems, cosmetics, profile rewards, titles, card sleeves, playmats, and seasonal prestige.
+- Ranked should not provide exclusive gameplay power.
+- Login bonuses should exist.
+- New-player campaigns should be generous and help players reach their first functional deck quickly.
+
+## Artist Compensation Principles
+
+- Paying normal commissions is preferred whenever possible.
+- Revenue share should be used carefully and mainly for the earliest contributors taking real project risk.
+- Early artists who define the project's identity should be treated as founding contributors, not ordinary contractors.
+- Founding contributor status should reward early risk while preserving the long-term survival of the project.
+- Future sets should normally be paid by commission once the project has resources.
+- Future unpaid work should not automatically increase an original founding-artist repayment target unless both sides explicitly agree in writing.
+
+## Founding Artist Model
+
+The working model for founding artists has two layers:
+
+1. A temporary high-risk recoupment royalty.
+2. A smaller ongoing founder royalty.
+
+### Recoupment Royalty
+
+- A primary founding artist may receive a recoupment royalty of 8% of Net Game Receipts.
+- The recoupment royalty continues until the artist has received three times their Accepted Unpaid Commission Value.
+- Example: if the accepted unpaid commission value is USD 5,000, the recoupment target is USD 15,000.
+- Revenue from later sets may count toward this target. The royalty should be based on total Net Game Receipts from the game, not only revenue from the first set.
+- This avoids needing to prove whether Set 1, Set 2, or Set 3 caused a specific gem purchase.
+- If multiple founding artists participate, each artist's percentage and target should be defined individually, and the total temporary royalty burden should be checked for sustainability.
+
+### Founder Royalty After Recoupment
+
+- After the recoupment target is reached, the founding artist should keep a smaller ongoing founder royalty.
+- A working range is 1% to 3% of Net Game Receipts.
+- A primary founding artist may keep approximately 2% after recoupment, subject to final negotiation.
+- This ongoing royalty recognizes that the artist helped create the game's identity.
+- The founder royalty should not automatically grant company ownership, voting power, or creative control unless a separate co-founder/equity agreement says so.
+
+### Future Work
+
+- Future sets should normally be handled by standard paid commission.
+- A founding artist may be offered priority or first opportunity for future commissions, but the project should not be obligated to use only that artist forever.
+- If future unpaid work is needed, it should use a separate written deal.
+- Later unpaid art can use asset-specific royalties, set-specific bonuses, or a separate capped recoupment arrangement.
+- Future work should not automatically extend or inflate the original founding recoupment target.
+
+## Royalties
+
+A royalty is a contractual payment made because a person's work, property, or rights are being used commercially.
+
+Royalties do not necessarily mean the person owns part of the company. In this project, the preferred approach is:
+
+- The project receives ownership or broad permanent commercial rights to use the artwork.
+- The artist receives contractual royalty payments.
+- The artist does not automatically receive voting power, management authority, or ownership in the business.
+
+Possible royalty types:
+
+- Game-wide royalty: a percentage of the game's Net Game Receipts.
+- Asset-specific royalty: a percentage of revenue from a specific artwork, cosmetic, skin, or bundle.
+- Merchandise royalty: a percentage of merchandise revenue using the artist's work.
+- Recoupment royalty: a higher temporary royalty until a defined payout target is reached.
+- Founder royalty: a smaller ongoing royalty recognizing early foundational contribution.
+
+## Revenue Definition
+
+Use Net Game Receipts as the main royalty base.
+
+Net Game Receipts should generally mean money actually received by the project from the game after standard transaction deductions such as:
+
+- Platform fees.
+- Payment processing fees.
+- Refunds.
+- Chargebacks.
+- Sales tax, VAT, or similar transaction taxes collected from players.
+
+Net Game Receipts should not mean final profit after all business expenses. It is the middle definition: not gross customer spend, but also not profit after salaries, art budgets, servers, marketing, and other operating costs.
+
+Contracts should define whether the following are included or excluded:
+
+- Investor money.
+- Loans.
+- Grants.
+- Publisher advances.
+- Merchandise.
+- Physical card products.
+- Sequels.
+- Spin-offs.
+- Adaptations such as comics, animation, or novels.
+
+Default planning assumption: the founding artist royalty applies to this digital TCG's Net Game Receipts, not automatically to unrelated future products.
+
+## Royalty Payment Cadence
+
+Quarterly royalty payments are the preferred default.
+
+Reasons:
+
+- Quarterly payments are common and manageable.
+- Monthly payments create more administrative overhead.
+- Annual payments are too slow and may create distrust.
+- Quarterly payments balance simplicity and transparency.
+
+Recommended rule:
+
+- Royalties are calculated quarterly.
+- Payment is made within 30 days after the end of each calendar quarter.
+- Each payment includes a simple royalty statement.
+- A small minimum payout threshold may be used, such as USD 50 or USD 100, with unpaid balances rolling forward.
+
+## Royalty Reserve Controls
+
+The project must avoid accidentally spending money owed to artists.
+
+Recommended controls:
+
+- Treat accrued royalties as money that already belongs to the artist.
+- Maintain a royalty ledger for each artist.
+- At least monthly, calculate estimated royalty obligations from received Net Game Receipts.
+- Move the owed amount into a separate bank subaccount, savings account, or accounting reserve.
+- Do not treat reserved royalties as operating cash.
+- Reconcile the reserve at the end of each quarter before payment.
+
+Suggested workflow:
+
+1. Revenue is received from platforms/payment processors.
+2. Net Game Receipts are calculated.
+3. Artist royalty percentage is applied.
+4. The estimated royalty amount is moved into a royalty reserve.
+5. At quarter end, final calculations are reconciled.
+6. Artist receives payment and a statement within 30 days.
+
+For example, if a founding artist is owed 8% and the project receives USD 10,000 in Net Game Receipts for a month, USD 800 should be moved into the royalty reserve for that artist.
+
+## Royalty Statement Contents
+
+Each royalty statement should include:
+
+- Reporting period.
+- Gross customer revenue, if available.
+- Platform/payment deductions.
+- Net Game Receipts.
+- Artist royalty rate.
+- Royalty amount for the period.
+- Amount paid this period.
+- Total paid to date.
+- Remaining recoupment target, if applicable.
+- Whether the artist is still in recoupment royalty or founder royalty phase.
+
+## Draft Working Offer
+
+For a primary founding artist:
+
+- Accepted unpaid commission value is tracked and approved.
+- Recoupment target is three times the accepted unpaid commission value.
+- Artist receives 8% of Net Game Receipts until the recoupment target is reached.
+- After recoupment, artist receives approximately 2% of Net Game Receipts as an ongoing founder royalty.
+- Future work is commissioned separately.
+- Future unpaid work requires a separate written agreement.
+- The project receives ownership or permanent distribution/commercial-use rights for the artwork.
+- The artist receives credit and transparent royalty statements.
+
+For two founding artists:
+
+- Use individually defined rates and recoupment targets.
+- Consider keeping total temporary founder royalties within a sustainable range.
+- Consider ongoing founder royalties in the 1% to 3% range per artist, depending on contribution.
+
+## Open Legal Questions
+
+These require professional contract drafting later:
+
+- Whether the project owns the artwork outright or receives an exclusive perpetual license.
+- Whether the royalty continues forever, only while the game operates, or only while the founding work remains commercially used.
+- Whether royalties apply after sale of the company or sale of the game.
+- Whether royalties apply to sequels, spin-offs, merchandise, physical cards, or adaptations.
+- Whether the artist has audit rights.
+- What happens if the artist stops contributing before completing agreed milestones.
+- What happens if the game never launches.
+- How taxes, invoices, international payments, and withholding are handled.
+- Whether a minimum payment threshold is allowed.
+- Whether rights revert in any circumstance.
+
