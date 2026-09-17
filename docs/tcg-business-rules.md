@@ -29,6 +29,8 @@ This document is not legal advice. Before signing agreements with artists, contr
 ## Color and Faction Design Model
 
 - Colors should be thematic and mechanical identities, not one-to-one faction labels.
+- Because the core gameplay rules are not defined yet, color mechanics should remain provisional.
+- Colors can be discussed philosophically first, then revisited once the game's resource system, combat system, card types, and turn structure are clearer.
 - The color system should work similarly to a design "color pie": each color has associated traits, mechanics, keywords, strengths, and weaknesses.
 - Card design should obey color identity so future cards remain consistent and balanceable.
 - Factions should have one or two native/favored colors that represent their usual philosophy, methods, or power sources.
