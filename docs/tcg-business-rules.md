@@ -321,6 +321,32 @@ Internal protagonist-side positions:
 
 This faction should embody the setting's core question: whether instinct and the monstrous can be mastered and balanced, or whether it must be rejected and destroyed.
 
+## Yofunin Power Foundation
+
+The Yofunin should use a Japanese anime-inspired blend of:
+
+- Shinobi-style martial techniques.
+- Onmyodo-inspired occult arts.
+- Miko-inspired purification and ritual arts.
+- Clan-specific secret traditions.
+
+This should be a fictionalized system inspired by Japanese tradition, not a direct claim to accurately reproduce real religious practice.
+
+Core technique families:
+
+- Sealing arts: talismans, binding marks, spiritual chains, name-seals, and containment rites.
+- Barrier arts: kekkai-like fields, protective circles, boundary walls, and territory control.
+- Purification arts: ritual cleansing, sacred weapons, chants, kagura-like movement, and corruption removal.
+- Subjugation arts: suppressing youkai power, weakening instincts, forcing manifestation, or binding a target without killing it.
+- Slaying arts: lethal anti-youkai strikes, cursed blades, execution techniques, and clan assassination forms.
+- Shikigami/familiar arts: paper familiars, spirit messengers, scouts, decoys, and tactical summons.
+- Shinobi arts: stealth, misdirection, mobility, substitution, traps, poisons, wires, kunai, and close-range assassination.
+- Pact or synchronization arts: future advanced techniques where a Yofunin integrates, fuses, contracts, or resonates with youkai power.
+
+Design goal:
+
+> Yofunin should feel like clan-trained supernatural shinobi-priestesses who can fight, seal, purify, deceive, and eventually integrate youkai power.
+
 ## Artist Compensation Principles
 
 - Paying normal commissions is preferred whenever possible.
