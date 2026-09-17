@@ -46,6 +46,15 @@ Recommended design order:
 3. Design faction cards that fit both faction flavor and color identity.
 4. Let set-specific plot events create exceptions, hybrids, and splashes.
 
+Locked color-desire model:
+
+- Red represents the desire for Strife: conflict, battle, action, victory, revenge, and proving strength.
+- Blue represents the desire for Knowledge: truth, secrets, understanding, prediction, forbidden information, and hidden reality.
+- Yellow represents the desire for Control: order, systems, authority, security, regulation, and command over chaos.
+- White represents the desire for Higher Ideals: peace, protection, justice, purity, duty, salvation, and a better world.
+- Purple represents the desire for Pleasure / Consumption: indulgence, experience, selfish satisfaction, obsession, appetite, and destructive consumption.
+- Green represents the desire for Survival: endurance, adaptation, reproduction, territory, food, shelter, kin protection, and refusal of extinction.
+
 ## Mission and Reward Rules
 
 - Daily and weekly missions should normally be completable in any real player-interaction mode.
