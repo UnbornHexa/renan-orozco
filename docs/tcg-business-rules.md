@@ -70,6 +70,26 @@ Working faction-color affinities:
 - Government law-enforcement and defense groups may lean Yellow/Green when focused on protecting territory, survival, and social continuity.
 - Government science and investigation groups may lean Yellow/Blue when focused on research, surveillance, classification, and reproducible knowledge.
 
+First-set faction clarity:
+
+- Early factions should each strongly represent one color so the starting identity is easy for players to understand.
+- White: Mainline/Protector Yofunin, focused on duty, peace, protection, humanity's future, and saving common people.
+- Red: Slayer Yofunin, focused on strife, battle, direct action, and killing dangerous youkai.
+- Blue: Subduer Yofunin, focused on knowledge, sealing, investigation, restraint, and understanding youkai.
+- Yellow: Government/Occultech, focused on control, systems, surveillance, research, security, and reproducible anti-youkai answers.
+- Green: Born/Natural Youkai, focused on survival, species continuity, territory, adaptation, and finding their place in the world.
+- Purple: Desire-born/consuming Youkai, focused on pleasure, selfish instinct, appetite, harmful manifestation, fear-feeding, and destructive consumption.
+
+Color favoritism warning:
+
+- Avoid creating a Light/Dark-style gravity problem where White and Purple become the only truly important colors.
+- White and Purple may be central philosophical poles, but all colors need major characters, story relevance, strong cards, beautiful art, and competitive archetypes.
+- White must not simply mean "good."
+- Purple must not simply mean "evil."
+- Every color should have heroes, villains, sympathetic figures, monsters, and stars.
+- White can become fanaticism, repression, moral arrogance, martyrdom, and "for the greater good" cruelty.
+- Purple can include joy, sensuality, beauty, intimacy, acceptance of desire, and sympathetic indulgence, not only predation and corruption.
+
 ## Mission and Reward Rules
 
 - Daily and weekly missions should normally be completable in any real player-interaction mode.
