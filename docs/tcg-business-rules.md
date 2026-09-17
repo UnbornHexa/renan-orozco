@@ -173,6 +173,31 @@ Story safety note:
 - The story can examine predation, ambition, manipulation, aggression, and egoism without endorsing harm as morally correct.
 - The point is not that every desire is good; the point is that denied desire still shapes society from beneath the mask.
 
+## Scenario Strokes vs. Main Story
+
+The current worldbuilding rules are scenario-level strokes, not the final main story.
+
+Purpose of these strokes:
+
+- Define the world.
+- Define the major tensions.
+- Establish reusable story hooks.
+- Create faction motivations and ideological conflicts.
+- Give future sets and campaigns strong material to draw from.
+
+These hooks should remain available for the main story, but they should not prematurely force one fixed plotline before the actual story structure is planned.
+
+Current scenario hooks include:
+
+- Government desire to reproduce or steal Yofunin power.
+- Clan politics and elder council disputes.
+- Bloodline elitism versus outsider recruits awakened by youkai contact.
+- Yofunin disagreement between sealing, subduing, binding, slaying, and synchronizing with youkai.
+- Youkai radicalized by humanity's historical treatment.
+- Public exposure risks in an open-secret/mass-denial society.
+- The possibility that mass fear/desire makes youkai phenomena stronger.
+- The future evolution path from forced binding toward pacting, synchronization, or fusion.
+
 ## Humanity's Awareness of Youkai
 
 Current working direction: open secret / mass denial.
