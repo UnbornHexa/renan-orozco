@@ -55,6 +55,25 @@ Locked color-desire model:
 - Purple represents the desire for Pleasure / Consumption: indulgence, experience, selfish satisfaction, obsession, appetite, and destructive consumption.
 - Green represents the desire for Survival: endurance, adaptation, reproduction, territory, food, shelter, kin protection, and refusal of extinction.
 
+Locked color wheel:
+
+> White -> Yellow -> Blue -> Purple -> Red -> Green -> White
+
+Allied color pairs:
+
+- White/Yellow: higher ideals plus control; law, order, institutions, disciplined peace, and protective systems.
+- Yellow/Blue: control plus knowledge; research, surveillance, planning, technology, systems, and Occultech science.
+- Blue/Purple: knowledge plus pleasure/consumption; forbidden curiosity, occult secrets, obsession, and the desire to experience hidden truth.
+- Purple/Red: pleasure/consumption plus strife; violence, predation, passion, bloodlust, and indulgent destruction.
+- Red/Green: strife plus survival; fight to live, kill-or-be-killed instincts, primal conflict, and defending pack/species.
+- Green/White: survival plus higher ideals; protecting life, preserving family, defending the future, and sacred guardianship.
+
+Opposite color pairs:
+
+- White vs Purple: higher ideals against selfish pleasure, indulgence, and consumption.
+- Yellow vs Red: control and order against strife, chaos, violent action, and immediate conflict.
+- Blue vs Green: knowledge, analysis, and hidden truth against survival, instinct, and embodied endurance.
+
 Working faction-color affinities:
 
 - Yofunin are normally White because they are tied to higher ideals, protection, duty, peace, and humanity's future.
