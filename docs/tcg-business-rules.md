@@ -75,6 +75,69 @@ The safe design standard is:
 
 > Players may recognize a similar genre energy, but they should not recognize specific characters, factions, costumes, terminology, or plot structures.
 
+## Originality and Tone Pillars
+
+The project should aim for an original modern fantasy identity with dark, erotic, urban, mature, and exciting energy.
+
+Core desired appeal:
+
+- Sexy character designs mixed with violence, action, and awesomeness.
+- Edgy presentation that still respects the audience's intelligence.
+- A plot that takes itself seriously instead of treating itself as a joke.
+- Modern fantasy with dark themes and supernatural danger.
+- Characters who can be funny, expressive, and relaxed in their normal habitat.
+- Field/battle scenes that feel dangerous, intense, and consequential.
+- Villains who are allowed to be evil.
+- Factions that have nuance rather than being purely one-note.
+
+Major story themes:
+
+- Youkai and supernatural beings expose hidden desires, instincts, and contradictions.
+- Society often masks what people truly want or feel.
+- The story should explore instinct versus social order.
+- The story should explore self-acceptance without making every desire automatically safe, good, or harmless.
+- The world should allow moral ambiguity, faction conflict, and internal struggle.
+
+## Mature Content Boundaries
+
+The project should be mature, sexy, and erotic in tone, but not explicit pornography.
+
+Reasons:
+
+- The game should remain approachable for TCG players.
+- Players may be more comfortable expressing themselves online than with physical lewd playmats, but public perception still matters.
+- App/platform distribution and community growth become harder if the game is fully 18+ from the start.
+
+Working content rules:
+
+- No explicit sexual acts in normal card art.
+- No pornographic framing for core gameplay assets.
+- Humanoid characters should not show full bare breasts, genitals, or explicit sexual anatomy.
+- Sexy, suggestive, stylish, and erotic designs are allowed.
+- Monster or non-human anatomy may require case-by-case review, especially if nudity-like forms fit the creature design.
+- Violence and sexuality can coexist in the broader aesthetic, but the project should avoid using sexual harm as titillation.
+- Card art should be something players can reasonably show, stream, discuss, and collect without the game being treated as pornographic.
+
+Default target:
+
+> Mature and erotic, but not explicit.
+
+## Ninja, Clan, and Sengoku-Inspired Appeal
+
+The project may use ninja, clan, samurai, and Sengoku-inspired aesthetics because they are broadly appealing and commercially strong.
+
+Design goals:
+
+- Use ninja-like warriors, covert agents, clans, rivalries, and power struggles.
+- Preserve the appeal of clan identity, inheritance, betrayal, rivalry, martial discipline, and secret techniques.
+- Use Japanese-inspired aesthetics carefully while building original world rules and terminology.
+- Avoid turning the setting into a direct parallel of any existing franchise.
+
+Important distinction:
+
+- Ninjas, samurai, clans, and anti-demon warriors are broad concepts.
+- Specific franchise terms, characters, organizations, costumes, and story structures are not safe to copy.
+
 ## Artist Compensation Principles
 
 - Paying normal commissions is preferred whenever possible.
