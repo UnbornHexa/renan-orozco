@@ -55,6 +55,21 @@ Locked color-desire model:
 - Purple represents the desire for Pleasure / Consumption: indulgence, experience, selfish satisfaction, obsession, appetite, and destructive consumption.
 - Green represents the desire for Survival: endurance, adaptation, reproduction, territory, food, shelter, kin protection, and refusal of extinction.
 
+Working faction-color affinities:
+
+- Yofunin are normally White because they are tied to higher ideals, protection, duty, peace, and humanity's future.
+- Slayer Yofunin are normally White/Red because they pursue protection through strife, battle, and decisive killing.
+- Subduer Yofunin are normally White/Blue because they pursue protection through understanding, sealing, restraint, investigation, and control of information.
+- Traditionalist/caretaker Yofunin are normally White/Green because they preserve clans, bloodlines, homes, traditions, and survival across generations.
+- Youkai are often Purple because many are born from terrible instincts, selfish desire, appetite, and destructive consumption.
+- Soul-eating youkai are normally Purple/Red because they combine selfish consumption with violence, bloodshed, predation, and direct conflict.
+- Divine Beasts are normally White because they are tied to reverence, higher ideals, protection, and transformation through positive human feeling.
+- Born youkai tend toward Green because they are a species of the world trying to survive and find their place in it.
+- Youkai formed from bad feelings tend toward Purple and may often be straightforwardly harmful or monstrous.
+- Governments are Yellow by nature because they pursue control, order, authority, security, and systems.
+- Government law-enforcement and defense groups may lean Yellow/Green when focused on protecting territory, survival, and social continuity.
+- Government science and investigation groups may lean Yellow/Blue when focused on research, surveillance, classification, and reproducible knowledge.
+
 ## Mission and Reward Rules
 
 - Daily and weekly missions should normally be completable in any real player-interaction mode.
