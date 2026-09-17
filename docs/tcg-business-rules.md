@@ -237,6 +237,34 @@ Core concealment principle:
 
 > Society hides youkai because the truth would reveal not only monsters outside humanity, but also the monsters and desires inside humanity's own systems.
 
+## Human Occultech Programs
+
+Human governments and research institutions are actively trying to create their own answers to the youkai threat.
+
+Working term: Occultech.
+
+Occultech means the fusion of occult knowledge, spiritual phenomena, youkai materials, ritual theory, modern science, engineering, biotechnology, weapons development, and surveillance systems.
+
+Core purposes:
+
+- Detect youkai incidents without relying entirely on Yofunin clans.
+- Reproduce, imitate, or industrialize Yofunin spiritual abilities.
+- Develop anti-youkai weapons, containment systems, barriers, sensors, and countermeasures.
+- Create government-controlled forces that can respond to youkai threats directly.
+- Reduce political dependence on independent Yofunin clans.
+
+Story risks:
+
+- Governments may exploit youkai materials, captured youkai, or human test subjects.
+- Occultech programs may create artificial Yofunin, enhanced soldiers, unstable hybrids, or weaponized spiritual reactors.
+- Scientific attempts to control occult forces may worsen the boundary between humanity and youkai.
+- Occultech can become a morally gray or antagonistic human faction depending on leadership, region, and methods.
+- Yofunin clans may see Occultech as necessary, insulting, dangerous, or an attempt to replace them.
+
+Story function:
+
+> Occultech represents humanity trying to systematize, industrialize, and control the supernatural instead of relying on inherited clan traditions.
+
 ## Youkai Metaphysics
 
 Youkai can be born in two major ways:
