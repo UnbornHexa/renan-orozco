@@ -255,6 +255,7 @@ Important distinction:
 ## Naming Direction
 
 - Avoid using "Exorcist" as the main identity term for the game's primary supernatural warriors, even if exorcism describes part of what they do.
+- Official working name until further notice: Yofunin.
 - The main warrior term should feel like an in-universe identity, order, caste, clan role, or profession rather than a generic fantasy job title.
 - A generic descriptor such as "exorcist" can be used in explanations, but the official name should be more distinctive.
 - Naming should support the project's mature urban fantasy, ninja/clan, youkai, and hidden-desire themes.
@@ -264,7 +265,8 @@ Important distinction:
 
 Working concept:
 
-- The main human-side warriors fill the story role of exorcist clan fighters, though "Exorcist" should not be their final official name.
+- The main human-side warriors are called Yofunin until further notice.
+- They fill the story role of exorcist clan fighters, but "Exorcist" should remain only a generic descriptor.
 - They are primarily women trained through clan traditions to protect humanity's future and save common people from youkai threats.
 - Because the project has mature and erotic aesthetics, sexualized or eroticized protagonist characters should be adults.
 - Their mission is not only killing youkai; they are also trained to seal, subdue, suppress, bind, banish, or contain youkai.
