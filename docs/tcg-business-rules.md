@@ -321,6 +321,44 @@ Internal protagonist-side positions:
 
 This faction should embody the setting's core question: whether instinct and the monstrous can be mastered and balanced, or whether it must be rejected and destroyed.
 
+## Yofunin Social Structure and Government Relationship
+
+The Yofunin are organized through independent clans.
+
+Clan structure:
+
+- Yofunin clans are allied to each other.
+- The clans maintain a council of elders.
+- The council provides coordination, tradition, judgment, and dispute resolution.
+- Individual clans remain largely independent.
+- There is no official structure of subservience to national governments.
+
+Government relationship:
+
+- Governments know the Yofunin exist.
+- Governments call upon Yofunin clans for help with youkai incidents.
+- Yofunin are tolerated, useful, and often allied with governments.
+- This alliance is unofficial, secretive, and politically delicate.
+- Governments want to acquire, reproduce, or control Yofunin spiritual power if possible.
+- Government interest in replicating Yofunin powers can create tension, research programs, exploitation, and future antagonists.
+
+Power inheritance and recruitment:
+
+- Bloodline matters.
+- Some clan members are born more or less talented depending on the thickness or strength of their Yofunin blood.
+- Spiritual power depends partly on bloodline strength.
+- Training remains necessary; talent alone is not enough.
+- Deep contact with youkai can increase spiritual sensitivity and enhance latent spiritual power.
+- Some non-clan or weak-blooded people may be recruited after surviving deep youkai contact or showing awakened sensitivity.
+
+Public presence:
+
+- Common people barely know the Yofunin exist.
+- Most civilians know them only through rumors, urban legends, or distorted folklore.
+- Yofunin clans maintain civilian facades.
+- Some may publicly appear as miko, shrine families, traditional practitioners, martial houses, local protectors, or other ordinary social roles.
+- Their secrecy is supported by the fact that they are effectively supernatural ninjas.
+
 ## Yofunin Power Foundation
 
 The Yofunin should use a Japanese anime-inspired blend of:
