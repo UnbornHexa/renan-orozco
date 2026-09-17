@@ -109,6 +109,25 @@ Color favoritism warning:
 - White can become fanaticism, repression, moral arrogance, martyrdom, and "for the greater good" cruelty.
 - Purple can include joy, sensuality, beauty, intimacy, acceptance of desire, and sympathetic indulgence, not only predation and corruption.
 
+White / Mainline Protector Yofunin details:
+
+- They believe in the real oath of the Yofunin.
+- Their oath is to protect common people and keep threats at bay.
+- This is commonly understood as protecting humans, but the deeper interpretation can extend to youkai who seek coexistence.
+- They do not come from a single clan; limiting them to one clan would make the story too narrow.
+- Their public roles vary character by character based on clan, cover identity, region, and personal life.
+- Story function: flagship faction, mascot identity for the game, and the main point-of-view lane for the Yofunin protagonist.
+- Character feel: larger than life, inspiring, heroic, and memorable.
+- Some may be kind and merciful, while others may be more extreme, but they should still carry a heroic aura.
+
+White / Mainline Protector Yofunin visual direction:
+
+- Avoid copying the full bodysuit aesthetic associated with existing inspirations.
+- Use varied fictionalized miko-inspired clothing, shrine-warrior elements, ritual garments, battle robes, charms, sashes, exposed shoulders, slits, layered fabric, armor accents, and supernatural ninja equipment.
+- The clothing may be erotic, mature, and stylish, but should remain distinct from existing franchise costume language.
+- Designs should match the Yofunin vibe: sacred, dangerous, feminine, disciplined, supernatural, and action-ready.
+- Because real religious imagery may be referenced, the setting should fictionalize and transform it enough to feel like its own anime-world tradition.
+
 ## Mission and Reward Rules
 
 - Daily and weekly missions should normally be completable in any real player-interaction mode.
