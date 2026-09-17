@@ -138,6 +138,14 @@ Important distinction:
 - Ninjas, samurai, clans, and anti-demon warriors are broad concepts.
 - Specific franchise terms, characters, organizations, costumes, and story structures are not safe to copy.
 
+## Naming Direction
+
+- Avoid using "Exorcist" as the main identity term for the game's primary supernatural warriors, even if exorcism describes part of what they do.
+- The main warrior term should feel like an in-universe identity, order, caste, clan role, or profession rather than a generic fantasy job title.
+- A generic descriptor such as "exorcist" can be used in explanations, but the official name should be more distinctive.
+- Naming should support the project's mature urban fantasy, ninja/clan, youkai, and hidden-desire themes.
+- Names should be checked later for trademark, searchability, pronunciation, and unwanted similarity to existing franchises.
+
 ## Artist Compensation Principles
 
 - Paying normal commissions is preferred whenever possible.
