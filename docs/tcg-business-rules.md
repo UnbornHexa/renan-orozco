@@ -118,6 +118,46 @@ Major story themes:
 - The story should explore self-acceptance without making every desire automatically safe, good, or harmless.
 - The world should allow moral ambiguity, faction conflict, and internal struggle.
 
+## Central Conflict
+
+The central conflict is between human civilization and natural youkai.
+
+Human civilization represents:
+
+- Social order.
+- Law, institutions, and collective ideals.
+- Restraint, self-control, and the ability to rise above instinct.
+- Hypocrisy, denial, and self-deception.
+- The tendency to condemn raw predation while recreating it through socially acceptable systems.
+- Ambition hidden under professionalism, debt, hierarchy, manipulation, and status games.
+
+Youkai represent:
+
+- Primality.
+- Ego, hunger, aggression, lust, ambition, fear, pride, and instinct.
+- Desires humans still carry but often deny.
+- Natural honesty about appetite and power.
+- The danger of living only by one's heart without restraint.
+- The uncomfortable truth that civilization does not erase instinct.
+
+The thematic tension:
+
+- Humanity rejects youkai as monsters because they embody desires humans want to deny.
+- Youkai see humanity as hypocritical, cowardly, and dishonest about its own nature.
+- Humanity cannot fully flee instinct, but it also is not only instinct.
+- Society has real virtues: protection, cooperation, compassion, ideals, art, law, and self-transcendence.
+- Youkai have real truth: honesty, vitality, freedom, instinct, and directness.
+- Neither side should be portrayed as purely correct.
+
+The core dramatic question:
+
+> Can desire and instinct be integrated into a higher self, or will people either deny themselves until they become hypocrites or surrender to appetite until they become monsters?
+
+Story safety note:
+
+- The story can examine predation, ambition, manipulation, aggression, and egoism without endorsing harm as morally correct.
+- The point is not that every desire is good; the point is that denied desire still shapes society from beneath the mask.
+
 ## Mature Content Boundaries
 
 The project should be mature, sexy, and erotic in tone, but not explicit pornography.
