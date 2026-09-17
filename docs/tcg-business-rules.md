@@ -153,10 +153,49 @@ The core dramatic question:
 
 > Can desire and instinct be integrated into a higher self, or will people either deny themselves until they become hypocrites or surrender to appetite until they become monsters?
 
+Working thematic answer:
+
+- Instinct should be mastered and balanced, not erased.
+- The lower soul and higher soul need to speak to each other.
+- Life is a conversation between what one wants to do and what one should do.
+- The ideal path is not denial of desire and not surrender to desire, but integration, discipline, and self-knowledge.
+
+Initial human-youkai relationship:
+
+- Most of humanity begins hostile or fearful toward youkai.
+- Most youkai understand that humans have a place in the world, but many still hold hostile views toward humanity.
+- Humanity's treatment of youkai over time has radicalized many youkai.
+- This makes the conflict historical and political, not merely natural.
+- Future protagonist growth may include upgraded forms based on fusion, synchronization, pacting, or integration with youkai.
+
 Story safety note:
 
 - The story can examine predation, ambition, manipulation, aggression, and egoism without endorsing harm as morally correct.
 - The point is not that every desire is good; the point is that denied desire still shapes society from beneath the mask.
+
+## Humanity's Awareness of Youkai
+
+This is an open setting decision.
+
+Known baseline:
+
+- Governments and major powers know youkai exist.
+- Specialized forces and major clans know youkai exist.
+- The main warrior groups are directly connected to this hidden conflict.
+
+Possible models:
+
+1. Masquerade: common people mostly do not know youkai are real.
+2. Open secret: common people know rumors, incidents, and folk explanations, but society officially denies or minimizes the truth.
+3. Public reality: common people broadly know youkai exist and society openly organizes around that fact.
+
+Current recommended direction:
+
+- Use an open-secret or mass-denial model.
+- This fits the core theme: society denies youkai just as it denies instinct.
+- Ordinary people may have heard rumors, seen partial evidence, or believe local stories, but official institutions explain incidents away as crime, terrorism, disasters, disease, or urban legend.
+- This allows governments, clans, corporations, and occult groups to operate knowingly while the common public remains uncertain, misled, or willfully avoidant.
+- Future story arcs can escalate public awareness as the hidden conflict becomes harder to contain.
 
 ## Mature Content Boundaries
 
