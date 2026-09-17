@@ -277,6 +277,38 @@ Youkai cultural tension:
 - This view is not entirely wrong: humanity does alter them.
 - The deeper truth is more nuanced: humanity may also impart a higher ideal, giving a youkai a purpose beyond the next meal, the next fear, or the next act of instinct.
 
+## Youkai Society
+
+Youkai society should remain diverse, fragmented, and mythic rather than acting like one unified nation.
+
+General structure:
+
+- Youkai are more spread out and less centralized than humanity.
+- Many live according to patterns similar to real-world folklore and common youkai media portrayals.
+- Large youkai groups usually form around specific leaders, powerful figures, ideals, plans, or charismatic monsters.
+- These leaders polarize lesser youkai and give them direction.
+- There is no single universal youkai government by default.
+
+Smaller youkai lifestyles:
+
+- Some try to live among humans in disguise or on the margins.
+- Some are innocent, harmless, lonely, curious, or simply trying to fit in.
+- Some are frightening by nature but not actively malicious.
+- Some are harmful predators who deliberately create fear, obsession, or suffering to feed themselves.
+- Some become criminals, cult figures, urban legends, or hidden companions to humans.
+
+Feeding and threat levels:
+
+- Many youkai feed on bad feelings directed toward them, such as fear, hate, jealousy, and dread.
+- Some youkai take direct action to create stronger fear or emotional fixation.
+- More dangerous youkai may feed directly on human souls to gain power quickly.
+- Soul-feeding youkai are detected more quickly by Yofunin clans and governments because they leave stronger spiritual traces, casualties, disappearances, or social disruption.
+- Soul-feeding should mark a youkai as a higher-priority threat.
+
+Story function:
+
+> Youkai should range from hidden neighbors to terrifying predators, allowing the story to show both coexistence potential and genuine danger.
+
 ## Mature Content Boundaries
 
 The project should be mature, sexy, and erotic in tone, but not explicit pornography.
