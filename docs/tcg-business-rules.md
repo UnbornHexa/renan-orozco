@@ -26,6 +26,24 @@ This document is not legal advice. Before signing agreements with artists, contr
 - Normal gameplay versions of cards should be craftable.
 - Premium art versions may cost more, have special acquisition routes, or be booster/event chase items.
 
+## Color and Faction Design Model
+
+- Colors should be thematic and mechanical identities, not one-to-one faction labels.
+- The color system should work similarly to a design "color pie": each color has associated traits, mechanics, keywords, strengths, and weaknesses.
+- Card design should obey color identity so future cards remain consistent and balanceable.
+- Factions should have one or two native/favored colors that represent their usual philosophy, methods, or power sources.
+- Factions may still include members or cards from other colors when the character, plot, or gameplay role supports it.
+- A faction's story identity should influence its colors, but should not imprison every member of that faction in the same color.
+- Players should be able to build color-specific decks using cards from multiple factions if those cards support the chosen strategy.
+- Set stories may push factions toward new alliances, splashes, or temporary color expressions, but the core color identities should remain stable.
+
+Recommended design order:
+
+1. Define what each color means mechanically and thematically.
+2. Define each faction's primary and secondary color affinities.
+3. Design faction cards that fit both faction flavor and color identity.
+4. Let set-specific plot events create exceptions, hybrids, and splashes.
+
 ## Mission and Reward Rules
 
 - Daily and weekly missions should normally be completable in any real player-interaction mode.
