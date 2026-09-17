@@ -196,6 +196,22 @@ Chosen model:
 - This allows governments, clans, corporations, and occult groups to operate knowingly while the common public remains uncertain, misled, or willfully avoidant.
 - Future story arcs can escalate public awareness as the hidden conflict becomes harder to contain.
 
+## Government Concealment Rationale
+
+Reasons vary by leader, region, institution, and faction, but the general blanket reason for hiding youkai incidents is layered:
+
+- Public knowledge could cause panic, social instability, economic damage, religious upheaval, conspiracy spirals, and violence against suspected youkai-linked people.
+- Governments cannot easily admit that they cannot fully protect the public from youkai.
+- Disclosure would expose generations of lies, coverups, illegal operations, secret clans, special forces, and past casualties.
+- Some governments, corporations, militaries, and research groups benefit from youkai-related materials, relics, weapons, contracts, or enhancement programs.
+- Public attention, fear, desire, and belief may make youkai phenomena stronger or harder to contain.
+- Some leaders sincerely believe humanity is not ready for the truth.
+- Some leaders hide the truth out of cowardice, corruption, strategic necessity, or hunger for control.
+
+Core concealment principle:
+
+> Society hides youkai because the truth would reveal not only monsters outside humanity, but also the monsters and desires inside humanity's own systems.
+
 ## Mature Content Boundaries
 
 The project should be mature, sexy, and erotic in tone, but not explicit pornography.
