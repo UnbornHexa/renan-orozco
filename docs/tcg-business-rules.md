@@ -175,7 +175,7 @@ Story safety note:
 
 ## Humanity's Awareness of Youkai
 
-This is an open setting decision.
+Current working direction: open secret / mass denial.
 
 Known baseline:
 
@@ -183,13 +183,12 @@ Known baseline:
 - Specialized forces and major clans know youkai exist.
 - The main warrior groups are directly connected to this hidden conflict.
 
-Possible models:
+Rejected or secondary models:
 
 1. Masquerade: common people mostly do not know youkai are real.
-2. Open secret: common people know rumors, incidents, and folk explanations, but society officially denies or minimizes the truth.
-3. Public reality: common people broadly know youkai exist and society openly organizes around that fact.
+2. Public reality: common people broadly know youkai exist and society openly organizes around that fact.
 
-Current recommended direction:
+Chosen model:
 
 - Use an open-secret or mass-denial model.
 - This fits the core theme: society denies youkai just as it denies instinct.
