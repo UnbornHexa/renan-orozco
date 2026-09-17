@@ -31,6 +31,7 @@ This document is not legal advice. Before signing agreements with artists, contr
 - Colors should be thematic and mechanical identities, not one-to-one faction labels.
 - Because the core gameplay rules are not defined yet, color mechanics should remain provisional.
 - Colors can be discussed philosophically first, then revisited once the game's resource system, combat system, card types, and turn structure are clearer.
+- Colors should represent major desires, instincts, worldviews, and methods of acting within the central conflict.
 - The color system should work similarly to a design "color pie": each color has associated traits, mechanics, keywords, strengths, and weaknesses.
 - Card design should obey color identity so future cards remain consistent and balanceable.
 - Factions should have one or two native/favored colors that represent their usual philosophy, methods, or power sources.
@@ -45,6 +46,12 @@ Recommended design order:
 2. Define each faction's primary and secondary color affinities.
 3. Design faction cards that fit both faction flavor and color identity.
 4. Let set-specific plot events create exceptions, hybrids, and splashes.
+
+Initial color-philosophy anchor:
+
+- Red represents warlike desire, violent assertion, passion, aggression, rage, bloodshed, and direct conflict.
+- Red can include Slayer-leaning Yofunin, human-hating youkai, warlike clans, berserkers, revenge seekers, and factions that solve the world through force.
+- This is a philosophical assignment first; exact mechanics will be defined later.
 
 ## Mission and Reward Rules
 
