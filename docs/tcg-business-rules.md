@@ -212,6 +212,46 @@ Core concealment principle:
 
 > Society hides youkai because the truth would reveal not only monsters outside humanity, but also the monsters and desires inside humanity's own systems.
 
+## Youkai Metaphysics
+
+Youkai can be born in two major ways:
+
+1. Reproduction between existing youkai.
+2. Manifestation from accumulated human desire, fear, and imagination.
+
+Manifested youkai:
+
+- Are formed from concentrated human emotion, instinct, fear, desire, and mythic imagination.
+- Embody the instincts humanity carries but often denies.
+- Can arise when humanity repeatedly imagines, fears, or gives shape to an uncontrollable force.
+- Example inspiration: ancient fear of overflowing rivers could give rise to a great serpent calamity like the Yamata no Orochi mythic archetype.
+
+Reproduced youkai:
+
+- Are born biologically or spiritually from existing youkai.
+- Are guided by instinct, desire, and primal nature.
+- Are not necessarily made from human desire in the same way manifested youkai are.
+- Still often interact with human emotion, fear, belief, and social perception.
+
+Emotional nourishment:
+
+- Youkai are normally strengthened by negative human feelings directed toward them, such as fear, hate, jealousy, resentment, obsession, and dread.
+- Youkai can also be affected by positive human feelings such as admiration, reverence, devotion, awe, and gratitude.
+- Positive emotional nourishment is rare and poorly understood by most youkai.
+
+Divine Beasts:
+
+- Some youkai who are nourished or transformed by positive feelings may become Divine Beasts.
+- Divine Beasts represent a higher or more revered form of youkai existence.
+- Mythic inspiration: the relationship between Inari-like divinity and fox/kitsune symbolism.
+- Most youkai either do not know this transformation is possible, do not believe it, or reject it as unnatural.
+
+Youkai cultural tension:
+
+- Many youkai see transformation through human admiration or reverence as disgusting because it means humanity has changed their nature.
+- This view is not entirely wrong: humanity does alter them.
+- The deeper truth is more nuanced: humanity may also impart a higher ideal, giving a youkai a purpose beyond the next meal, the next fear, or the next act of instinct.
+
 ## Mature Content Boundaries
 
 The project should be mature, sexy, and erotic in tone, but not explicit pornography.
