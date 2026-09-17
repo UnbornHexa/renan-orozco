@@ -260,6 +260,25 @@ Important distinction:
 - Naming should support the project's mature urban fantasy, ninja/clan, youkai, and hidden-desire themes.
 - Names should be checked later for trademark, searchability, pronunciation, and unwanted similarity to existing franchises.
 
+## Primary Protagonist-Side Faction Concept
+
+Working concept:
+
+- The main human-side warriors fill the story role of exorcist clan fighters, though "Exorcist" should not be their final official name.
+- They are primarily women trained through clan traditions to protect humanity's future and save common people from youkai threats.
+- Because the project has mature and erotic aesthetics, sexualized or eroticized protagonist characters should be adults.
+- Their mission is not only killing youkai; they are also trained to seal, subdue, suppress, bind, banish, or contain youkai.
+- Different members, clans, or schools disagree on whether youkai should be subdued when possible or slain as threats.
+- This creates an internal ideological divide within the protagonist side.
+
+Internal protagonist-side positions:
+
+- Subduers: believe youkai can sometimes be sealed, restrained, negotiated with, studied, or eventually integrated.
+- Slayers: believe dangerous youkai should be destroyed quickly to protect humanity.
+- Pragmatists: choose sealing or killing depending on threat level, political pressure, mission constraints, and personal history.
+
+This faction should embody the setting's core question: whether instinct and the monstrous can be mastered and balanced, or whether it must be rejected and destroyed.
+
 ## Artist Compensation Principles
 
 - Paying normal commissions is preferred whenever possible.
