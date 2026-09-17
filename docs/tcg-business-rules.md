@@ -343,6 +343,16 @@ Core technique families:
 - Shinobi arts: stealth, misdirection, mobility, substitution, traps, poisons, wires, kunai, and close-range assassination.
 - Pact or synchronization arts: future advanced techniques where a Yofunin integrates, fuses, contracts, or resonates with youkai power.
 
+Youkai binding:
+
+- Some Yofunin can forcibly bind or enslave youkai into service through old Onmyodo-inspired methods.
+- This can resemble shikigami-like control, coerced contracts, command seals, name-binding, or spiritual domination.
+- This method is powerful but dangerous and should be handled as morally and spiritually risky.
+- Bound youkai may resent their masters, sabotage orders, corrupt the user, or become more dangerous if control breaks.
+- Coerced binding can deepen youkai hatred toward humanity and reinforce the setting's cycle of radicalization.
+- Different Yofunin clans may disagree strongly over whether forced binding is a necessary weapon, an outdated cruelty, or a forbidden art.
+- This practice can become one foundation for later fusion/evolution mechanics, especially when the story contrasts domination with true balance, pacting, or synchronization.
+
 Design goal:
 
 > Yofunin should feel like clan-trained supernatural shinobi-priestesses who can fight, seal, purify, deceive, and eventually integrate youkai power.
