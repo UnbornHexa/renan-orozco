@@ -39,6 +39,42 @@ This document is not legal advice. Before signing agreements with artists, contr
 - Login bonuses should exist.
 - New-player campaigns should be generous and help players reach their first functional deck quickly.
 
+## Legal and IP Safety
+
+The project should be an original universe, not a fan project or renamed version of any existing property.
+
+General concepts can inspire the project, but specific protected expression must be avoided.
+
+Potentially acceptable broad inspirations:
+
+- Dark action.
+- Supernatural warfare.
+- Exorcist, anti-demon, or occult warriors.
+- Ninja-like agents or covert fighters.
+- Demons, spirits, monsters, and forbidden powers.
+- Mature tone.
+- Cyberpunk, occult, military, or urban-fantasy influences.
+
+Forbidden or high-risk elements:
+
+- Existing franchise names.
+- Existing character names.
+- Existing character likenesses.
+- Recognizable costumes, silhouettes, weapons, or color/personality combinations.
+- Existing faction names, organization names, logos, and symbols.
+- Existing plotlines or direct parallel versions of existing characters.
+- Terminology that is strongly associated with one existing franchise.
+
+Working rule for the term "Taimanin":
+
+- Do not use "Taimanin" as a project term, faction name, card type, class, title, or marketing keyword.
+- Even if the broad idea can be described as "anti-demon ninja" or "exorcist ninja," the specific term "Taimanin" is strongly associated with an existing franchise and should be treated as off-limits.
+- If the game uses exorcist-like ninja agents, they should receive original names, lore, terminology, visual design, and cultural framing.
+
+The safe design standard is:
+
+> Players may recognize a similar genre energy, but they should not recognize specific characters, factions, costumes, terminology, or plot structures.
+
 ## Artist Compensation Principles
 
 - Paying normal commissions is preferred whenever possible.
